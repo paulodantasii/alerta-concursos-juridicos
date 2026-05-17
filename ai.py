@@ -11,9 +11,9 @@ from config import CAREER_LABELS
 logger = logging.getLogger(__name__)
 
 # Configurações da API da IA / AI API settings
-AI_API_KEY = os.environ.get("AI_API_KEY", os.environ.get("GROQ_API_KEY", os.environ.get("OPENAI_API_KEY", "")))
-AI_MODEL = "llama-3.3-70b-versatile"
-AI_URL = "https://api.groq.com/openai/v1/chat/completions"
+AI_API_KEY = os.environ.get("AI_API_KEY", os.environ.get("ANTHROPIC_API_KEY", os.environ.get("GROQ_API_KEY", os.environ.get("OPENAI_API_KEY", ""))))
+AI_MODEL = "claude-haiku-4-5"
+AI_URL = "https://api.anthropic.com/v1/messages"
 
 # Instruções de comportamento da IA / AI behavior instructions
 PROMPT_RELEVANCE = """Sua tarefa é avaliar se o conteúdo abaixo é uma atualização, previsão, ou divulgação, de edital, concurso, processo seletivo, certame, ou similares, que sejam relevantes
@@ -79,12 +79,11 @@ def call_ai_api(system_prompt: str, user_content: str) -> str:
     """Faz a chamada HTTP para a API da IA com lógica de repetição / Makes the HTTP call to the AI API with retry logic"""
     payload = {
         "model": AI_MODEL,
+        "system": system_prompt,
         "messages": [
-            {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_content}
         ],
         "max_tokens": 2048,
-        "response_format": {"type": "json_object"},
     }
     for attempt in range(3):
         try:
@@ -92,18 +91,19 @@ def call_ai_api(system_prompt: str, user_content: str) -> str:
                 AI_URL,
                 headers={
                     "Content-Type": "application/json",
-                    "Authorization": f"Bearer {AI_API_KEY}",
+                    "x-api-key": AI_API_KEY,
+                    "anthropic-version": "2023-06-01",
                 },
                 json=payload,
                 timeout=45,
             )
             resp.raise_for_status()
             data = resp.json()
-            choice = data["choices"][0]
-            content = choice["message"].get("content")
-            finish_reason = choice.get("finish_reason", "unknown")
+            content_list = data.get("content", [])
+            content = content_list[0].get("text") if content_list else ""
+            finish_reason = data.get("stop_reason", "unknown")
             if not content:
-                logger.warning("API da IA retornou conteúdo vazio (finish_reason=%s) na tentativa %d/3", finish_reason, attempt + 1)
+                logger.warning("API da IA retornou conteúdo vazio (stop_reason=%s) na tentativa %d/3", finish_reason, attempt + 1)
                 if attempt < 2:
                     time.sleep(10 * (attempt + 1))
                 continue
