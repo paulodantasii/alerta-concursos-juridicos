@@ -12,7 +12,7 @@ logger = logging.getLogger(__name__)
 
 # Configurações da API da IA / AI API settings
 AI_API_KEY = os.environ.get("AI_API_KEY", os.environ.get("GROQ_API_KEY", os.environ.get("OPENAI_API_KEY", "")))
-AI_MODEL = "llama-3.3-70b-versatile"
+AI_MODEL = "groq/compound"
 AI_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 # Instruções de comportamento da IA / AI behavior instructions
