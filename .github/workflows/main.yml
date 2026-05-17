@@ -28,7 +28,7 @@ jobs:
 
       - name: Executar scraper / Run scraper
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
         run: python scraper.py
 
       - name: Salvar logs como artifact / Upload logs as artifact

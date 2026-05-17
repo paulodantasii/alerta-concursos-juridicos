@@ -11,9 +11,9 @@ from config import CAREER_LABELS
 logger = logging.getLogger(__name__)
 
 # Configurações da API da IA / AI API settings
-AI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
-AI_MODEL = "gpt-5.2"
-AI_URL = "https://api.openai.com/v1/chat/completions"
+AI_API_KEY = os.environ.get("AI_API_KEY", os.environ.get("GROQ_API_KEY", os.environ.get("OPENAI_API_KEY", "")))
+AI_MODEL = "llama-3.3-70b-versatile"
+AI_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 # Instruções de comportamento da IA / AI behavior instructions
 PROMPT_RELEVANCE = """Sua tarefa é avaliar se o conteúdo abaixo é uma atualização, previsão, ou divulgação, de edital, concurso, processo seletivo, certame, ou similares, que sejam relevantes
@@ -76,15 +76,14 @@ def normalize_group(g: str) -> str:
     return g
 
 def call_ai_api(system_prompt: str, user_content: str) -> str:
-    """Faz a chamada HTTP para a API da OpenAI com lógica de repetição / Makes the HTTP call to the OpenAI API with retry logic"""
+    """Faz a chamada HTTP para a API da IA com lógica de repetição / Makes the HTTP call to the AI API with retry logic"""
     payload = {
         "model": AI_MODEL,
         "messages": [
-            {"role": "developer", "content": system_prompt},
+            {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_content}
         ],
-        "max_completion_tokens": 50000,
-        "verbosity": "high",
+        "max_tokens": 2048,
         "response_format": {"type": "json_object"},
     }
     for attempt in range(3):
@@ -104,7 +103,7 @@ def call_ai_api(system_prompt: str, user_content: str) -> str:
             content = choice["message"].get("content")
             finish_reason = choice.get("finish_reason", "unknown")
             if not content:
-                logger.warning("OpenAI retornou conteúdo vazio (finish_reason=%s) na tentativa %d/3", finish_reason, attempt + 1)
+                logger.warning("API da IA retornou conteúdo vazio (finish_reason=%s) na tentativa %d/3", finish_reason, attempt + 1)
                 if attempt < 2:
                     time.sleep(10 * (attempt + 1))
                 continue
@@ -115,11 +114,11 @@ def call_ai_api(system_prompt: str, user_content: str) -> str:
                 body = e.response.text[:500]
             except Exception:
                 pass
-            logger.error("OpenAI tentativa %d/3 falhou [HTTP %s]: %s | body: %s", attempt + 1, e.response.status_code if e.response is not None else "?", e, body)
+            logger.error("API da IA tentativa %d/3 falhou [HTTP %s]: %s | body: %s", attempt + 1, e.response.status_code if e.response is not None else "?", e, body)
             if attempt < 2:
                 time.sleep(10 * (attempt + 1))
         except Exception as e:
-            logger.error("OpenAI tentativa %d/3 falhou: %s", attempt + 1, e)
+            logger.error("API da IA tentativa %d/3 falhou: %s", attempt + 1, e)
             if attempt < 2:
                 time.sleep(10 * (attempt + 1))
     return ""
