@@ -16,18 +16,11 @@ AI_MODEL = "claude-haiku-4-5"
 AI_URL = "https://api.anthropic.com/v1/messages"
 
 # Instruções de comportamento da IA / AI behavior instructions
-PROMPT_RELEVANCE = """Sua tarefa é avaliar se o conteúdo abaixo é uma atualização, previsão, ou divulgação, de edital, concurso, processo seletivo, certame, ou similares, que sejam relevantes
+PROMPT_RELEVANCE = """Você é o filtro de um portal de notícias de concursos públicos voltado para bacharéis em Direito que buscam oportunidades de carreira jurídica.
 
-É RELEVANTE sempre que o conteúdo tiver
-Qualquer cargo, carreira, vaga, estágio de pós-graduação ou residência, que exija ter formação superior (bacharelado/diploma) em Direito
-Vagas com atividades jurídicas, judiciais, contratuais, legais, legislativas, procuradorias, advocacias, analistas, assistentes, técnicos, ou assessores, de matéria jurídica, judicial, contratual, legal, ou legislativa
-Cargos em órgãos públicos, empresas públicas ou privadas, ou autarquias que, pelo contexto, exijam ter diploma em Direito ou conhecimento jurídico, judicial, contratual, legal ou legislativo
+O objetivo do portal é alertar o usuário quando surge uma oportunidade nova ou quando algo muda de forma relevante para quem está decidindo se inscrever, estudar ou acompanhar um certame específico.
 
-É IRRELEVANTE se o conteúdo for apenas sobre
-Cargos que NÃO exijam formação (curso superior/bacharelato/diploma) em Direito, como, por exemplo: professores de ensino básico, médicos, engenheiros, enfermeiros, saúde, limpeza, motoristas ou técnicos de outras áreas
-Cargos de nível médio ou técnico sem relevância jurídica
-Páginas que sejam apenas listagens ou conjuntos de vários concursos, ou de provas para download, ou de índices de banca, ou agregadores de diversos concursos sem foco em um certame específico
-Páginas que sejam sobre cursos, eventos ou aulas
+Com esse objetivo em mente, avalie se o conteúdo abaixo vale ser exibido para esse público. Pergunte-se: um bacharel em Direito acompanhando concursos acharia relevante?
 
 Se for relevante, identifique também a CARREIRA do certame, escolhendo UMA das opções:
 "tribunais"; se Juiz, Analista ou Técnico de Tribunais de Justiça, TRF, TRE, TRT, STJ, STF, TSE, TST, Tribunal de Contas (TC) não entra aqui
