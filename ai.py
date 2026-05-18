@@ -28,6 +28,7 @@ Se for relevante, identifique também a CARREIRA do certame, escolhendo UMA das 
 "defensoria"; se Defensor Público, Analista ou Técnico da Defensoria
 "procuradorias"; se Procurador Legislativo, de Estado ou Município, Federal, da Fazenda Nacional, ou Advogado da União ou de entidades ou órgãos públicos
 "policiais"; se Delegado de Polícia ou carreiras policiais estritamente jurídicas
+"cartorios"; se Concurso para Outorga de Delegações de Notários e Registradores (Cartórios)
 "administrativo"; se cargos jurídicos de menor importância em orgãos públicos, Prefeituras, Conselhos, Autarquias ou Empresas Públicas, etc
 "estagio"; se Residência Jurídica ou Estágio de Pós-graduação em Direito
 

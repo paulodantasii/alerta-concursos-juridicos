@@ -111,6 +111,7 @@ CAREER_LABELS = {
     "defensoria": ("Defensoria Pública", "#104E8B"),
     "procuradorias": ("Procuradorias", "#8B4513"),
     "policiais": ("Carreiras Policiais", "#2F4F4F"),
+    "cartorios": ("Cartórios e Notas", "#8B008B"),
     "administrativo": ("Administrativo e Seletivo", "#B8860B"),
     "estagio": ("Residência e Estágio", "#228B22"),
 }
