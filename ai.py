@@ -142,6 +142,14 @@ def _validate_evaluation(data) -> dict:
     return result
 
 
+def _clean_json_string(s: str) -> str:
+    """Remove marcações de bloco de código markdown (```json ... ```) / Strips markdown code block wrappers"""
+    s = s.strip()
+    s = re.sub(r"^```(?:json)?\s*", "", s, flags=re.IGNORECASE)
+    s = re.sub(r"\s*```$", "", s)
+    return s.strip()
+
+
 def evaluate_relevance(url: str, title: str, text: str) -> dict:
     """Envia o conteúdo da página para a IA e retorna uma avaliação validada / Sends page content to the AI and returns a validated evaluation"""
     if not AI_API_KEY:
@@ -155,10 +163,11 @@ def evaluate_relevance(url: str, title: str, text: str) -> dict:
     if not response:
         return {"relevant": False, "reason": "empty response from AI"}
 
+    cleaned = _clean_json_string(response)
     try:
-        raw = json.loads(response)
+        raw = json.loads(cleaned)
     except json.JSONDecodeError:
-        return {"relevant": False, "reason": "error parsing response", "raw_response": response}
+        return {"relevant": False, "reason": f"error parsing response: {cleaned}", "raw_response": response}
 
     result = _validate_evaluation(raw)
     result["raw_response"] = response
@@ -187,14 +196,15 @@ def consolidate_groups(relevant_items: list) -> None:
         logger.warning("Falha na consolidação de grupos: sem resposta da IA.")
         return
 
+    cleaned = _clean_json_string(response)
     try:
-        mapping = json.loads(response)
+        mapping = json.loads(cleaned)
         if isinstance(mapping, dict):
             for i, item in enumerate(relevant_items):
                 str_i = str(i)
                 if str_i in mapping:
                     item["group"] = normalize_group(mapping[str_i])
     except json.JSONDecodeError:
-        logger.warning("Falha na consolidação de grupos: resposta não é JSON.")
+        logger.warning("Falha na consolidação de grupos: resposta não é JSON. Limpo: %s", cleaned)
     except Exception as e:
         logger.warning("Falha na consolidação de grupos: %s", e)
