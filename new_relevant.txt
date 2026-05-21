@@ -1,251 +1,257 @@
-Verificação: 2026-05-20T12:40:39.894679+00:00
-Links analisados: 165
-Links relevantes: 41
+Verificação: 2026-05-21T14:23:19.922110+00:00
+Links analisados: 183
+Links relevantes: 42
 ============================================================
 
-Title:   Prefeitura de Caxingó - PI abre concurso público para diversos cargos
-URL:     https://www.pciconcursos.com.br/noticias/prefeitura-de-caxingo-pi-abre-concurso-publico-para-diversos-cargos
+Title:   Prefeitura de Jardinópolis - SP retifica concurso público para diversos cargos
+URL:     https://www.pciconcursos.com.br/noticias/prefeitura-de-jardinopolis-sp-retifica-concurso-publico-para-diversos-cargos
+Career:   administrativo
+Group:   prefeitura-jardinopolis-sp-diversos-cargos
+Reason:  Retificação de edital do concurso da Prefeitura de Jardinópolis-SP com alteração no conteúdo programático para o cargo de Médico I Proctologista. O certame oferece vagas para cargos jurídicos: Advogado CREAS (1 vaga), Procurador Jurídico (1 vaga), Auditor de Controle Interno (1 vaga) e Assistentes Sociais. Inscrições de 6/5 a 8/6/2026 via VUNESP, provas em 26/7/2026. Salários de R$ 1.621 a R$ 5.883,47 mais alimentação.
+
+Title:   Prefeitura de Cantagalo - PR abre concurso com vagas para diversos níveis e salários de até R$ 9.684,80
+URL:     https://www.pciconcursos.com.br/noticias/prefeitura-de-cantagalo-pr-abre-concurso-com-vagas-para-diversos-niveis-e-salarios-de-ate-9684
+Career:   administrativo
+Group:   prefeitura-cantagalo-pr-gestor-conveniios-contratos
+Reason:  Concurso da Prefeitura de Cantagalo-PR com vaga para Auditor Fiscal de Tributos (1 vaga + CR), cargo de nível superior que exige formação específica. Inclui também vagas para Gestor de Convênios e Contratos, ambos com remuneração inicial de até R$ 9.684,80. Seleção por prova objetiva e prova de títulos, com inscrições de 25 de maio a 15 de junho de 2026 via site da Unioeste. Validade de 2 anos, prorrogável.
+
+Title:   Concurso Prefeitura de Boa Vista do Sul-RS 2026
+URL:     https://www.acheconcursos.com.br/concursos-rio-grande-do-sul/concurso-prefeitura-boa-vista-do-sul-rs-2026-90293
+Career:   administrativo
+Group:   prefeitura-boa-vista-do-sul-rs-controlador-interno
+Reason:  Concurso da Prefeitura de Boa Vista do Sul-RS com 13 vagas em diversos níveis. Para bacharéis em Direito, destaca-se a vaga de Controlador Interno, que aceita candidatos com formação em Direito, exigindo curso superior em Ciências Contábeis, Direito ou Administração com registro no respectivo conselho, salário de R$ 4.629,92. Também há oportunidades em cargos técnicos e profissionais diversos (Engenheiro Civil, Fonoaudiólogo, Médico Veterinário, Pedagogo, etc.). Inscrições de 22 de maio a 21 de junho de 2026, prova objetiva em 12 de julho de 2026.
+
+Title:   Câmara de Santiago do Sul-SC lança concurso público para dois cargos
+URL:     https://www.acheconcursos.com.br/concursos-santa-catarina/concurso-publico-camara-santiago-do-sul-sc-lanca-para-dois-cargos-90288
+Career:   administrativo
+Group:   camara-santiago-do-sul-sc-analista-administrativo
+Reason:  Concurso público da Câmara Municipal de Santiago do Sul-SC com oportunidade para Analista Administrativo que aceita Direito como formação aceita. O cargo exige ensino superior completo em Administração, Ciências Contábeis ou Direito, com registro no órgão de classe quando exigível. Oferece cadastro de reserva (CR), salário de R$ 2.213,40 + R$ 308,50 de vale alimentação, regime estatutário. Inscrições abertas de 25 de maio a 25 de junho de 2026 pela Fundação Fafipa, com taxa de R$ 100,00. Prova objetiva prevista para 19 de julho com 50 questões abordando Português, Matemática, Informática, Legislação e Conhecimentos Específicos. Validade de dois anos, prorrogável por mais dois anos.
+
+Title:   Prefeitura Goiás-GO 2026 lança edital para 7 cargos
+URL:     https://www.acheconcursos.com.br/concursos-goias/prefeitura-goias-go-2026-lanca-edital-para-7-cargos-90290
+Career:   administrativo
+Group:   prefeitura-goias-go-psicologo-odontologista
+Reason:  Processo seletivo da Prefeitura de Goiás com 34 vagas em contratações temporárias. Destaca-se a oportunidade para Psicólogo PAIF/CRAS (1 vaga, R$ 2.700) e Odontólogo (1 vaga, R$ 4.000), ambos cargos de nível superior. Seleção por análise de títulos e experiência profissional, sem prova escrita. Inscrições presenciais em 25-26 de maio de 2026. Embora a maioria dos cargos não exija formação jurídica, as vagas para profissionais de nível superior (Psicólogo e Odontólogo) podem interessar bacharéis em Direito que buscam diversificar atuação ou complementar carreira em serviços públicos municipais.
+
+Title:   Câmara de Jaborandi-SP abre concurso público para 3 cargos
+URL:     https://www.acheconcursos.com.br/concursos-sao-paulo/concurso-publico-camara-jaborandi-sp-3-cargos-90284
+Career:   procuradorias
+Group:   camara-jaborandi-sp-procurador-legislativo
+Reason:  Concurso para Procurador Legislativo na Câmara Municipal de Jaborandi-SP com salário de R$ 6.649,07 e jornada de 20h semanais. Exige formação em Direito e registro na OAB. Prova escrita eliminatória e classificatória com 50 questões (Português, Matemática, Informática e Conhecimentos Específicos) marcada para 14 de junho de 2026, com avaliação de títulos como etapa classificatória. Inscrições até 29 de maio de 2026 com taxa de R$ 100,00.
+
+Title:   Prefeitura e Câmara de Anchieta-SC tem concurso aberto
+URL:     https://www.acheconcursos.com.br/concursos-santa-catarina/concurso-aberto-prefeitura-camara-anchieta-sc-90265
+Career:   administrativo
+Group:   prefeitura-anchieta-sc-analista-licitacao-contratacao
+Reason:  Concurso para Analista de Licitação e Contratação na Prefeitura de Anchieta-SC, exigindo graduação em Direito entre outras formações. Cargo com salário de R$ 4.442,81 mensais, 40 horas semanais. Inscrições abertas de 19 de maio a 17 de junho de 2026, com prova objetiva marcada para 5 de julho. Taxa de inscrição R$ 130,00 com possibilidade de isenção. Concurso válido por dois anos, prorrogável.
+
+Title:   Concurso Caxingó-PI 2026: Edital tem 24 vagas de até R$ 3,2 mil
+URL:     https://www.acheconcursos.com.br/concursos-piaui/concurso-caxingo-pi-2026-edital-24-vagas-3-2-mil-90264
 Career:   administrativo
 Group:   prefeitura-caxingo-pi-auditor-tributos
-Reason:  Concurso para Auditor de Obras e Auditor de Tributos em prefeitura do Piauí. Ambos são cargos de nível superior que podem atrair bacharéis em Direito, especialmente o de Auditor de Tributos, que envolve questões tributárias e legais. O concurso oferece 1 vaga para cada cargo, com remuneração de R$ 3.242,00, regime estatutário, e seleção por prova objetiva marcada para agosto de 2026. Inscrições abertas de maio a junho de 2026 pelo site Legatus.
+Reason:  Concurso público da Prefeitura de Caxingó-PI com 24 vagas. Possui cargo de Auditor de Tributos (nível superior em Direito, Contábeis, Economia ou Administração) com salário de R$ 2.500,00 e 1 vaga. A prova objetiva ocorre em 23 de agosto de 2026, com 40 questões incluindo Língua Portuguesa, Raciocínio Lógico-Matemático, Noções de Informática e Conhecimentos Específicos e Locais, com pontuação mínima de 36 pontos na disciplina específica. Inscrições de 19 de maio a 15 de junho de 2026, com taxa de R$ 135,00.
 
-Title:   Prefeitura de Santa Tereza - RS abre seleções para Servente e Controlador Interno
-URL:     https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-tereza-rs-abre-selecoes-para-servente-e-controlador-interno
+Title:   Concurso Banco Central: Galípolo pede autonomia para lançar novo edital
+URL:     https://www.acheconcursos.com.br/noticias/concurso-banco-central-galipolo-pede-autonomia-para-lancar-novo-edital-90274
 Career:   administrativo
-Group:   prefeitura-santa-tereza-rs-controlador-interno
-Reason:  Cargo de Controlador Interno em município do RS, posição que pode exigir formação em Direito conforme legislação local. Embora seja seleção simplificada com análise curricular, representa oportunidade em área de controle interno municipal com remuneração de R$ 6.366,65 e contratação por até 6 meses prorrogável.
+Group:   bacen-brasil-varios-cargos
+Reason:  Notícia sobre perspectiva de novo concurso no Banco Central com 560 vagas solicitadas (410 auditores, 110 técnicos, 40 procuradores). Presidente do BC argumentou publicamente pela necessidade de reposição de pessoal devido a aposentadorias e falta de servidores para fiscalização. Último edital perdeu validade em março/2026 e não há mais cadastro de reserva. Governo deve decidir até 31 de maio sobre inclusão no orçamento. Para bacharéis em Direito, interessa especialmente a carreira de Procurador (exige graduação em Direito + 2 anos prática forense, salário inicial R$ 24.967,31), mas também o cargo de Auditor pode atrair.
 
-Title:   Prefeitura de Ibiraçu - ES suspende concurso público
-URL:     https://www.pciconcursos.com.br/noticias/prefeitura-de-ibiracu-es-suspende-concurso-publico
+Title:   Câmara de Arujá - SP retifica concurso público com salários de até R$ 15,6 mil
+URL:     https://www.pciconcursos.com.br/noticias/camara-de-aruja-sp-retifica-concurso-publico-com-salarios-de-ate-15-6-mil
 Career:   administrativo
-Group:   prefeitura-ibiracu-es-multiplos-cargos
-Reason:  Suspensão do Concurso Público nº 001/2026 da Prefeitura de Ibiraçu-ES devido à aprovação de lei municipal sobre reserva de vagas para negros. O edital e cronograma serão adequados à nova legislação de ações afirmativas. Candidatos precisam acompanhar atualizações no site do IDCAP para novas datas de inscrição e divulgação de resultados de impugnações.
+Group:   camara-aruja-sp-analista-juridico
+Reason:  Retificação de edital da Câmara de Arujá-SP que altera requisitos do cargo de Técnico Legislativo de Mídias Sociais (agora aceitando cursos de Comunicação Social, Publicidade, Jornalismo, etc.) e critérios de reserva para pessoas com deficiência. O concurso oferece vaga para Analista Jurídico com prova discursiva, além de outros cargos administrativos. Salários de R$ 4,8 a R$ 15,6 mil. Inscrições de 27/04 a 13/07/2026 via www.igecs.org.br. Provas objetivas em 30/08/2026.
 
-Title:   Edital Santo Antônio da Barra-GO 2026: Prefeitura abre concurso com 284 vagas
-URL:     https://www.acheconcursos.com.br/concursos-goias/edital-santo-antonio-da-barra-go-2026-prefeitura-abre-concurso-com-284-vagas-90261
+Title:   FESF-SUS - BA abre seleção com salários de até R$ 8 mil
+URL:     https://www.pciconcursos.com.br/noticias/fesf-sus-ba-abre-selecao-com-salarios-de-ate-8-mil
 Career:   administrativo
-Group:   prefeitura-santo-antonio-da-barra-go-coordenador-cras-creas
-Reason:  Concurso com 284 vagas em prefeitura de Goiás. Para bacharéis em Direito, destaca-se as oportunidades em cargos de nível superior: Coordenador do CRAS e Coordenador do CREAS, ambos aceitando profissional com formação em Direito (salário R$ 3.500,00). Também há vaga para Assistente Social com possível interesse correlato. Inscrições de 22 de junho a 22 de julho de 2026, prova objetiva em 30 de agosto. Certame de médio porte com múltiplas etapas (objetiva, títulos, aptidão física, prática) conforme o cargo.
+Group:   fesf-sus-salvador-ba-analista-saude-direito
+Reason:  Seleção pública simplificada da FESF-SUS em Salvador/BA com vaga específica para Analista em Saúde Bacharel(a) em Direito (1 vaga AC + 1 vaga PCD). O cargo oferece salário de até R$ 8.159,26, benefícios como auxílio-alimentação e jornada de 40 horas semanais. Contrato por prazo determinado de até 12 meses. Inscrições exclusivas por e-mail entre 20 e 27 de maio de 2026. Seleção com análise de requisitos básicos e curricular.
 
-Title:   Edital CRT-SP 2026: Processo seletivo abre 710 vagas; salários de até R$ 10.600
-URL:     https://www.acheconcursos.com.br/concursos-sao-paulo/processo-seletivo-edital-crt-sp-2026-710-vagas-salarios-10-600-90249
-Career:   administrativo
-Group:   crt-sp-sao-paulo-sp-advogado
-Reason:  Processo seletivo do CRT-SP com 710 vagas distribuídas em múltiplos cargos e localidades. Destaca-se a oportunidade para bacharéis em Direito na carreira jurídica: cargo de Advogado com 50 vagas (cadastro de reserva) em São Paulo, salário de R$ 10.600,01 + benefícios, com prova objetiva (120 questões) e prova discursiva eliminatória. Inscrições até 6 de julho de 2026, provas em 2 de agosto de 2026. Também há vagas para cargos técnico-administrativos e de fiscal que podem interessar a formados em Direito.
-
-Title:   Edital Formosa do Sul-SC 2026 abre 53 vagas de até R$ 14,8 mil via concurso
-URL:     https://www.acheconcursos.com.br/concursos-santa-catarina/concurso-edital-formosa-sul-sc-2026-abre-53-vagas-14-8-mil-90242
-Career:   administrativo
-Group:   prefeitura-formosa-do-sul-sc-agente-de-compras-e-contratacoes-publicas
-Reason:  Concurso público para prefeitura de município em Santa Catarina com 53 vagas em diversos níveis. Destaca-se a vaga de 'Agente de Compras e Contratações Públicas' que exige Superior em Direito (entre outras formações), com salário de R$ 7.231,26. Embora a maioria das vagas não seja direcionada especificamente para bacharéis em Direito, essa posição representa oportunidade para a carreira jurídica em setor administrativo público municipal.
-
-Title:   Prefeitura de Córrego Fundo - MG abre concurso para Auditor Fiscal de Tributos e Técnico em Informática
-URL:     https://www.pciconcursos.com.br/noticias/prefeitura-de-corrego-fundo-mg-abre-concurso-para-auditor-fiscal-de-tributos-e-tecnico-em-informatica
-Career:   administrativo
-Group:   prefeitura-corrego-fundo-mg-auditor-fiscal-tributos
-Reason:  Concurso para Auditor Fiscal de Tributos em município de Minas Gerais. Cargo de nível superior com formação jurídica potencialmente aplicável à fiscalização tributária municipal. Remuneração de R$ 4.368,63, regime estatutário com estágio probatório de 3 anos. Prova objetiva e prova de títulos. Inscrições de 21/07 a 19/08/2026, prova em 13/09/2026. Uma oportunidade em localidade de menor competição que grandes centros.
-
-Title:   Prefeitura de Caraá - RS abre seleção para Auditor-Fiscal da Receita Municipal
-URL:     https://www.pciconcursos.com.br/noticias/prefeitura-de-caraa-rs-abre-selecao-para-auditor-fiscal-da-receita-municipal
-Career:   administrativo
-Group:   prefeitura-caraa-rs-auditor-fiscal-receita-municipal
-Reason:  Processo seletivo simplificado para Auditor-Fiscal da Receita Municipal em prefeitura do RS. Contratação por prazo determinado (até 2 anos prorrogáveis) em regime estatutário, com salário de R$ 4.918,61 mensais. Cargo de nível superior com jornada de 37,5h semanais. Seleção por análise de currículo e avaliação de títulos/experiência profissional. Inscrições presenciais de 20 a 29 de maio de 2026, com taxa de R$ 70,00. Oportunidade para profissionais de Direito com interesse em administração tributária municipal.
-
-Title:   Câmara de Seropédica - RJ retifica concursos com vagas imediatas e cadastro de reserva
-URL:     https://www.pciconcursos.com.br/noticias/camara-de-seropedica-rj-retifica-concursos-com-vagas-imediatas-e-cadastro-de-reserva
+Title:   Câmara de Jaborandi - SP abre concurso público com salários de até R$ 6.649,07
+URL:     https://www.pciconcursos.com.br/noticias/camara-de-jaborandi-sp-abre-concurso-publico-com-salarios-de-ate-6649
 Career:   procuradorias
-Group:   camara-seropedica-rj-procurador
-Reason:  Concurso da Câmara Municipal de Seropédica com duas vagas para Procurador (cargo jurídico), além de outros cargos administrativos. O cargo de Procurador exige formação superior em Direito e oferece 2 vagas imediatas e 20 vagas de cadastro de reserva, com remuneração inicial de até R$ 4.200,00. As provas estão marcadas para agosto de 2026, com inscrições de abril a maio de 2026. Também inclui cargo de Oficial Legislativo com 5 vagas.
+Group:   camara-jaborandi-sp-procurador-legislativo
+Reason:  Concurso público para Procurador Legislativo na Câmara Municipal de Jaborandi (SP), cargo que exige formação jurídica. A vaga oferece salário de até R$ 6.649,07 com jornada de 20 a 40 horas semanais. Inscrições de 20 a 29 de maio de 2026, com taxa de R$ 100,00. Seleção composta por prova escrita (14 de junho de 2026) e avaliação de títulos. Validade do concurso de 2 anos.
 
-Title:   MPM abre seleção para residência jurídica em Curitiba com bolsa de R$ 3,4 mil
-URL:     https://concursonews.com/2026/05/mpm-abre-selecao-para-residencia-juridica-em-curitiba-com-bolsa-de-r-34-mil/
+Title:   JFPR abre vagas para estágios em Curitiba, Astorga, Cascavel e Umuarama
+URL:     https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=30147
 Career:   estagio
-Group:   mpm-curitiba-residencia-juridica
-Reason:  Seleção para Residência Jurídica no Ministério Público Militar em Curitiba. Programa destinado a bacharéis em Direito com até 5 anos de formação (ou em pós-graduação), com bolsa mensal de R$ 3.461,96 e carga horária de 30h semanais. Processo seletivo com prova objetiva (25 questões de Direito, 5 de Português) e prova discursiva focada em Direito Processual Penal Militar. Inscrições de 19/05 a 07/06/2026, com confirmação presencial entre 08-11/06. Residência pode durar até 36 meses sem gerar vínculo empregatício. Inclui benefícios como recesso remunerado, auxílio-transporte e seguro contra acidentes. Validade do processo: 12 meses.
+Group:   jfpr-curitiba-cascavel-astorga-umuarama-pr-estagio-direito
+Reason:  Editais da JFPR para formação de cadastro de reserva e preenchimento de vagas de estágio em Direito em três cidades do Paraná (Astorga, Cascavel e Umuarama). Seleções com critérios e cronogramas distintos: Astorga por média e CPC sem prova presencial; Cascavel com prova discursiva em 27/05; Umuarama com prova objetiva e dissertativa em 03/06. Remuneração R$ 1.547,15 mensais mais auxílio-transporte. Bolsas de cotas para negros e PcD.
 
-Title:   Concurso Penal RN tem vagas e locais de prova confirmados | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-penal-rn-2026-projeto-basico
-Career:   policiais
-Group:   sesap-rn-policial-penal
-Reason:  Concurso para Policial Penal do RN com 260 vagas imediatas confirmadas. Documentos oficiais revelam estrutura de provas, disciplinas e locais de aplicação (Natal, Mossoró, Pau dos Ferros, Caicó). Para policial penal, provas incluem Direito Constitucional, Administrativo, Direitos Humanos, Execução Penal, Direito Penal e Processo Penal. Também há 54 vagas para especialistas (assistente social, psicólogo, terapeuta ocupacional, médico psiquiatra). Banca: Instituto Avalia. Expectativa de 32 mil inscritos. Último concurso foi em 2017.
-
-Title:   Concurso Prefeitura de São Sebastião do Rio Preto MG: 120 vagas abertas | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-prefeitura-de-sao-sebastiao-do-rio-preto-mg-120-vagas-abertas
-Career:   administrativo
-Group:   prefeitura-sao-sebastiao-do-rio-preto-mg-pss
-Reason:  Retificação do PSS de São Sebastião do Rio Preto MG com 120 vagas imediatas em cargos de todos os níveis. Para bacharéis em Direito, destaca-se a inclusão de cargos de nível superior como assistente social (3), enfermeiro (6), fisioterapeuta (1), fonoaudiólogo (1), psicólogo (3) e professor (13 vagas em diversas áreas). Salários variam de R$ 507,71 a R$ 15.388,86. Inscrições de 11 a 26 de maio de 2026, com provas objetivas em 14 de junho. Há reserva para PcD. A retificação incluiu novos cargos (pintor, auxiliar administrativo II) e atualizações de jornadas, vencimentos e atribuições. Contratação temporária com validade de 2 anos prorrogável.
-
-Title:   TJMS: Assembleia aprova 150 cargos para concurso público
-URL:     https://www.campograndenews.com.br/politica/aprovada-criacao-de-150-cargos-para-concurso-publico-no-tribunal-de-justica
+Title:   Concursos TRE: veja validade e situação atual dos editais | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/concursos-tre-tribunal-regional-eleitoral
 Career:   tribunais
-Group:   tj-mato-grosso-do-sul-analista-judiciario
-Reason:  Aprovação legislativa para criação de 150 cargos efetivos de analista judiciário no TJMS a serem preenchidos por concurso público. O edital ainda não foi lançado, mas trata-se de oportunidade confirmada em segunda discussão na Assembleia Legislativa de MS, motivada por relatório do CNJ sobre deficiências na seleção interna. O preenchimento será gradual conforme disponibilidade orçamentária. Contexto: TJMS registrou 42 milhões de movimentações processuais em 2024 e 773 mil processos em tramitação no primeiro grau em 2025.
+Group:   tre-brasil-analista-e-tecnico-judiciario
+Reason:  Artigo informativo sobre a situação atual dos concursos para Técnico Judiciário e Analista Judiciário nos 27 Tribunais Regionais Eleitorais (TREs) do país. Detalha vagas imediatas, cadastro de reserva, prazos de validade até maio/julho de 2027, possibilidade de prorrogação por mais dois anos, e perspectivas de novos editais em 2026 considerando as 2.458 vagas previstas no orçamento do Judiciário Federal. Inclui situação específica de cada TRE estadual.
 
-Title:   Conselho Regional abre concurso público com 800 vagas e salário de R$ 10 mil
-URL:     https://www.portaltemponovo.com.br/conselho-regional-abre-concurso-publico-com-800-vagas-e-salario-de-10-mil/
+Title:   PGM de Chopinzinho (PR) publica processo seletivo de estágio
+URL:     https://concursosnobrasil.com/concursos/pr/2026/05/20/pgm-de-chopinzinho-pr-publica-processo-seletivo-de-estagio/
+Career:   estagio
+Group:   pgm-chopinzinho-pr-estagio-direito
+Reason:  Processo seletivo de estágio em Direito na Procuradoria Geral do Município de Chopinzinho (PR), destinado a estudantes a partir do 3º ano de graduação. Oferece uma vaga imediata com bolsa de R$ 12,29/hora (carga de 30h semanais) mais auxílio-transporte. As atividades incluem acompanhamento de ações judiciais, elaboração de manifestações técnicas, pesquisas jurídicas e suporte às atividades da procuradoria. Seleção via prova escrita presencial com questões discursivas sobre Direito Administrativo e princípios administrativos, agendada para 12 de junho de 2026.
+
+Title:   Concurso TSE Unificado: resolução regulamenta criação de cargos | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/concurso-tse-unificado-2026-resolucao-criacao-de-cargos
+Career:   tribunais
+Group:   tse-brasilia-df-analista-e-tecnico-judiciario
+Reason:  A resolução aprovada pelo TSE regulamenta a criação de 474 cargos efetivos (242 técnicos judiciários e 232 analistas judiciários) distribuídos entre o TSE e todos os 27 TREs. O texto detalha a distribuição específica de vagas por tribunal e estabelece critérios para o provimento futuro dos aprovados no concurso TSE Unificado. Menciona que a LOA 2026 prevê 2.458 vagas para a Justiça Eleitoral (1.654 para provimento e 804 para criação), impactando diretamente as nomeações de candidatos aprovados. A regulamentação é essencial para clarificar o cronograma e possibilidades de convocação.
+
+Title:   Prefeitura de Porto Vitória PR abre processo seletivo com 9 vagas | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/prefeitura-de-porto-vitoria-pr-abre-processo-seletivo-com-9-vagas
 Career:   administrativo
-Group:   crt-sp-sao-paulo-sp-advogado
-Reason:  Concurso do Conselho Regional dos Técnicos Industriais com 800 vagas em São Paulo e Espírito Santo. Inclui cargo de Advogado com salário de R$ 10.600,01 e benefícios (vale-refeição, vale-alimentação, plano de saúde, vale-transporte). Também oferece vagas para Analista Administrativo e Analista Contábil em nível superior. Regime CLT, 40h semanais. Inscrições abertas até junho de 2026, provas em julho. Organizador: Instituto Quadrix.
+Group:   prefeitura-porto-vitoria-pr-assistente-social
+Reason:  Processo seletivo simplificado da Prefeitura de Porto Vitória PR com 9 vagas imediatas e cadastro de reserva. Destaca-se a vaga de assistente social em cadastro de reserva, exigindo formação superior em Serviço Social e registro no CRESS-PR, com remuneração de R$ 4.178,77 por 30 horas semanais. Também há oportunidade para médico veterinário em cadastro de reserva. Inscrições de 20 de maio a 3 de junho de 2026, prova em 21 de junho. Regime CLT, validade de 1 ano prorrogável. Inclui cotas para PcD (5%) e negros/pardos (10%). Taxa de inscrição para superior: R$ 100, com possibilidade de isenção para CadÚnico.
 
-Title:   Concurso ALECE terá vagas ampliadas! Edital iminente!
-URL:     https://blog.grancursosonline.com.br/concurso-alece-vagas-ampliadas-2026/amp
+Title:   Concurso Câmara de Santiago do Sul/SC: Analista Administrativo e Contador
+URL:     https://concursossc.com.br/concurso-camara-de-santiago-do-sul-sc-analista-administrativo-e-contador/
 Career:   administrativo
-Group:   al-ce-analista-legislativo
-Reason:  Concurso para Assembleia Legislativa do Ceará com ampliação de vagas aprovada pela Mesa Diretora e em análise no Plenário. Oferecerá 200 vagas imediatas + 400 de cadastro de reserva para cargos de Analista Legislativo (diversas especialidades) e Técnico Legislativo, níveis médio e superior. Banca IDECAN já definida (30/04/2026). Termo de Referência publicado (05/05/2026). Remuneração inicial de R$ 2,8 mil a R$ 5,7 mil. Edital iminente conforme indicado no título.
+Group:   camara-santiago-do-sul-sc-contador
+Reason:  Concurso para Contador em Câmara Municipal de Santa Catarina, com 1 vaga e cadastro de reserva para Analista Administrativo. Cargo de Contador oferece remuneração de R$ 2.940,52 com carga horária de 10h semanais, sob regime estatutário. Processo seletivo com prova objetiva (19 de julho de 2026) e prova de títulos. Inscrições abertas de 25 de maio a 25 de junho de 2026, taxa de R$ 100,00, com possibilidade de isenção. Estágio probatório de 3 anos e validade de 2 anos.
 
-Title:   Concurso da Assembleia de Roraima ultrapassa 32 mil inscritos - Roraima na Rede
-URL:     https://www.roraimanarede.com.br/noticia/concurso-da-assembleia-de-roraima-ultrapassa-32-mil-inscritos
-Career:   administrativo
-Group:   al-boa-vista-rr-procurador
-Reason:  Concurso da Assembleia Legislativa de Roraima com 226 vagas em 36 cargos de níveis médio e superior. Destaque para cargos jurídicos: Analista Legislativo – Controle Interno (1.088 inscritos) e Analista Legislativo – Planejamento e Orçamento (1.017 inscritos), além de Técnico Legislativo. Salários iniciais de R$ 5.815,15 a R$ 39.589,56. Provas objetivas e discursivas marcadas para 28 de junho em Boa Vista. Banca: Fundação Carlos Chagas. Concurso já com inscrições homologadas (32.659 total), apresentando informações sobre cronograma e número de candidatos por cargo.
+Title:   Concurso TCE AC: assinado contrato com banca e edital de conselheiro substituto já pode sair
+URL:     https://jcconcursos.com.br/noticia/concursos/concurso-tce-ac-assinado-contrato-com-banca-e-edital-de-conselheiro-substituto-ja-pode-sair-142718
+Career:   tribunais
+Group:   tce-acre-conselheiro-substituto
+Reason:  Concurso para Conselheiro Substituto (Auditor) do TCE/AC com 1 vaga e cadastro reserva. Cargo de nível superior com remuneração inicial de R$ 37.731,81. Contrato com banca (Cebraspe) já assinado, edital iminente. Seleção em 4 fases: prova objetiva eliminatória/classificatória, prova discursiva eliminatória/classificatória, prova oral eliminatória e avaliação de títulos classificatória. Informação relevante sobre proximidade da publicação do edital e estrutura do certame.
 
-Title:   Concurso Polícia Científica TO: justiça determina publicação de edital em até 100 dias - Blog Magistrar Educacional
-URL:     https://magistrarcursos.com.br/blog/concurso-pc-to-justica-determina-publicacao-de-edital-em-ate-100-dias/
-Career:   policiais
-Group:   policia-cientifica-tocantins-perito
-Reason:  Concurso para cargos periciais na Polícia Científica do Tocantins determinado judicialmente. Oferece 69 vagas para Perito Criminal, Perito Médico Legista, Papiloscopista e Agente de Necrotomia, com salários de R$ 9.274,48 a R$ 11.133,31. Édital deve ser publicado em até 100 dias. Alguns cargos aceitam formação em Direito (Perito Criminal exige superior em área compatível). Inclui múltiplas fases: prova objetiva, TAF, avaliação psicológica, investigação social e curso de formação.
+Title:   MPRO abre seleção para residência em Ariquemes e Ji-Paraná - News Rondônia
+URL:     https://newsrondonia.com.br/concurso/2026/05/20/mpro-abre-selecao-para-residencia-em-ariquemes-e-ji-parana/
+Career:   estagio
+Group:   mpro-ariquemes-ji-parana-ro-residencia-juridica
+Reason:  Seleção para Programa de Residência Jurídica pelo MP de Rondônia com foco em pós-graduandos em Direito (Penal, Processual Penal e Civil). Atuação no Núcleo de Atendimento às Vítimas em Ariquemes e Ji-Paraná. Exige índice acadêmico mínimo de 8,0 na graduação e matrícula em pós-graduação compatível. Bolsa mensal de R$ 2.700, 30 horas semanais, duração inicial de 6 meses com possibilidade de prorrogação até 3 anos. Inscrições abertas até 8 de junho. Inclui políticas de inclusão para pessoas com deficiência, negros e indígenas.
 
-Title:   Sancionado projeto de lei que cria cargos na Assembleia do Ceará e novo edital pode sair
-URL:     https://ceisc.com.br/blog/post/sancionado-projeto-de-lei-que-cria-cargos-na-assembleia-do-ceara-e-novo-edital-pode-sair
-Career:   administrativo
-Group:   al-ce-analista-legislativo
-Reason:  Sanção de projeto de lei que cria novas vagas na Assembleia Legislativa do Ceará, com expectativa de edital para 2026. O certame oferecerá aproximadamente 200 vagas diretas e 400 de cadastro de reserva para cargos de Analista e Técnico Legislativo em nível médio e superior. Será o maior concurso da história da casa, conforme anúncio do presidente. Último edital foi publicado em 2021 pelo Cebraspe, com remunerações iniciais de R$ 2.224,90 (médio) e R$ 4.455,29 (superior).
+Title:   TJRN abre seleção de estágio com 322 vagas em todo o RN
+URL:     https://agorarn.com.br/ultimas/tjrn-selecao-estagio-322-vagas-todo-o-rn/
+Career:   estagio
+Group:   tj-rn-estagio-graduacao
+Reason:  Seleção de estágio de graduação no TJRN com 322 vagas de referência distribuídas em gabinetes judiciais, secretarias do primeiro grau e unidades administrativas do Tribunal, abrangendo todas as 53 comarcas do RN. Embora contemple múltiplas áreas (Direito, Psicologia, Serviço Social, etc.), a oportunidade para estudantes de Direito é significativa, com atuação em unidades judiciárias. Processo seletivo por desempenho acadêmico (CRG, CPC e IGC), com cotas de 30% para negros e 10% para pessoas com deficiência. Remuneração de R$ 1.315,00 mensais mais R$ 170,00 de auxílio-transporte em jornada de 20 horas semanais. Inscrições de 21/05 a 03/06/2026, resultado em 19/08/2026.
 
-Title:   Concurso da Prefeitura de Praia Grande (SP): últimas horas de inscrição para cargos que pagam até R$ 25 mil
-URL:     https://jcconcursos.com.br/noticia/concursos/concurso-prefeitura-praia-grande-sp-ultimas-horas-de-inscricao-para-cargos-que-pagam-ate-r-25-mil-142720
+Title:   Concurso Praia Grande SP: inscrições encerram nesta quarta, dia 20. Até R$25 mil! - Central de Concursos
+URL:     https://centraldeconcursos.com.br/noticia/concurso-praia-grande-sp-inscricoes-encerram-nesta-quarta-dia-20-ate-r25-mil
 Career:   procuradorias
 Group:   prefeitura-praia-grande-sp-procurador
-Reason:  Concurso da Prefeitura de Praia Grande com 23 vagas em nível fundamental e superior, incluindo cargo de Procurador (carreira jurídica) com salário de R$ 25 mil. O edital específico para Procurador apresenta três fases: prova objetiva (14 de junho), análise de títulos (18-20 de agosto) e avaliação prático-profissional (23 de agosto). Regime estatutário. Inscrições encerram em 20 de junho via site do Ibam. Validade do certame por um ano, prorrogável.
+Reason:  Concurso para Procurador da Prefeitura de Praia Grande, SP, com 1 vaga para bacharel em Direito. Cargo de procurador municipal responsável pela assessoria jurídica e representação legal do município. Inscrições encerram no dia 20 de maio de 2026, com salário até R$25 mil. Oportunidade de carreira na área de procuradorias públicas municipais.
 
-Title:   Mais de 180 vagas para Vigia, Enfermeiro, Professor e outros cargos: concurso da Prefeitura encerra inscrições nesta semana - Notícias Concursos
-URL:     https://noticiasconcursos.com.br/mais-de-180-vagas-para-vigia-enfermeiro-professor-e-outros-cargos-concurso-da-prefeitura-encerra-inscricoes-nesta-semana/
+Title:   Câmara Municipal de Arujá SP abre concurso com vagas e salários de até R$15.659 | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/camara-municipal-de-aruja-sp-abre-concurso-com-vagas-e-salarios-de-ate-r-15-659
 Career:   administrativo
-Group:   prefeitura-cajari-ma-assessor-juridico
-Reason:  Concurso para Prefeitura de Cajari (MA) com 1 vaga de Assessor Jurídico, cargo que exige formação superior em Direito. A posição oferece salário de R$ 3.000,00 mensais e está inserida em seleção com 189 vagas totais abrangendo diversos níveis. O certame inclui prova objetiva eliminatória (40 questões, mínimo 60 pontos) e prova discursiva específica para o cargo jurídico (elaboração de peça jurídica, nota mínima 30). Inscrições encerram em 22/05/2026, prova objetiva em 21/06/2026. Taxa de inscrição R$ 135.
+Group:   camara-aruja-sp-analista-juridico
+Reason:  Concurso para Câmara Municipal de Arujá SP com cargo específico de analista jurídico (exige diploma em Direito e OAB), salário de R$ 15.659,70, além de cargos como coordenador de licitação que também demandam formação jurídica. Inscrições abertas até julho de 2026, provas em agosto. Também oferece oportunidades em cargos administrativos e técnicos para profissionais de outras áreas, mas o destaque é a posição jurídica com remuneração expressiva e benefícios (vale-alimentação, refeição, seguro saúde). Regime CLT com estabilidade avaliativa.
 
-Title:   Resultado definitivo do Programa de Residência Jurídica é divulgado
-URL:     https://www.tjto.jus.br/comunicacao/noticias/resultado-definitivo-do-programa-de-residencia-juridica-e-divulgado
-Career:   estagio
-Group:   tj-to-residencia-juridica
-Reason:  Divulgação do resultado definitivo da Residência Jurídica com Acesso à Pós-Graduação em Prática Judiciária (PRJud) do Tribunal de Justiça do Tocantins. O certame oferece formação prática e teórica em nível de pós-graduação, com cronograma claro para assinatura de termo de compromisso (21-29 de maio), matrícula e início das atividades. Informação relevante para candidatos classificados que precisam cumprir prazos iminentes.
-
-Title:   IFPE abre seleção de estágio remunerado no Recife com bolsas de até R$ 1 mil
-URL:     https://concursonews.com/2026/05/ifpe-abre-selecao-de-estagio-remunerado-no-recife-com-bolsas-de-ate-r-1-mil/
-Career:   estagio
-Group:   ifpe-recife-pe-estagio-direito
-Reason:  Seleção de estágio remunerado no IFPE Recife com vagas específicas para Direito (2 vagas imediatas + cadastro reserva). O estágio é destinado a estudantes de nível superior regularmente matriculados, com bolsa mensal de R$ 1.055,89, jornada de 20 horas semanais e duração de até 2 anos. A seleção ocorre por análise de desempenho acadêmico sem prova objetiva. Inscrições até 25 de maio de 2026.
-
-Title:   Edital CRT SP publicado! São 710 vagas CR e até R$ 10,6 mil
-URL:     https://www.estrategiaconcursos.com.br/blog/concurso-crt-sp-edital-publicado-2026/
+Title:   MT abre vagas com salários de até R$ 28 mil | Folha 5
+URL:     https://www.folha5.com.br/concursos/mt-abre-vagas-com-salarios-de-ate-r-28-mil/18162
 Career:   administrativo
-Group:   crt-sp-sao-paulo-sp-advogado
-Reason:  Concurso para Advogado no CRT-SP (Conselho Regional dos Técnicos Industriais de SP) com 50 vagas em cadastro de reserva. Cargo de nível superior com salário de R$ 10.600,01 e benefícios (vale refeição, alimentação, plano de saúde). Edital publicado, inscrições até 6 de julho e prova objetiva + prova discursiva em 2 de agosto. Oportunidade relevante para bacharéis em Direito buscando carreira em órgão de conselho profissional com remuneração acima da média.
+Group:   prefeitura-campo-novo-do-parecis-mt-assistente-social
+Reason:  Prefeitura de Campo Novo do Parecis oferece vagas para Assistente Social (cargo jurídico em órgão público) com salário até R$ 28.728,09. Além disso, a Câmara de Colíder-MT abre vaga para Advogado Público com remuneração até R$ 4.582,86. Ambas as oportunidades são relevantes para bacharéis em Direito em busca de carreira no setor público municipal.
 
-Title:   TJRN abre seleção para estágio de pós-graduação em Direito em Parnamirim – Portal N10
-URL:     https://portaln10.com.br/empregos/selecao-no-tjrn-oferece-estagio-de-pos-graduacao-em-direito-em-parnamirim-337117/
-Career:   estagio
-Group:   tj-rn-parnamirim-estagio-pos-graduacao
-Reason:  Seleção para estágio de pós-graduação em Direito na 2ª Vara Cível da Comarca de Parnamirim (TJRN). Oferece uma vaga imediata mais cadastro de reserva, com bolsa-auxílio de R$ 2.060,00 mensais (além de auxílio-transporte), jornada de 30 horas semanais e duração de até 2 anos. Processo seletivo com prova discursiva (10/06) e entrevista + análise curricular (17/06). Inscrições até 25/05 via e-mail. Oportunidade de formação prática em tribunal de justiça estadual.
-
-Title:   AJ abre novo processo seletivo para habilitação ao Mestrado Profissional em Direito da UFSC - Academia Judicial - Poder Judiciário de Santa Catarina
-URL:     https://www.tjsc.jus.br/web/academia-judicial/-/aj-abre-novo-processo-seletivo-para-habilitacao-para-o-mestrado-profissional-em-direito-da-ufsc?redirect=%2Fweb%2Facademia-judicial%2Fnoticias
-Career:   estagio
-Group:   tj-sc-mestrado-profissional-direito
-Reason:  Processo seletivo para habilitação prévia ao Mestrado Profissional em Direito da UFSC, aberto a magistrados vitalícios (20 vagas) e servidores efetivos do Poder Judiciário de Santa Catarina (8 vagas). Requisito: diploma de graduação em Direito ou áreas afins. Curso com duração de 24 meses, início previsto para segundo semestre de 2026, com aulas quinzenais às sextas-feiras. Inscrições abertas de 19 de maio a 8 de junho de 2026 na página da Academia Judicial do PJSC.
-
-Title:   Edital para Residência Jurídica
-URL:     https://sintonizeaqui.com.br/sintonize/mpmg-abre-selecao-para-residencia-juridica-em-tres-pontas-com-bolsa-de-r-48-mil/
-Career:   estagio
-Group:   mpmg-tres-pontas-mg-residencia-juridica
-Reason:  Seleção para Residência Jurídica no Ministério Público de Minas Gerais com uma vaga imediata e formação de cadastro reserva. Oferece bolsa-auxílio mensal de R$ 4.863,00 e auxílio-transporte. Aberta a bacharéis formados nos últimos cinco anos ou profissionais em pós-graduação em Direito. Inscrições de 20 a 26 de maio de 2026, com seleção por prova escrita e entrevista. Atuação na 1ª Promotoria de Justiça da Comarca de Três Pontas, MG.
-
-Title:   Prefeitura de Santa Rosa abre seleção de estágio com bolsa de R$ 1,3 mil; inscrições seguem até 25 de maio
-URL:     https://concursonews.com/2026/05/prefeitura-de-santa-rosa-abre-selecao-de-estagio-com-bolsa-de-r-13-mil-inscricoes-seguem-ate-25-de-maio/
-Career:   estagio
-Group:   prefeitura-santa-rosa-rs-estagio-direito
-Reason:  Seleção de estágio remunerado pela Prefeitura de Santa Rosa (RS) com 6 vagas imediatas para estudantes de Direito, bolsa de R$ 1.350,70 mensais e jornada de 30 horas semanais. Processo seletivo simplificado com prova online prevista para 29 de maio de 2026, aberto a estudantes de graduação em cursos diversos incluindo Direito. Inscrições gratuitas até 25 de maio via portal da banca organizadora 3e Gestão. Duração de até dois anos conforme legislação federal de estágios.
-
-Title:   Prefeitura de Córrego Fundo (MG) promove concurso de até R$ 4,3 mil
-URL:     https://concursosnobrasil.com/concursos/mg/2026/05/19/prefeitura-de-corrego-fundo-mg-promove-concurso-de-ate-r-43-mil/
+Title:   Concurso Câmara de Saquarema RJ é prorrogado e muda data de prova | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/concurso-camara-de-saquarema-rj-inscricoes-2026
 Career:   administrativo
-Group:   prefeitura-corrego-fundo-mg-auditor-fiscal-tributos
-Reason:  Concurso da Prefeitura de Córrego Fundo (MG) com vaga para Auditor Fiscal de Tributos exigindo formação superior em Direito, Administração ou Contabilidade, com salário inicial de R$ 4.368,63 e regime estatutário. Inscrições de 21/07 a 19/08/2026, prova objetiva em 13/09/2026. Também oferece vaga para Técnico em Informática (nível médio), mas o foco relevante é a posição de auditor que aceita bacharéis em Direito e exige registro profissional.
+Group:   camara-saquarema-rj-procurador-legislativo
+Reason:  Prorrogação de inscrições e alteração de cronograma do concurso Câmara de Saquarema RJ. Oferece 28 vagas em cargos jurídicos e administrativos de níveis médio, técnico e superior, com destaque para procurador legislativo (cargo jurídico de nível superior), além de contador, auditor, controlador e arquivista. Inscrições até 31 de maio de 2026, com provas em 5 de julho. Salários entre R$ 3 mil e R$ 8 mil. A mudança de datas é informação crítica para candidatos em fase de preparação e decisão sobre inscrição.
 
-Title:   Estudantes de Direito podem se candidatar para estágio no Ministério Público em Loanda
-URL:     https://loanda.portaldacidade.com/noticias/educacao/estudantes-de-direito-podem-se-candidatar-para-estagio-no-ministerio-publico-em-loanda-3751
+Title:   Vara Judicial de Tapejara abre seleções para estágio e residência jurídica - Rádio Tapejara FM 101.5
+URL:     https://www.radiotapejara.com.br/noticia.php?not_id=97284
 Career:   estagio
-Group:   mppr-loanda-pr-estagio
-Reason:  Oportunidade de estágio no Ministério Público do Paraná (MPPR) na 2ª Promotoria de Justiça de Loanda. Voltado para estudantes de Direito a partir do terceiro ano/quinto período. Oferece bolsa de R$ 1.500 mensais mais auxílio-transporte de R$ 264, com atuação de 4 horas diárias no período vespertino. Inscrições até 25 de maio com prova em 26 de maio. Proporciona experiência prática em órgão ministerial de relevância para formação jurídica.
+Group:   vara-judicial-tapejara-rs-residencia-juridica-e-estagio
+Reason:  A Vara Judicial de Tapejara abre duas seleções: uma para estágio de graduação em Direito (com prova objetiva, dissertativa e entrevista, realizada em 24 de abril) e outra para residência jurídica destinada a bacharéis. O estágio oferece bolsa-auxílio, auxílio-alimentação e transporte, com carga de 15 a 30 horas semanais. A residência funciona como programa de aperfeiçoamento profissional com formação prática no Judiciário. Ambas formam cadastro de reserva com validade de seis meses (prorrogável). Inscrições para estágio de 4 a 13 de abril por e-mail, sem taxa.
 
-Title:   Concurso da Assembleia Legislativa de Roraima registra mais de 32 mil inscritos - portalofato.com.br
-URL:     https://portalofato.com.br/2026/05/19/concurso-da-assembleia-legislativa-de-roraima-registra-mais-de-32-mil-inscritos/
+Title:   Prefeitura paga até R$ 28 mil para servidores temporários | Gazeta Digital
+URL:     https://www.gazetadigital.com.br/editorias/economia/central-de-emprego/prefeitura-paga-ate-r-28-mil-para-servidores-temporarios/847407
 Career:   administrativo
-Group:   al-boa-vista-rr-procurador
-Reason:  Concurso da Assembleia Legislativa de Roraima com 226 vagas em 36 cargos, incluindo posições jurídicas como Procurador (R$ 39.589,56), Consultor Legislativo (R$ 19.486,95) e Analista Legislativo (R$ 10.574,63). Já homologadas 32.659 inscrições. Provas marcadas para 28 de junho de 2026. Atualização relevante sobre estágio avançado do certame com divulgação de inscritos e cronograma definido.
+Group:   camara-colider-mt-advogado-publico
+Reason:  O conteúdo apresenta múltiplos seletivos em Mato Grosso com oportunidades para bacharéis em Direito. Destaca-se a vaga de Advogado Público na Câmara de Colíder (até R$ 4.582,86) e várias posições em prefeituras que aceitam profissionais com formação superior, incluindo Assistentes Sociais e Psicólogos. As prefeituras de Tangará da Serra, Santa Cruz do Xingu e Campo Novo do Parecis oferecem cadastros de reserva com salários até R$ 28.728,09 para cargos de nível superior. O portal divulga prazos de inscrição específicos (entre maio e junho de 2026) e links de editais, informações essenciais para candidatos acompanharem oportunidades administrativas e jurídicas em órgãos públicos municipais.
 
-Title:   TJMS: Assembleia aprova 150 cargos para concurso público
-URL:     https://www.campograndenews.com.br/politica/aprovada-criacao-de-150-cargos-para-concurso-publico-no-tjms
-Career:   tribunais
-Group:   tj-mato-grosso-do-sul-analista-judiciario
-Reason:  Aprovação legislativa de 150 cargos efetivos de Analista Judiciário no TJMS a serem preenchidos por concurso público. A notícia informa sobre a criação formal dos cargos, que ainda depende de edital futuro, mas representa oportunidade concreta para a carreira. O impacto de R$ 25 milhões e preenchimento gradual conforme orçamento indicam cronograma pragmático. Contexto: relatório do CNJ apontou deficiências em processos seletivos internos do tribunal, motivando essa ampliação estruturada.
+Title:   Novo seletivo da CDHU SP está com inscrições abertas para 43 vagas
+URL:     https://jcconcursos.com.br/noticia/empregos/novo-seletivo-da-cdhu-sp-esta-com-inscricoes-abertas-para-43-vagas-142726
+Career:   estagio
+Group:   cdhu-sao-paulo-sp-estagiario
+Reason:  Processo seletivo da CDHU SP com 43 vagas de estágio para nível superior, incluindo expressamente Direito entre as áreas de formação aceitas. Oferece bolsa-auxílio de R$ 2.000/mês, auxílio-transporte e vale-refeição para jornada de 30 horas semanais. Inscrições abertas até 2 de junho de 2026 pelo CIEE. Prova com 20 questões de língua portuguesa e conhecimentos gerais.
 
-Title:   Concurso CRA PR: definida banca para nova seleção de níveis fundamental, médio e superior
-URL:     https://jcconcursos.com.br/amp/noticia/concursos/concurso-cra-pr-definida-banca-para-nova-selecao-de-niveis-fundamental-medio-e-superior-142706
-Career:   administrativo
-Group:   cra-parana-advogado
-Reason:  Concurso do CRA PR com oportunidades para bacharéis em Direito em nível superior. Destaque para cargos de Advogado (cadastro reserva, R$ 7.327,09, 30h/semana) e Analista Jurídico (1 vaga, R$ 7.327,09, 40h/semana). O certame está em fase de contratação da banca (Instituto Consulplan), com edital a ser publicado em breve. Inclui também vagas para Administrador e Contador. As provas constarão de objetivas, discursivas e análise de títulos. Informação relevante sobre o andamento do processo seletivo.
+Title:   Prefeitura de Porto Vitória (PR) oferta vagas de estágio para diversos níveis
+URL:     https://concursosnobrasil.com/concursos/pr/2026/05/20/prefeitura-de-porto-vitoria-pr-oferta-vagas-de-estagio-para-diversos-niveis/
+Career:   estagio
+Group:   prefeitura-porto-vitoria-pr-estagio-direito
+Reason:  Estágio em prefeitura com vagas para bacharéis em Direito. Oferece bolsa de até R$ 771,20, auxílio-transporte de R$ 40,00 e jornada flexível de 20 ou 30 horas semanais. Seleção por prova objetiva com 20 questões de Língua Portuguesa, Matemática e Atualidades, marcada para 17 de junho de 2026. Inscrições gratuitas até 3 de junho de 2026 pela banca Legalle Concursos. Cadastro de reserva com validade de um ano. Oportunidade adequada para estudantes de Direito ou recém-formados buscando experiência prática no setor público municipal.
 
-Title:   Concurso da Assembleia tem mais de 32 mil candidatos inscritos; veja os cargos mais disputados - Folha BV
-URL:     https://www.folhabv.com.br/concursos-e-emprego/concurso-da-assembleia-tem-mais-de-32-mil-candidatos-inscritos-veja-os-cargos-mais-disputados/
+Title:   Concurso da Câmara Municipal de Jaborandi SP oferece salários acima de R$ 6 mil
+URL:     https://jcconcursos.com.br/noticia/concursos/concurso-da-camara-municipal-de-jaborandi-sp-inscricao-142747
 Career:   procuradorias
-Group:   al-boa-vista-rr-procurador
-Reason:  Concurso da Assembleia Legislativa de Roraima com 226 vagas em 36 cargos, incluindo cargo jurídico de Procurador da Assembleia Legislativa (Classe Inicial) com 620 inscrições. Oferece oportunidades em níveis médio, técnico e superior, com salários entre R$ 5.815,15 e R$ 39.589,56. Provas objetivas e discursivas marcadas para 28 de junho em Boa Vista. Concurso em fase de homologação de inscrições com divulgação de gabarito preliminar prevista para 29 de junho.
+Group:   camara-jaborandi-sp-procurador-legislativo
+Reason:  Concurso para Procurador Legislativo na Câmara Municipal de Jaborandi-SP com 1 vaga. Exige diploma de bacharel em Direito e inscrição na OAB. Remuneração de R$ 6.649,07. Inscrições até 29 de maio de 2026, prova objetiva agendada para 14 de junho de 2026, seguida de prova de títulos. Taxa de inscrição R$ 100. Validade de 2 anos, prorrogável por igual período.
 
-Title:   Concursos públicos bons salários no Brasil: seleções do MPGO
-URL:     https://www.maisgoias.com.br/brasil/concursos/concursos-publicos-seguem-como-porta-de-entrada-para-estabilidade-e-bons-salarios-no-brasil/
-Career:   mp
-Group:   mpgo-goias-residencia-juridica
-Reason:  Texto divulga seleções abertas do MPGO: concurso público para Analista em Educação e Analista em Engenharia Ambiental (remuneração R$ 11.892,79) e processo seletivo para Residência Jurídica com 67 vagas (bolsa R$ 3.336,32). Inscrições até 10 de junho pelo Instituto AOCP. Prova do concurso em 12 de julho em Goiânia; avaliação de residência em dez cidades goianas. Residência jurídica exige bacharel em Direito formado há até 5 anos ou matriculado em pós-graduação jurídica. Informações sobre datas, valores, requisitos e procedimentos de inscrição.
-
-Title:   Defensoria Pública do Ceará abre três seleções de estágio de pós-graduação em Direito com bolsas de R$ 2 mil
-URL:     https://concursonews.com/2026/05/defensoria-publica-do-ceara-abre-tres-selecoes-de-estagio-de-pos-graduacao-em-direito-com-bolsas-de-r-2-mil/
-Career:   estagio
-Group:   defensoria-ceara-estagio-pos-graduacao
-Reason:  Seleção simplificada de estágio de pós-graduação em Direito pela Defensoria Pública do Ceará com três vagas em diferentes áreas (Criminal, Família e Juizados Especiais). Oferece bolsa mensal de R$ 2 mil, auxílio-transporte e duração de até 36 meses com jornada de 30 horas semanais. Inscrições até 22 de maio de 2026 via e-mail. Seleção por prova objetiva específica para cada unidade. Oportunidade de experiência prática supervisionada em órgão de defesa dos direitos fundamentais.
-
-Title:   Inscrições para processo seletivo de estágio da Defensoria Pública da Bahia vão até 2 de junho
-URL:     https://www.estadodabahia.com.br/noticia/49197/inscricoes-para-processo-seletivo-de-estagio-da-defensoria-publica-da-bahia-vao-ate-2-de-junho
-Career:   estagio
-Group:   defensoria-bahia-estagio
-Reason:  Processo seletivo simplificado de estágio na Defensoria Pública da Bahia com 100 vagas oferecidas. Oportunidade para estudantes de Direito em diferentes fases da formação acadêmica. Inscrições prorrogadas até 2 de junho de 2026, com provas objetivas agendadas para 14 de junho em Salvador. Seleção organizada pela Fundação Cefet Bahia.
-
-Title:   Defensoria Pública da Bahia prorrogou inscrições para seleção de estágio e residência jurídica
-URL:     https://agenciasertao.com/2026/05/19/defensoria-publica-da-bahia-prorrogou-inscricoes-para-selecao-de-estagio-e-residencia-juridica/
-Career:   estagio
-Group:   defensoria-bahia-residencia-juridica
-Reason:  Seleção simplificada unificada da Defensoria Pública da Bahia com 40 vagas específicas para Programa de Residência Jurídica destinado a bacharéis em Direito cursando pós-graduação. Bolsa-auxílio de R$ 1.550 (reajustável para R$ 1.850), carga horária de 30 horas semanais, processo seletivo com prova objetiva, discursiva e avaliação de títulos. Prorrogação de inscrições até 2 de junho de 2026, provas em 14 de junho em Salvador. Também oferece 45 vagas de estágio jurídico para estudantes de Direito (5º-9º semestre) com bolsa de R$ 1.030.
-
-Title:   Concursos públicos seguem como porta de entrada para estabilidade e bons salários no Brasil » Portal PaNoRaMa
-URL:     https://pn7.com.br/concursos-publicos-seguem-como-porta-de-entrada-para-estabilidade-e-bons-salarios-no-brasil/
-Career:   estagio
-Group:   mpgo-goias-residencia-juridica
-Reason:  Artigo que menciona duas oportunidades específicas do MPGO: concurso público para Analista em Educação e Analista em Engenharia Ambiental (salário R$ 11.892,79) e residência jurídica com 67 vagas para bacharéis em Direito formados há até 5 anos ou em pós-graduação (bolsa R$ 3.336,32). Inscrições até 10 de junho pelo Instituto AOCP, provas em 12 de julho em Goiânia e outras cidades do estado.
-
-Title:   Funtrab oferece vagas para advogado, informática, RH, vigilante (PcD) e costureira  –  FUNTRAB
-URL:     https://www.funtrab.ms.gov.br/funtrab-oferece-vagas-para-advogado-informatica-rh-vigilante-pcd-e-costureira/
+Title:   Concurso Bacen: Galípolo reforça necessidade de servidores
+URL:     https://jcconcursos.com.br/noticia/concursos/concurso-bacen-galipolo-reforca-necessidade-de-servidores-142737
 Career:   administrativo
-Group:   funtrab-campo-grande-ms-advogado
-Reason:  A Funtrab de Mato Grosso do Sul abre vaga para Advogado(a) em Campo Grande com salário de R$ 3.983,68. O cargo exige ensino superior completo em Direito e experiência mínima de seis meses. As responsabilidades incluem análise e acompanhamento de processos, controle de prazos e publicações, conferência de peças e protocolos, alimentação de sistemas jurídicos e apoio ao contencioso passivo. O processo seletivo ocorre presencialmente de 19 a 22 de maio de 2026, com jornada segunda a sexta-feira, 8h às 18h.
+Group:   bacen-brasil-varios-cargos
+Reason:  Notícia sobre perspectivas de autorização de novo concurso Banco Central com 560 vagas em níveis médio e superior (técnico, auditor e procurador), com possíveis mudanças nos critérios de lotação. Presidente da instituição reforçou necessidade de reforço de pessoal, especialmente para supervisão e fiscalização. Prazo para encaminhamento de novo pedido ao governo é 31 de maio. Último concurso foi em 2024 com Cebraspe como banca.
 
-Title:   Deputados aprovam criação de 150 cargos de Analista Judiciário no TJMS | G1
-URL:     https://g1.globo.com/google/amp/ms/mato-grosso-do-sul/noticia/2026/05/19/deputados-aprovam-criacao-de-150-cargos-de-analista-judiciario-no-tjms.ghtml
-Career:   tribunais
-Group:   tj-mato-grosso-do-sul-analista-judiciario
-Reason:  Aprovação legislativa de criação de 150 cargos de Analista Judiciário no TJMS. A notícia confirma a aprovação por unanimidade em segunda discussão do projeto de lei que autoriza a criação dessas vagas, direcionadas para atender aumento na demanda processual do judiciário estadual. O texto ainda segue para redação final e sanção do governador. Trata-se de movimento administrativo importante que sinaliza a abertura de oportunidades futuras de concurso público nessa carreira no tribunal
+Title:   Concurso da Câmara de Presidente Prudente (SP): últimas horas de inscrição para vagas que pagam até R$ 22 mil
+URL:     https://jcconcursos.com.br/noticia/concursos/concurso-camara-presidente-prudente-sp-ultimas-horas-de-inscricao-para-vagas-que-pagam-ate-r-22-mil-142759
+Career:   administrativo
+Group:   camara-presidente-prudente-sp-controlador-interno
+Reason:  Concurso da Câmara de Presidente Prudente com 4 vagas em cargos legislativos. Dentre as oportunidades está controlador interno (nível superior em Direito), com salário de até R$ 22.010,63. As provas estão marcadas para 12 de julho e as inscrições encerram em 21 de junho. O edital é organizado pela FCC e oferece também vagas para assistente legislativo de contabilidade e técnico legislativo (nível médio).
 
-Title:   MPGO abre seleção para assessor(a) jurídico(a) com salário de quase R$ 10 mil » Portal PaNoRaMa
-URL:     https://pn7.com.br/mpgo-abre-selecao-para-assessora-juridicoa-com-salario-de-quase-r-10-mil/
-Career:   mp
-Group:   mpgo-goiania-go-assessor-juridico
-Reason:  Seleção simplificada do MPGO para assessor jurídico na 39ª Promotoria de Goiânia. Cargo comissionado voltado à defesa de direitos de pessoas com deficiência. Remuneração de R$ 9.775,15 mais auxílios. Exige bacharel em Direito aprovado na OAB. Processo com três etapas: análise curricular, prova escrita e entrevista. Inscrições até 21/05/2026 via e-mail. Atuação presencial obrigatória em Goiânia.
+Title:   Estado abre edital para concurso da Polícia Penal com 213 vagas - Leouve
+URL:     https://leouve.com.br/estado/estado-abre-edital-para-concurso-da-policia-penal-com-213-vagas/
+Career:   policiais
+Group:   policia-penal-rio-grande-do-sul-analista
+Reason:  Concurso para Polícia Penal do Rio Grande do Sul com 213 vagas. Destacam-se 121 vagas para analista com formação em Direito entre as áreas aceitas. O cargo de analista exige nível superior e oferece oportunidade estruturada com processo seletivo em múltiplas etapas (prova teórica, teste físico, avaliação psicológica e investigação). Inscrições até 12 de junho de 2026, provas em 9 de agosto. Salários e benefícios variam conforme cargo. Taxa de inscrição R$ 282,79 para nível superior.
+
+Title:   Câmara de Votorantim abre concurso público com salários de até R$ 7,5 mil
+URL:     https://www.jornalcruzeiro.com.br/sorocaba/regiao/2026/05/760629-camara-de-votorantim-abre-concurso-publico-com-salarios-de-ate-rs-75-mil.html
+Career:   administrativo
+Group:   camara-votorantim-sp-analista-legislativo
+Reason:  Concurso para a Câmara Municipal de Votorantim com vagas para cargos de nível superior e médio. Destaca-se a posição de Analista Legislativo, típica carreira em órgãos do Poder Legislativo municipal, com salário de até R$ 7,5 mil. Também oferece oportunidades em áreas administrativas e de informática. Regime estatutário com estabilidade, vale-refeição e vale-alimentação. Inscrições até 26 de maio de 2026 via Vunesp.
+
+Title:   Governo de SP amplia prazo para seleção de estágio em meio ambiente
+URL:     https://bomdiasorocaba.com.br/noticia/93839/governo-de-sp-amplia-prazo-para-selecao-de-estagio-em-meio-ambiente
+Career:   estagio
+Group:   semil-sao-paulo-sp-estagi-rio-superior
+Reason:  Seleção de estágio na Secretaria de Meio Ambiente, Infraestrutura e Logística de SP aberta para estudantes de nível superior, incluindo cursos de Direito. Processo conduzido pelo CIEE com inscrições até 25 de maio. Oferece bolsa de R$ 937,59 mensais (30h/semana), auxílio-transporte e auxílio-refeição. Estágio presencial com vagas em cadastro de reserva conforme demanda. Segue Lei Federal nº 11.788/2008 com reserva de 10% para pessoas com deficiência.
+
+Title:   MPRO abrirá seleção para programa MP Residência  | Tudo Rondônia - Independente!
+URL:     https://www.tudorondonia.com/noticias/mpro-abrira-selecao-para-programa-mp-residencia-,158117.shtml
+Career:   estagio
+Group:   mpro-ariquemes-ji-parana-ro-residencia-juridica
+Reason:  Programa de residência jurídica oferecido pelo Ministério Público de Rondônia destinado a pós-graduandos em Direito (Penal, Processual Penal e Civil) para atuação no Núcleo de Atendimento às Vítimas em Ariquemes e Ji-Paraná. Seleção baseada em índice acadêmico mínimo de 8,0 e análise documental. Bolsa-auxílio de R$ 2.700,00 mensais, jornada de 30h semanais, duração inicial de 6 meses prorrogável até 3 anos. Inscrições abertas de 25/5 a 8/6.
+
+Title:   MPRO abrirá seleção para programa MP Residência em Ariquemes e Ji-Paraná
+URL:     https://www.portalrondonia.com/2026/05/20/mpro-abrira-selecao-para-programa-mp-residencia-em-ariquemes-e-ji-parana/
+Career:   estagio
+Group:   mpro-ariquemes-ji-parana-ro-residencia-juridica
+Reason:  Seleção para Residência Jurídica no Ministério Público de Rondônia voltada a graduados em Direito matriculados em pós-graduação. Oportunidade de formação prática nas áreas de Direito Penal e Processual Penal, Direito Civil, atuando no Núcleo de Atendimento às Vítimas em Ariquemes e Ji-Paraná. Oferece bolsa de R$ 2.700 + auxílio-transporte, jornada de 30h semanais, duração inicial de 6 meses prorrogável até 3 anos. Seleção por índice acadêmico mínimo (≥8,00) e análise documental. Inscrições abertas até 8 de junho exclusivamente via site do MPRO.
+
+Title:   Forum de Cataguases vai selecionar estagiários para cadastro
+URL:     https://marcelolopes.jor.br/site/2026/05/21/forum-de-cataguases-vai-selecionar-estagiarios-para-cadastro-reserva/
+Career:   estagio
+Group:   tj-cataguases-mg-estagiario-graduacao
+Reason:  Seleção pública para estagiários de graduação em Direito na Comarca de Cataguases/MG, aberta para alunos do 3º ao 7º período. Oferece bolsa de R$ 2.674,32 + auxílio-transporte de R$ 359,10, com carga horária de 30h semanais. Inscrições de 20/5 a 1/6/2026, prova em 2/6/2026 com conteúdos de Direito Civil, Penal, Processual, Constitucional, Administrativo e Direito do Consumidor. Processo com validade de um ano, com reservas para PcD (10%) e candidatos negros (30%).
+
+Title:   Concurso Prefeitura de Cantagalo PR abre vagas em todos os níveis | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/concurso-prefeitura-de-cantagalo-pr-abre-vagas-em-todos-os-niveis
+Career:   administrativo
+Group:   prefeitura-cantagalo-pr-gestor-conveniios-contratos
+Reason:  Concurso da Prefeitura de Cantagalo PR com oportunidades para bacharéis em Direito em dois cargos de nível superior: Auditor Fiscal de Tributos (1 vaga + CR, exigindo Ciências Contábeis, Administração ou Economia, vencimento R$ 4.650) e Gestor de Convênios e Contratos (CR, aceitando Direito junto com Administração, Ciências Contábeis ou Economia, vencimento R$ 5.558). Inscrições de 25 de maio a 15 de junho de 2026. Prova objetiva (40 questões) e prova de títulos para ambos os cargos, com validade de 2 anos prorrogável.
+
+Title:   Edital CRT SP publicado: sÃ£o 20 vagas + 710 CR; iniciais de atÃ© R$ 10 mil
+URL:     https://www.direcaoconcursos.com.br/noticias/edital-crt-sp-publicado
+Career:   administrativo
+Group:   crt-sao-paulo-sp-advogado
+Reason:  Concurso do Conselho Regional dos Técnicos Industriais de São Paulo com 50 vagas para cargo de Advogado (nível superior) oferecendo salário de R$ 10.600,01 + benefícios. Exige graduação em Direito, registro ativo na OAB e regime de dedicação exclusiva. O edital foi recentemente publicado, abrindo período de inscrições de 18/05/2026 a 06/07/2026, com provas marcadas para 02/08/2026. Regime CLT com jornada de 40 horas semanais e benefícios incluindo vale refeição, alimentação e plano de saúde.
+
+Title:   MPRO abrirá seleção para programa MP Residência  | Tudo Rondônia - Independente!
+URL:     http://tudorondonia.com.br/noticias/mpro-abrira-selecao-para-programa-mp-residencia-,158117.shtml
+Career:   estagio
+Group:   mpro-rondonia-residencia-juridica
+Reason:  Seleção para o Programa MP-Residência do Ministério Público de Rondônia, destinada a pós-graduandos em Direito (Penal, Processual Penal e Civil), Psicologia e Serviço Social. Formará cadastro de reserva para atuação no Núcleo de Atendimento às Vítimas em Ariquemes e Ji-Paraná. Oferece bolsa-auxílio de R$ 2.700 mensais, jornada de 30 horas semanais, com duração inicial de 6 meses prorrogável até 3 anos. Inscrições de 25/5 a 8/6 pelo site oficial. Critério: índice acadêmico mínimo 8,0. Inclui cotas para PcD (10%), negros (20%) e indígenas (5%).
+
+Title:   Concurso TCE: Contrato é assinado e Cebraspe organizará novo edital
+URL:     https://contilnetnoticias.com.br/editais-concursos/concurso-tce-contrato-e-assinado-e-cebraspe-organizara-novo-edital/
+Career:   administrativo
+Group:   tce-acre-conselheiro-substituto
+Reason:  Concurso para Conselheiro Substituto (Auditor) do Tribunal de Contas do Estado do Acre. O certame visa preencher vagas efetivas na carreira de controle externo e exige formação superior com domínio de Direito Público, Contabilidade Governamental e Lei de Responsabilidade Fiscal. A banca Cebraspe foi oficialmente contratada, marcando transição para fase operacional. O edital completo deve ser publicado nas próximas semanas. Será composto por prova objetiva, discursiva, oral e avaliação de títulos. Oportunidade relevante para bacharéis que almejam carreira em órgão de controle estatal.
 
