@@ -1,323 +1,263 @@
-Verificação: 2026-05-22T12:36:05.964821+00:00
-Links analisados: 172
-Links relevantes: 53
+Verificação: 2026-05-23T10:13:53.978446+00:00
+Links analisados: 155
+Links relevantes: 43
 ============================================================
 
-Title:   Câmara de Água Doce do Norte - ES abre concurso com vagas imediatas e cadastro de reserva
-URL:     https://www.pciconcursos.com.br/noticias/camara-de-agua-doce-do-norte-es-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva
-Career:   procuradorias
-Group:   camara-agua-doce-do-norte-es-procurador
-Reason:  Concurso público na Câmara Municipal de Água Doce do Norte (ES) com vaga para Procurador (cargo jurídico de nível superior). O certame oferece 1 vaga + cadastro de reserva para Procurador com remuneração de R$ 3.100,00 e jornada de 40h semanais. A seleção inclui prova objetiva e prova discursiva específica para esse cargo. Inscrições de 26/05/2026 a 26/06/2026, com prova objetiva prevista para 11/10/2026 e prova discursiva em 13/12/2026. Contratação sob regime estatutário.
-
-Title:   Concurso ALECE 2026: Sai edital com 600 vagas de até R$ 6 mil
-URL:     https://www.acheconcursos.com.br/concursos-ceara/concurso-alece-2026-sai-edital-600-vagas-6-mil-90312
-Career:   administrativo
-Group:   alece-ceara-analista-legislativo
-Reason:  Concurso da Assembleia Legislativa do Ceará com 600 vagas (200 imediatas + 400 cadastro de reserva) para Analista e Técnico Legislativo. Destaca-se a especialidade 'Analista Legislativo - Direito' com 60 vagas imediatas e 40 em cadastro de reserva, remuneração inicial de R$ 6.126,48. Inscrições até 22 de junho de 2026, provas em 16 de agosto. Seleção inclui banca IDECAN, prova discursiva, prova de títulos e ações afirmativas (5% PcD, 20% negros/indígenas/quilombolas). Validade de 2 anos prorrogável.
-
-Title:   Edital FESF-SUS-BA abre 21 vagas; salários de até R$ 8.159
-URL:     https://www.acheconcursos.com.br/concursos-bahia/processo-seletivo-edital-fesf-sus-ba-abre-21-vagas-salarios-de-ate-r-8-159-90306
-Career:   administrativo
-Group:   fesf-sus-ba-analista-saude
-Reason:  Processo seletivo simplificado da FESF-SUS-BA com vaga específica para Analista em Saúde - Bacharel em Direito (40h semanais). A oportunidade é para contratação por prazo determinado em fundação estatal de saúde na Bahia, com salários entre R$ 1.621 e R$ 8.159, mais gratificações e auxílio-alimentação. Seleção ocorre por análise curricular (requisito básico e análise de documentos comprobatórios). Inscrições de 20 a 27 de maio de 2026, com resultado final previsto para 3 de julho de 2026.
-
-Title:   Concursos MA: Governador anuncia mais de 3 mil vagas na segurança
-URL:     https://www.acheconcursos.com.br/noticias/concursos-ma-governador-anuncia-mais-de-3-mil-vagas-na-seguranca-90308
+Title:   Maranhão confirma Cebraspe e detalha 3.350 vagas em concursos da Segurança Pública
+URL:     https://www.pciconcursos.com.br/previstos/maranhao-confirma-cebraspe-e-detalha-3350-vagas-em-concursos-da-seguranca-publica
 Career:   policiais
-Group:   pc-maranhao-delegado
-Reason:  Anúncio de 3.350 vagas em segurança pública no Maranhão, coordenado pelo Cebraspe, com editais previstos em 30 dias. Destaque para Polícia Civil (415 vagas) com cargo de delegado exigindo diploma em Direito, além de investigador e escrivão. Perícia Oficial (76 vagas) com carreiras como perito criminal e médico-legista. Salários iniciais atraentes: delegado acima de R$ 20 mil, investigadores/escrivães R$ 5.353,78. Também menciona futuras seleções em outras áreas da administração estadual.
+Group:   seguranca-publica-maranhao
+Reason:  Concurso estadual de segurança pública do Maranhão com 3.350 vagas imediatas, incluindo 58 vagas para Delegado de Polícia (exigindo formação em Direito) e 357 vagas para Oficial Investigador de Polícia Civil (nível superior). Banca: Cebraspe. Editais previstos nos próximos 30 dias. Também menciona 30 vagas para Procurador na PGE-MA. Remunerações: Delegado R$ 20.474,25; Investigador R$ 5.353,78.
 
-Title:   Câmara de Jaborandi - SP retifica concurso público com salários de até R$ 6.649,07
-URL:     https://www.pciconcursos.com.br/noticias/camara-de-jaborandi-sp-retifica-concurso-publico-com-salarios-de-ate-6649
-Career:   procuradorias
-Group:   camara-jaborandi-sp-procurador-legislativo
-Reason:  Retificação de concurso público da Câmara Municipal de Jaborandi-SP com alteração no número de vagas para Assistente Administrativo (de 2 para 1 vaga). O certame oferece cargo de Procurador Legislativo (nível superior, salário R$ 6.649,07) com prova escrita e avaliação de títulos agendadas para 14 de junho de 2026. Inscrições de 20 a 29 de maio de 2026 pelo site www.cematconcurso.com.br. Validade de 2 anos.
-
-Title:   Prefeitura de Água Doce do Norte - ES retifica concurso público com vagas imediatas e cadastro de reserva
-URL:     https://www.pciconcursos.com.br/noticias/prefeitura-de-agua-doce-do-norte-es-retifica-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva
-Career:   procuradorias
-Group:   prefeitura-agua-doce-do-norte-es-procurador-municipal
-Reason:  Concurso público da Prefeitura de Água Doce do Norte (ES) com retificação incluindo cargo de Procurador Municipal (1 vaga + CR), que exige formação superior em Direito. O cargo de Procurador Municipal será selecionado através de prova objetiva, prova discursiva e prova de títulos. Inscrições de 26/05 a 26/06/2026 no site idesg.org.br, com taxa de R$ 130,00. Prova objetiva marcada para 18/10/2026. Regime estatutário com validade de 2 anos.
-
-Title:   UFMS abre processo seletivo para professores substitutos em diversas áreas
-URL:     https://www.pciconcursos.com.br/noticias/ufms-abre-processo-seletivo-para-professores-substitutos-em-diversas-areas
+Title:   Concurso de Auditor Fiscal de Manaus: FCC contratada e edital próximo
+URL:     https://www.pciconcursos.com.br/previstos/concurso-de-auditor-fiscal-de-manaus-fcc-contratada-e-edital-proximo
 Career:   administrativo
-Group:   ufms-campo-grande-ms-professor-substituto-direito
-Reason:  Processo seletivo da UFMS para Professor Substituto em Direito Público (Campo Grande, 1 vaga). Cargo de docência em instituição federal de ensino superior, voltado a bacharéis em Direito com especialização, mestrado ou doutorado. Contrato de até 8 meses (até 2 de dezembro de 2026), podendo ser prorrogado. Remuneração de R$ 3.399,47 a R$ 8.058,29 mais auxílio-alimentação. Inscrições de 28/05 a 05/06/2026, com provas objetiva, didática e de títulos. Oportunidade de carreira acadêmica em universidade pública.
+Group:   prefeitura-manaus-am-auditor-fiscal
+Reason:  Concurso para Auditor Fiscal de Tributos Municipais (AFTM) em Manaus com banca FCC oficialmente contratada e edital iminente. Cargo de nível superior com remuneração inicial de R$ 24.817,05 (vencimento + produtividade) e jornada de 30 horas semanais. Exige formação superior em qualquer área. Processo inclui prova objetiva com 160 questões (Conhecimentos Gerais e Específicos), prova discursiva com 4 questões e pesquisa de vida pregressa. Atribuições envolvem fiscalização tributária, apuração de tributos, lançamentos fiscais e combate à evasão. Após revisões processuais em 2025, o edital está em fase conclusiva com publicação esperada em breve.
 
-Title:   IASES abre processo seletivo com vagas para profissionais de nível superior
-URL:     https://www.pciconcursos.com.br/noticias/iases-abre-processo-seletivo-com-vagas-para-profissionais-de-nivel-superior
+Title:   Instituto Avalia organizará o concurso da Polícia Penal RN: perfil da banca e o que estudar
+URL:     https://www.pciconcursos.com.br/previstos/instituto-avalia-organizara-o-concurso-da-policia-penal-rn-perfil-da-banca-e-o-que-estudar
+Career:   policiais
+Group:   policia-penal-rn-policial-penal
+Reason:  Concurso para Polícia Penal do Rio Grande do Norte com 300 vagas, sendo 200 para policial penal (cargo que exige nível superior). O conteúdo fornece informações estratégicas sobre a banca organizadora (Instituto Avalia), padrão de cobranças esperadas nas disciplinas jurídicas (Lei de Execução Penal, Direito Constitucional, Penal e Processo Penal), e dicas de preparação. Edital previsto como iminente. Remuneração inicial de R$ 5.096,60 com progressão até R$ 15.416,20.
+
+Title:   TCE-AC: Cebraspe contratado e edital para conselheiro substituto pode sair em breve
+URL:     https://www.pciconcursos.com.br/previstos/tce-ac-cebraspe-contratado-e-edital-para-conselheiro-substituto-pode-sair-em-breve
 Career:   administrativo
-Group:   iases-espirito-santo-tecnico-superior-socioeducativo-direito
-Reason:  Processo seletivo simplificado do IASES (Instituto de Atendimento Socioeducativo do Espírito Santo) para Técnico Superior Socioeducativo na área de Direito. Oferece 3 vagas (Grande Vitória, Regional Norte e Regional Sul) com remuneração de R$ 8.151,60 + R$ 800,00 de auxílio-alimentação, jornada de 40h semanais. Contratação temporária por 12 meses prorrogáveis. Inscrições de 21 a 28 de maio de 2026 via site www.selecao.es.gov.br. Seleção inclui análise de documentação, investigação social e sindicância.
+Group:   tce-ac-conselheiro-substituto
+Reason:  Concurso previsto para Conselheiro Substituto do TCE-AC com banca organizadora (Cebraspe) já contratada e edital iminente. Cargo de nível superior com remuneração de R$ 37.731,81, exigindo formação em Direito ou áreas correlatas. Serão aplicadas provas objetiva, discursiva, oral e avaliação de títulos. A estimativa é de aproximadamente 300 inscritos. Informações sobre o último concurso (2024) indicam que houve vagas específicas para bacharéis em Direito em cargos como Analista Ministerial (4 vagas) e Auditor de Controle Externo (3 vagas), sinalizando que a carreira abre oportunidades para formados em Direito.
 
-Title:   Câmara de Igarapé-Miri - PA abre concurso público com salários de até R$ 5.000,00
-URL:     https://www.pciconcursos.com.br/noticias/camara-de-igarape-miri-pa-abre-concurso-publico-com-salarios-de-ate-5000
+Title:   Concurso Câmara de Princesa Isabel-PB 2026 - Inscrição para 9 vagas
+URL:     https://www.acheconcursos.com.br/concursos-paraiba/concurso-camara-de-princesa-isabel-pb-2026-inscricao-para-9-vagas-90346
+Career:   administrativo
+Group:   camara-princesa-isabel-pb-analista-legislativo
+Reason:  Concurso da Câmara Municipal de Princesa Isabel-PB com abertura de 9 vagas em 2026. Destaca-se a oportunidade de Analista Legislativo (exigindo formação superior em Direito, registro na OAB e 5 anos de experiência em órgãos públicos) com salário de R$ 3.000,00. Também há vagas para Técnico Legislativo e Controlador Interno. As provas estão marcadas para 12 de julho de 2026, com inscrições até 29 de junho. Edital publicado pela FUNVAPI.
+
+Title:   Concurso Iretama-PR 2026: Sai edital com 118 vagas de até R$ 13 mil
+URL:     https://www.acheconcursos.com.br/concursos-parana/concurso-iretama-pr-2026-sai-edital-com-118-vagas-de-ate-r-13-mil-90344
+Career:   administrativo
+Group:   prefeitura-iretama-pr-procurador-juridico
+Reason:  Concurso público com vaga para Procurador Jurídico (nível superior em Direito, registro na OAB obrigatório) com salário de R$ 8.862,20. O cargo passa por prova objetiva, discursiva (eliminatória e classificatória) e prova de títulos. Inscrições de 27 de maio a 25 de junho de 2026, com provas em 12 de julho. Além do Procurador, há outras oportunidades para bacharéis em Direito em cargos administrativos ou técnicos, dependendo da formação complementar.
+
+Title:   Fundação FIMES-GO abre 58 vagas para Professor
+URL:     https://www.acheconcursos.com.br/concursos-goias/processo-seletivo-fundacao-fimes-go-abre-58-vagas-professor-90323
+Career:   administrativo
+Group:   fimes-mineiros-go-professor-direito
+Reason:  Processo seletivo para Professor de Direito na Fundação FIMES-GO, campus Mineiros, com 20 vagas (4 AC, 12 CR, 1 PcD, 3 CR PcD). Exige Especialização, Mestrado ou Doutorado. Contratação temporária por até 2 anos, prorrogável. Remuneração de R$ 54,85/hora-aula. Seleção via prova de aptidão didática com arguição (aula online) em junho de 2026 e avaliação de títulos. Inscrições até 08/06/2026 com taxa de R$ 100,00 (isenção disponível). Resultado válido por 2 anos.
+
+Title:   Câmara de Igarapé-Miri-PA abre concurso para 9 cargos de até R$ 5 mil
+URL:     https://www.acheconcursos.com.br/concursos-para/camara-de-igarape-miri-pa-abre-concurso-para-9-cargos-de-ate-r-5-mil-90317
 Career:   procuradorias
 Group:   camara-igarape-miri-pa-procurador-juridico
-Reason:  Concurso público para Procurador Jurídico na Câmara Municipal de Igarapé-Miri (PA), com 1 vaga, jornada de 20 horas semanais e salário de R$ 5.000,00. Regime estatutário. Seleção composta por prova objetiva e discursiva, além de prova de títulos. Inscrições de 27 de maio a 28 de junho de 2026, com prova objetiva marcada para 26 de julho de 2026. Taxa de inscrição: R$ 120,00, com possibilidade de isenção.
+Reason:  Concurso público para Câmara Municipal de Igarapé-Miri (PA) com 1 vaga de Procurador Jurídico exigindo graduação em Direito e registro no Conselho de Classe. O cargo oferece salário de R$ 5.000,00 (vencimento base) com inscrições até 28/06/2026. Processo seletivo composto por prova objetiva (40 questões com Língua Portuguesa, Informática Básica e Conhecimentos Específicos) e prova discursiva de estudo de caso, ambas eliminatórias e classificatórias. Também há prova de títulos apenas classificatória. Provas agendadas para 26/07/2026. Certame válido por até 2 anos com possibilidade de prorrogação.
 
-Title:   Concurso INSS: por onde começar a estudar? | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-inss-por-onde-comecar-estudar
-Career:   administrativo
-Group:   inss-nacional-analista-seguro-social
-Reason:  Artigo orientativo sobre estratégia de preparação para concurso INSS com vagas para Analista do Seguro Social (nível superior, exigindo formação jurídica). Detalha conteúdos específicos cobrados na última prova (2022): Seguridade Social, Legislação Previdenciária, RGPS, Direito Constitucional e Administrativo, além de disciplinas básicas. Fornece roadmap de estudo em três fases (teoria, prática e simulados) com orientações sobre priorização de temas históricos e frequentes. Relevante para bacharéis em Direito que buscam ingressar em carreira administrativa com atuação em política social e previdenciária.
-
-Title:   Edital ALECE SAIU! Concurso tem 600 vagas e até R$ 6,1 mil!
-URL:     https://blog.grancursosonline.com.br/concurso-alece-edital-publicado-2026/
-Career:   administrativo
-Group:   alece-ceara-analista-legislativo
-Reason:  Concurso para Analista Legislativo na Assembleia Legislativa do Ceará com 20 vagas imediatas e 40 de cadastro reserva exclusivamente para bacharéis em Direito, exigindo inscrição na OAB. Oferece remuneração de R$ 6.126,48, inscrições até 22/06/2026, prova objetiva em 16/08/2026. Total de 600 vagas em diversas especialidades (200 imediatas + 400 cadastro reserva), sendo oportunidade relevante para quem busca carreira no Poder Legislativo estadual.
-
-Title:   Concurso ALE RR contabilizou 32.659 inscrições!
-URL:     https://blog.grancursosonline.com.br/concurso-ale-rr-inscritos-2026/amp
-Career:   administrativo
-Group:   ale-roraima-analista-legislativo
-Reason:  Divulgação da lista preliminar de inscritos do concurso ALE RR com 32.659 inscrições homologadas. O certame oferece 226 vagas para cargos de nível superior incluindo Consultor Legislativo e Analista Legislativo, com remunerações entre R$ 5.815,15 e R$ 39.589,56. Próximas etapas: publicação de vagas reservadas em 26/05/2026, edital de convocação em 03/06/2026 e provas em 28/06/2026. Informação relevante para candidatos acompanhando o processo seletivo.
-
-Title:   Empresa anunciada por Prefeitura é investigada por concurso em Caxias
-URL:     https://ocorreio.com.br/empresa-anunciada-por-prefeitura-e-investigada-por-concurso-em-caxias/
-Career:   administrativo
-Group:   prefeitura-cachoeira-do-sul-rs-advogado
-Reason:  Concurso público da Prefeitura de Cachoeira do Sul com múltiplos cargos jurídicos de nível superior, incluindo Advogado, Controlador Interno, Fiscal Fazendário e Auditor em Saúde. O certame está em fase de organização com edital previsto para segundo semestre de 2026 e provas ainda em 2026. Notícia relevante por esclarecer situação da banca organizadora (Legalle Concursos) que está sob investigação, informação crítica para candidatos acompanharem a lisura do processo.
-
-Title:   Portal do Servidor - Presidente Romeu Aldigueri anuncia edital do concurso da Alece e início das inscrições
-URL:     https://portaldoservidor.al.ce.gov.br/noticias/presidente-romeu-aldigueri-anuncia-edital-do-concurso-da-alece-e-inicio-das-inscricoes
-Career:   administrativo
-Group:   alece-ceara-analista-legislativo
-Reason:  Concurso público da Assembleia Legislativa do Ceará com 200 vagas imediatas e 400 para cadastro reserva. Oferece 170 vagas para Analista Legislativo em 29 especialidades e 30 para Técnico Legislativo. Inscrições abertas até 22 de junho de 2026, com provas em 14 cidades do Estado. Representa oportunidade de ingresso em carreira legislativa estadual com processo seletivo transparente e regionalizado.
-
-Title:   Concurso Prefeitura de Água Doce do Norte ES: 229 vagas abertas | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-prefeitura-de-agua-doce-do-norte-es-229-vagas-abertas
-Career:   administrativo
-Group:   prefeitura-agua-doce-do-norte-es-procurador-municipal
-Reason:  Concurso da Prefeitura de Água Doce do Norte ES com 229 vagas imediatas. Destaque para cargo de procurador municipal (1 vaga + CR) com prova discursiva e salário até R$5.190,46. Também oferece vagas em carreiras jurídicas como analista de sistemas/administrativo e assistente de controle interno. Retificação recente de 19/05/2026 incluiu biomédico e readequou requisitos. Inscrições até 26/06/2026 via IDESG, com prova objetiva em 18/10/2026. Regime estatutário com estabilidade após estágio probatório.
-
-Title:   Concursos MA: Brandão anuncia banca e editais com 3.350 vagas | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concursos-ma-2026-anuncio-editais-proximos-dias
-Career:   policiais
-Group:   pc-maranhao-delegado
-Reason:  Anúncio de grande concurso na Segurança Pública do Maranhão com 3.350 vagas imediatas organizado pelo Cebraspe. Destaca-se a Polícia Civil com 415 vagas incluindo cargos que exigem formação em Direito (delegado com salário de R$20.474,25) e cargos de nível superior (escrivão e investigador com R$5.353,78). Também menciona Perícia Oficial com 76 vagas e diversos órgãos estaduais com vagas em outras áreas. Editais prometidos para daqui 30 dias. Relevante para bacharéis interessados em carreira policial jurídica.
-
-Title:   Estado abre processo seletivo inédito com salário de R$ 8 mil
-URL:     https://www.portaltemponovo.com.br/estado-abre-processo-seletivo-inedito-com-salario-de-8-mil/
-Career:   administrativo
-Group:   iases-espirito-santo-tecnico-superior-socioeducativo-direito
-Reason:  Processo seletivo simplificado do Governo do Espírito Santo para contratação temporária com duas modalidades: (1) Técnico Superior Socioeducativo no Iases com salário de R$ 8.151,60, aceitando profissionais de Direito entre outras áreas, para atuar no acompanhamento de adolescentes em medidas socioeducativas, elaboração de relatórios técnicos e mediação de conflitos; (2) Assistente Social na Setades com salário de R$ 5.589,89 para atuar em Segurança Alimentar e Nutricional. Ambos exigem diploma de graduação e registro profissional. Inscrições abertas até maio de 2026, com seleção por análise documental, experiência e qualificação profissional.
-
-Title:   Concurso ALE RR registra 32 mil inscritos; veja concorrência! | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-ale-rr-2026-inscritos
+Title:   ALECE - CE publica edital de concurso com vagas para Analista e Técnico Legislativo
+URL:     https://www.pciconcursos.com.br/noticias/alece-ce-publica-edital-de-concurso-com-vagas-para-analista-e-tecnico-legislativo
 Career:   procuradorias
-Group:   ale-roraima-analista-legislativo
-Reason:  Concurso da Assembleia Legislativa de Roraima com 225 vagas imediatas e formação de cadastro de reserva. Inclui cargo de Procurador da ALERR (Classe Inicial) com salário inicial de R$39.589,56, além de cargos de Analista Legislativo e Consultor Legislativo com remunerações de R$11.076,33 e R$19.486,95 respectivamente. Notícia divulga dados de inscrições homologadas (32.659 candidatos confirmados) e cronograma de provas marcadas para 28 de junho em Boa Vista. Informação relevante para candidatos acompanhando o certame.
+Group:   alece-ceara-analista-legislativo-direito
+Reason:  Concurso para Analista Legislativo na ALECE com 20 vagas específicas para a especialidade de Direito, além de outras áreas. Cargo de nível superior com remuneração de R$ 6.126,48 e jornada de 30 horas semanais. Seleção por prova objetiva, discursiva e títulos, com provas marcadas para agosto de 2026. Inscrições entre maio e junho de 2026 pela banca IDECAN.
 
-Title:   Alece aposta em renovação dos quadros com maior concurso público de sua história - Portal IN - Pompeu Vasconcelos - Balada IN
-URL:     https://www.portalin.com.br/in-connection/alece-aposta-em-renovacao-dos-quadros-com-maior-concurso-publico-de-sua-historia/
+Title:   Prefeitura de Petrolina - PE abre processo seletivo com vagas para diversas áreas
+URL:     https://www.pciconcursos.com.br/noticias/prefeitura-de-petrolina-pe-abre-processo-seletivo-com-vagas-para-diversas-areas
 Career:   administrativo
-Group:   alece-ceara-analista-legislativo
-Reason:  Concurso para a Assembleia Legislativa do Ceará com 200 vagas imediatas e 400 para cadastro reserva. Edital publicado em maio de 2026 com inscrições até junho e provas em agosto. Oferece 170 vagas de analista legislativo em 29 especialidades e 30 de técnico legislativo. Remuneração de até R$ 6 mil para nível superior com jornada de 30 horas semanais. Provas descentralizadas em 14 cidades cearenses, incluindo interior do estado.
+Group:   prefeitura-petrolina-pe-advogado
+Reason:  Processo seletivo simplificado da Prefeitura de Petrolina-PE com 1 vaga para Advogado (nível superior) na área de assistência social. O cargo envolve atuação em CRAS, CREAS, Centro POP e unidades de acolhimento, com remuneração de R$ 2.365,13 e jornada a definir. Inscrições de 18/05 a 02/06/2026, prova objetiva em 14/06/2026, taxa de R$ 90,00.
 
-Title:   Aberta seleção para Residência em Direito na PJM Brasília – MINISTÉRIO PÚBLICO MILITAR
-URL:     https://www.mpm.mp.br/arquivos/72621
-Career:   estagio
-Group:   pjm-brasilia-df-residencia-direito
-Reason:  Residência em Direito na Procuradoria de Justiça Militar em Brasília com inscrições abertas de 25 de maio a 10 de junho de 2026. Voltado para bacharéis formados há no máximo 5 anos ou graduados há mais tempo que estejam cursando pós-graduação (mínimo 360 horas). Seleção composta por prova objetiva (20 questões de conhecimentos específicos) e prova discursiva com duração total de 4 horas. Edital disponível no portal da instituição.
-
-Title:   Estou Preparado
-URL:     https://estoupreparado.com.br/noticias/4339-exclusivo-ep-obt-m-contrato-assinado-entre-governo-do-rn-e-banca-do-concurso-pol-cia-penal
-Career:   policiais
-Group:   seap-rio-grande-do-norte-policial-penal
-Reason:  Contrato assinado entre Governo do RN e banca organizadora (Instituto Avalia) para concurso da Secretaria de Administração Penitenciária com 260 vagas imediatas. Principais cargos: 200 vagas de Policial Penal e 60 vagas de especialistas (Assistente Social, Psicólogo, Terapeuta Ocupacional, Médico Psiquiatra). Prova objetiva com 100 questões incluindo disciplinas jurídicas (Execução Penal, Direito Constitucional, Administrativo, Penal e Processual Penal). Processo seletivo completo com TAF, avaliação psicológica, toxicológico e prova do curso de formação. Edital normativo em breve liberação.
-
-Title:   Poder Judiciário abre cadastro para estagiários em todas as regiões do RN - Ponta Negra News
-URL:     https://pontanegranews.com.br/2026/05/21/poder-judiciario-abre-cadastro-para-estagiarios-em-todas-as-regioes-do-rn/
-Career:   estagio
-Group:   tj-rn-estagiario-graduacao
-Reason:  Processo seletivo unificado aberto pelo Tribunal de Justiça do Rio Grande do Norte para formação de cadastro de reserva de estagiários de graduação. Contempla 322 vagas de referência distribuídas entre gabinetes judiciais, secretarias do 1º grau e unidades administrativas do TJRN, com possibilidade de cadastro de até 3.220 candidatos classificados. Embora multidisciplinar (inclui Psicologia, Serviço Social, Pedagogia, Administração, Contabilidade, TI e Estatística), é relevante para bacharéis em Direito interessados em experiência prática no Poder Judiciário. Seleção por etapa única baseada em desempenho acadêmico (CRG) e indicadores de qualidade institucional (CPC e IGC). Abrangência estadual com oportunidades em todas as 53 comarcas do RN.
-
-Title:   Semas abre processo seletivo para nível superior com salários de R$ 2,3 mil no Pará - NOTÍCIA MARAJÓ
-URL:     https://noticiamarajo.com.br/marajo-2/semas-abre-processo-seletivo-para-nivel-superior-com-salarios-de-r-23-mil-no-para/
+Title:   CISCOPAR - PR abre concurso público para profissionais de diversas áreas com salários de até R$ 4.742,26
+URL:     https://www.pciconcursos.com.br/noticias/ciscopar-pr-abre-concurso-publico-para-profissionais-de-diversas-areas-com-salarios-de-ate-4742
 Career:   administrativo
-Group:   semas-para-analista-ambiental
-Reason:  Processo Seletivo Simplificado da Secretaria de Estado de Meio Ambiente, Clima e Sustentabilidade (Semas) do Pará para contratação temporária de Analista Ambiental e Analista de Gestão Pública. Para Analista Ambiental, especificamente há vagas destinadas a bacharéis em Direito, com salário base de R$ 2.318,08 e jornada de 30 horas semanais. Inscrições gratuitas pela internet nos dias 20 e 21 até 23h59. Vagas distribuídas em Belém (7), Marabá (1) e Itaituba (1).
+Group:   ciscopar-toledo-pr-assessor-juridico
+Reason:  Concurso público do CISCOPAR-PR com vaga para Assessor Jurídico (cadastro de reserva) em consórcio intermunicipal de saúde. Cargo de nível superior com regime CLT, salário até R$ 4.742,26. Prova objetiva marcada para julho de 2026. Oportunidade em órgão público para profissional com formação jurídica, ainda que inserido em contexto de saúde pública e com outras áreas também ofertadas.
 
-Title:   Comarca de Três Pontas abre seleção para estágio em Direito com vagas para graduação e pós | Equipe Positiva
-URL:     https://equipepositiva.com/comarca-de-tres-pontas-abre-selecao-para-estagio-em-direito-com-vagas-para-graduacao-e-pos/
-Career:   estagio
-Group:   comarca-tres-pontas-mg-estagio-direito
-Reason:  Seleção de estágio em Direito aberta pela Comarca de Três Pontas (MG) com vagas para estudantes de graduação e pós-graduação. Oferece bolsas de R$ 3.033,42 (graduação) e R$ 3.751,50 (pós-graduação). Inscrições de 21 a 29 de maio de 2026, presencialmente no Fórum local. Prova em 26 de junho de 2026. Oportunidade de experiência prática no ambiente forense.
-
-Title:   Instituto de Atendimento Socioeducativo ES abre processo seletivo com vagas para técnico superior | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/instituto-de-atendimento-socioeducativo-es-abre-processo-seletivo-com-vagas-para-tecnico-superior
-Career:   administrativo
-Group:   iases-espirito-santo-tecnico-superior-socioeducativo-direito
-Reason:  Processo seletivo simplificado para técnico superior socioeducativo no IASES/ES com vagas específicas para bacharéis em Direito. Contrato temporário de 12 meses (renovável) com remuneração de R$ 8.151,60 + auxílio-alimentação. Seleção sem prova objetiva, baseada em análise de títulos e experiência profissional. Exige diploma em Direito reconhecido pelo MEC e registro na OAB. Atribuições incluem atendimento técnico, elaboração de pareceres e diagnósticos, articulação com rede de proteção e participação em núcleos interdisciplinares no contexto de medidas socioeducativas. Inscrições até 28 de maio de 2026 pelo portal selecao.es.gov.br. Vagas em três regiões do Espírito Santo com cotas para PcD, pessoas negras e indígenas.
-
-Title:   Com 220 vagas e iniciais de até R$ 6 mil, Assembleia do Ceará publica novo edital para servidores
-URL:     https://ceisc.com.br/blog/post/com-220-vagas-e-iniciais-de-ate-r-6-mil-assembleia-do-ceara-publica-novo-edital-para-servidores?category=concursos
+Title:   Prefeitura de Iretama - PR abre concurso público com remuneração de até R$ 13.083,81
+URL:     https://www.pciconcursos.com.br/noticias/prefeitura-de-iretama-pr-abre-concurso-publico-com-remuneracao-de-ate-13083
 Career:   procuradorias
-Group:   alece-ceara-analista-legislativo
-Reason:  Edital da Assembleia Legislativa do Ceará com 200 vagas imediatas para Analista e Técnico Legislativo, além de 400 em cadastro reserva. Salários iniciais até R$ 6,1 mil. Inscrições até 22 de junho de 2024, provas em 16 de agosto. Banca: Idecan. Oportunidade em carreira legislativa com remuneração significativa e grande volume de vagas.
+Group:   prefeitura-iretama-pr-procurador-juridico
+Reason:  Concurso público da Prefeitura de Iretama-PR com cargo de Procurador Jurídico (cadastro de reserva) destinado a bacharéis em Direito. O cargo é de nível superior, regime estatutário, com seleção por prova objetiva e discursiva. Inscrições abertas de 27/05 a 25/06/2026, prova em 12/07/2026. Taxa de inscrição R$ 130,00. Edital publicado pela Fundação Fafipa.
 
-Title:   Concurso ISS Manaus: FCC é a banca; edital é iminente - Blog Magistrar Educacional
-URL:     https://magistrarcursos.com.br/blog/concurso-iss-manaus-fcc-e-a-banca-edital-e-iminente/
+Title:   Edital CISCOPAR 2026 abre concurso para 16 vagas de até R$ 4,7 mil
+URL:     https://www.acheconcursos.com.br/concursos-parana/edital-ciscopar-2026-abre-concurso-para-16-vagas-de-ate-r-4-7-mil-90338
 Career:   administrativo
-Group:   prefeitura-manaus-am-auditor-fiscal-tributos-municipais
-Reason:  Concurso para Auditor Fiscal de Tributos Municipais (AFTM) na Prefeitura de Manaus. A banca FCC foi oficialmente contratada em maio de 2026, com investimento de R$ 996 mil e edital esperado para breve. O cargo exige formação jurídica sólida, abrangendo Direito Tributário, Constitucional e Administrativo. Trata-se de carreira fiscal municipal de grande porte que não é preenchida há anos, com remuneração elevada e alto grau de competitividade.
+Group:   ciscopar-toledo-pr-assessor-juridico
+Reason:  Concurso público para o CISCOPAR (Consórcio Intermunicipal de Saúde Costa Oeste do Paraná) com vaga específica para Assessor Jurídico, cargo que exige diploma em Direito com registro ativo na OAB e oferece salário de R$ 4.620,91. Além dessa posição, há oportunidades em outros cargos de nível superior e técnico. A prova inclui questões de Direito Administrativo e Constitucional para diversos níveis. Inscrições de 22/05 a 15/06/2026, prova em 12/07/2026 em Toledo/PR, com validade de 2 anos.
 
-Title:   Edital ALECE PUBLICADO! São 600 vagas e até R$ 6,1 mil!
-URL:     https://www.estrategiaconcursos.com.br/blog/concurso-alece-edital-publicado-2026/
+Title:   IASES-ES abre vagas para Técnico Superior Socioeducativo
+URL:     https://www.acheconcursos.com.br/concursos-espirito-santo/processo-seletivo-iases-es-abre-vagas-tecnico-superior-socioeducativo-90322
 Career:   administrativo
-Group:   alece-ceara-analista-legislativo
-Reason:  Concurso para Analista Legislativo na Assembleia Legislativa do Ceará com 20 vagas imediatas + 40 cadastro de reserva especificamente para a especialidade de Direito, exigindo graduação em Direito e inscrição na OAB. Salário de R$ 6.126,48, provas em 16 de agosto de 2026, inscrições de 21 de maio a 22 de junho. Oportunidade relevante para bacharéis em Direito que buscam carreira em órgãos legislativos estaduais, com remuneração atrativa e etapas que incluem prova objetiva, discursiva e avaliação de títulos.
+Group:   iases-es-tecnico-superior-socioeducativo-direito
+Reason:  Processo seletivo do IASES-ES com vagas específicas para Técnico Superior Socioeducativo na área de Direito. Exigência: diploma em Direito e registro no conselho (OAB). Salário de R$ 8.151,60 + R$ 800,00 de auxílio-alimentação, com jornada de 40h semanais. Seleção baseada em pontuação de experiência profissional (até 50 pontos) e qualificação profissional (até 50 pontos). Inscrições de 21 a 28 de maio de 2026 pelo site www.selecao.es.gov.br. Contrato de 12 meses prorrogável. Vagas em Grande Vitória, Regional Norte e Regional Sul do ES.
 
-Title:   Concurso INSS: ministro confirma previsão de novo edital com 10 mil vagas
-URL:     https://jcconcursos.com.br/amp/noticia/concursos/concurso-inss-ministro-confirma-previsao-de-10-mil-vagas-142788
+Title:   Concurso da Alece: publicado edital com 600 vagas e salários acima de R$ 6 mil
+URL:     https://jcconcursos.com.br/noticia/concursos/concurso-alece-edital-142795
 Career:   administrativo
-Group:   inss-brasilia-df-analista-seguro-social
-Reason:  Confirmação oficial do Ministério da Previdência sobre novo concurso INSS com aproximadamente 10 mil vagas (8.501 técnicos e 1.499 analistas), com edital previsto para 2027. Notícia relevante para planejamento de candidatos, incluindo informações sobre requisitos (técnico: ensino médio; analista: nível superior), remuneração inicial (R$ 6.402,76 e R$ 9.219,11 respectivamente), estrutura de prova anterior (120 questões) e disciplinas específicas abrangendo direito constitucional, administrativo, legislação previdenciária e seguridade social.
+Group:   alece-ceara-analista-legislativo-direito
+Reason:  Concurso da Assembleia Legislativa do Ceará com 600 vagas (200 imediatas + 400 cadastro reserva) em diversos cargos. Para bacharéis em Direito, destaca-se a especialidade 'analista legislativo — direito' com 20 vagas imediatas e 40 de reserva, salário de R$ 6.126,48, jornada de 30h semanais, regime estatutário. Inscrições até 22 de junho, provas em 16 de agosto. Edital publicado pela banca Idecan.
+
+Title:   Concurso da Câmara de Presidente Prudente (SP) tem inscrições prorrogadas
+URL:     https://jcconcursos.com.br/noticia/concursos/concurso-camara-presidente-prudente-sp-prorrogacao-inscricao-142801
+Career:   administrativo
+Group:   camara-presidente-prudente-sp-controlador-interno
+Reason:  Concurso da Câmara de Presidente Prudente com prorrogação de inscrições até 24 de junho. Oferece 4 vagas para cargos de níveis médio e superior, incluindo controlador interno (cargo que exige formação em Direito conforme edital). Salários de R$ 5.311 a R$ 22.010,63. Provas objetiva e discursiva marcadas para 12 de julho. Organizado pela FCC. Informação sobre prorrogação é relevante para candidatos acompanhando o certame.
+
+Title:   Concurso da Câmara de Guarulhos terá 40 vagas; veja cargos, provas e quando sai a banca - Tribuna de Jundiaí
+URL:     https://tribunadejundiai.com.br/economia/concursos/concurso-camara-guarulhos-2026-vagas-edital-provas/
+Career:   administrativo
+Group:   camara-guarulhos-sp-analista-legislativo
+Reason:  Concurso da Câmara de Guarulhos com 40 vagas, sendo 20 para nível médio (técnico legislativo) e 20 para nível superior em cargos como consultor legislativo, analista de controle interno e analista legislativo. Para nível superior, alguns cargos aceitam formados em Direito (políticas públicas, economia, controle interno e folha de pagamento). Edital previsto para segundo semestre de 2026, com banca a ser escolhida em julho de 2026. Prova objetiva com 60 questões e prova dissertativa. Inscrições custam R$ 76,90 (médio) ou R$ 111,51 (superior).
+
+Title:   Concurso PGE AC Procurador: participe da revisão de véspera!
+URL:     https://blog.grancursosonline.com.br/concurso-pge-ac-procurador-revisao-de-vespera-2026/
+Career:   procuradorias
+Group:   pge-acre-procurador
+Reason:  Concurso para Procurador da Procuradoria-Geral do Estado do Acre com 10 vagas imediatas e remuneração de R$ 25.996,16. Provas marcadas para 24 de maio de 2026, com primeira etapa (Prova Objetiva) nesta data, seguida por Prova Escrita Subjetiva, Provas Práticas, Prova Oral e Avaliação de Títulos. Banca: FGV. Alta concorrência com 1.793 inscritos. O conteúdo anuncia uma revisão de véspera gratuita no dia anterior às provas, abrangendo disciplinas centrais para a carreira (Direito Administrativo, Constitucional, Civil, Processual Civil, Tributário, Trabalho, Financeiro, Ambiental, Empresarial e Previdenciário).
+
+Title:   PR-MA convoca candidato aprovado no processo seletivo de estágio em Direito (Graduação) — Ministério Público Federal
+URL:     https://www.mpf.mp.br/o-mpf/unidades/pr-ma/noticias/pr-ma-convoca-candidato-aprovado-no-processo-seletivo-de-estagio-em-direito-graduacao-4
+Career:   estagio
+Group:   mpf-maranhao-estagio-direito-graduacao
+Reason:  Convocação de candidato aprovado em processo seletivo de estágio em Direito no Ministério Público Federal, unidade Maranhão. O estágio possui carga horária de 4 horas diárias. Trata-se de oportunidade para estudante de graduação em Direito com prazo de apresentação de documentação entre 25 e 29 de maio de 2026. A convocação é nominada e especifica todos os requisitos documentais necessários para formalização.
+
+Title:   Inscrições do processo seletivo on-line de estágio da Prefeitura de Caraguatatuba para 37 cursos terminam na quarta-feira – Prefeitura de Caraguatatuba
+URL:     https://www.caraguatatuba.sp.gov.br/pmc/2026/05/inscricoes-do-processo-seletivo-on-line-de-estagio-da-prefeitura-de-caraguatatuba-para-37-cursos-terminam-na-quarta-feira/
+Career:   estagio
+Group:   prefeitura-caraguatatuba-sp-estagiario-direito
+Reason:  Processo seletivo para estágio em prefeitura municipal com vagas específicas para estudantes de Direito (1º ao 4º semestre e a partir do 5º semestre). Oferece bolsa-auxílio de R$ 1.621,00 mensais, auxílio-transporte e carga horária de 25-30 horas semanais. Seleção por prova online de múltipla escolha com questões de Língua Portuguesa e Conhecimentos Gerais. Inscrições encerram em 27/5/2026. Validade de 12 meses com possibilidade de renovação. Atua nas secretarias municipais conforme necessidades da administração.
+
+Title:   Concurso Prefeitura de Iretama PR: vagas para todos os níveis em 2026 | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/concurso-prefeitura-de-iretama-pr-vagas-para-todos-os-niveis-em-2026
+Career:   administrativo
+Group:   prefeitura-iretama-pr-procurador-juridico
+Reason:  Concurso da Prefeitura de Iretama PR com múltiplas oportunidades para bacharéis em Direito no cargo de Procurador Jurídico (nível superior). O certame oferece provimento efetivo com estabilidade após 3 anos de estágio probatório, regime estatutário e remuneração inicial de até R$ 13.083,81. Para o cargo específico de Procurador Jurídico há prova discursiva além da objetiva. Inscrições de 27/05 a 25/06/2026, provas objetivas em 12/07/2026, organizado pela Fundação FAFIPA. Edital nº 014/2026.
+
+Title:   Concurso Câmara Municipal de Princesa Isabel PB abre 9 vagas | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/concurso-camara-municipal-de-princesa-isabel-pb-abre-9-vagas
+Career:   administrativo
+Group:   camara-princesa-isabel-pb-analista-legislativo
+Reason:  Concurso da Câmara Municipal de Princesa Isabel com vaga de Analista Legislativo exclusiva para bacharel em Direito com OAB, exigindo 5 anos ininterruptos em órgãos/entidades públicas, salário de R$ 3.000 e jornada de 30h semanais. Também oferece cargo de Técnico Legislativo (nível superior) com requisito menor. Prova objetiva em 12 de julho de 2026, inscrições de 27 de maio a 29 de junho de 2026 pela FUNVAPI. Apresenta conteúdo específico em legislação e ética na administração pública.
+
+Title:   Concurso Câmara dos Deputados PLF: veja resultado da objetiva
+URL:     https://blog.grancursosonline.com.br/concurso-camara-dos-deputados-policial-legislativo-resultado-final-prova-obejtiva-2026/
+Career:   policiais
+Group:   camara-dos-deputados-df-policial-legislativo-federal
+Reason:  Divulgação de resultado final da prova objetiva e resultado provisório da análise documental para o concurso de Policial Legislativo Federal da Câmara dos Deputados. O certame oferece 40 vagas imediatas e 40 de cadastro de reserva, com remuneração de R$ 23.112,50. A notícia informa sobre gabaritos oficiais, prazos para recursos (23 a 26 de maio) e próximos procedimentos, incluindo análise de deficiência e convocações previstas para 2 de junho de 2026.
+
+Title:   DPU retifica cronograma de seleção para Residência Jurídica no Distrito Federal
+URL:     https://concursonews.com/2026/05/dpu-retifica-cronograma-de-selecao-para-residencia-juridica-no-distrito-federal/
+Career:   estagio
+Group:   dpu-distrito-federal-residencia-juridica
+Reason:  Retificação do cronograma do Edital DPU nº 1/2026 para Residência Jurídica na DPU/Distrito Federal. As datas das etapas finais foram alteradas: resultado preliminar agora em 25/05/2026 (antes 20/05), e resultado final em 28/05/2026 (antes 26/05). Mudança importante para candidatos já inscritos ou interessados em se inscrever, pois afeta prazos de recurso e divulgação de resultados. Demais critérios de seleção e requisitos mantêm-se inalterados.
+
+Title:   Com previsão de concurso, TJ AL atualiza Lei de Cotas; veja! | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/concurso-tj-al-2026-lei-de-cotas-atualizada
+Career:   tribunais
+Group:   tj-alagoas-analista-judiciario-oficial-de-justica-avaliador
+Reason:  Notícia sobre atualização da política de cotas do TJ AL que impactará diretamente o próximo concurso para Analista Judiciário (Oficial de Justiça Avaliador), cargo que exige formação em Direito. A resolução aprovada estabelece novas regras de reserva de vagas (mínimo 30% para ações afirmativas, com distribuição de 25% para pretos/pardos, 3% para indígenas e 2% para quilombolas) e remove cláusulas de barreira para cotistas. O concurso está em fase de preparação com comissão organizadora formada. Informação relevante para candidatos monitorando este certame, especialmente quanto aos critérios de seleção e possibilidades de aprovação via ações afirmativas.
+
+Title:   Agência Minas Gerais | Governo do Estado homologa resultado final do concurso para delegado da Polícia Civil de Minas Gerais
+URL:     https://www.agenciaminas.mg.gov.br/noticia/governo-do-estado-homologa-resultado-final-do-concurso-para-delegado-da-policia-civil-de-minas-gerais
+Career:   policiais
+Group:   pcmg-minas-gerais-delegado
+Reason:  Homologação do resultado final do concurso para Delegado da Polícia Civil de Minas Gerais, com 54 aprovados que serão nomeados nos próximos dias. O certame reuniu mais de 45 mil candidatos e faz parte de um processo maior de expansão da instituição que já nomeou 165 investigadores, 28 peritos criminais e 12 médicos-legistas. Os aprovados passarão por formação técnico-profissional na Acadepol antes de atuar nas delegacias.
+
+Title:   Quase 3 mil vagas: grandes editais publicados nesta semana que você deve ter no radar
+URL:     https://jcconcursos.com.br/noticia/concursos/quase-3-mil-vagas-grandes-editais-publicados-nesta-semana-que-voce-deve-ter-no-radar-142808
+Career:   tribunais
+Group:   tj-ceara-tecnico-judiciario
+Reason:  Matéria agregadora com múltiplos certames de interesse jurídico. Destaca-se: TJ CE com 24 vagas para técnico judiciário, analista judiciário e oficial de Justiça (inscrições até 22/06, provas 9/08); PGE RJ com 5 vagas para procurador (inscrições até 17/06); CRQ RS com cargo de advogado entre outras posições (inscrições até 6/07, provas 2/08); CRT SP com cargo de advogado (inscrições até 6/07, provas 2/08); Alece com analista legislativo (inscrições até 22/06, provas 16/08). Também inclui carreiras policiais e militares. Útil para acompanhamento de múltiplos editais em aberto simultaneamente.
+
+Title:   Assembleia Legislativa do Ceará abre edital com 600 vagas e salários de até R$ 6,1 mil | Rádio Itatiaia
+URL:     https://www.itatiaia.com.br/emprego-e-concursos/assembleia-legislativa-do-ceara-abre-edital-com-600-vagas-e-salarios-de-ate-r-61-mil/
+Career:   administrativo
+Group:   alece-ceara-analista-legislativo-direito
+Reason:  Concurso da Assembleia Legislativa do Ceará com 600 vagas distribuídas entre Técnico Legislativo (nível médio, 90 vagas, R$ 3.059,47) e Analista Legislativo (nível superior, 510 vagas, R$ 6.126,48). Para bacharéis em Direito, destaca-se a área de Direito mencionada entre as oportunidades. Inscrições de 21 de maio a 22 de junho de 2025, provas em 16 de agosto de 2026. Jornada de 30 horas/semana. Organizado pelo Idecan com taxa de R$ 97 (nível médio) ou R$ 137 (nível superior).
 
 Title:   Prefeitura de Apucarana autoriza concurso público e PSS com 57 vagas imediatas - Prefeitura Municipal de Apucarana
-URL:     http://www.apucarana.pr.gov.br/site/prefeitura-de-apucarana-autoriza-concurso-publico-e-pss-com-57-vagas-imediatas/
+URL:     https://www.apucarana.pr.gov.br/site/prefeitura-de-apucarana-autoriza-concurso-publico-e-pss-com-57-vagas-imediatas/
 Career:   administrativo
 Group:   prefeitura-apucarana-pr-procurador-juridico
-Reason:  Prefeitura de Apucarana (PR) autoriza concurso público com 57 vagas imediatas em níveis médio e superior, incluindo cargo de Procurador Jurídico (1 vaga) com salário de até R$ 16.381,41. Também abre PSS para contratação temporária. O concurso será organizado pela FAU e contempla cargos como Administrador, Agente Fiscal, Economista e Procurador Jurídico, com formação de cadastro de reserva para Arquiteto, Engenheiro Civil e Médico Veterinário. Editais serão publicados em breve com cronograma divulgado nos próximos 60 dias.
+Reason:  Concurso público e PSS da Prefeitura de Apucarana com 57 vagas imediatas. Destaca-se a oportunidade para Procurador Jurídico (1 vaga no concurso) e cargos administrativos com formação em nível superior. O concurso será organizado pela FAU e o PSS pela Unioeste, com editais a serem publicados em breve e cronograma divulgado em até 60 dias. Salários de R$ 5.415,55 a R$ 16.381,41. Também há vagas para Administrador, Economista, Agente Fiscal e diversos profissionais de saúde e educação.
 
-Title:   Câmara anuncia concurso para todos os níveis com salário de até R$ 5 mil no Pará • DOL
-URL:     https://dol.com.br/concursos/municipais/942377/camara-anuncia-concurso-para-todos-os-niveis-com-salario-de-ate-r-5-mil-no-para
+Title:   TRT da 15ª Região: inscrições abertas para processo seletivo 2026
+URL:     https://jcconcursos.com.br/noticia/empregos/trt-da-15-regiao-inscricoes-abertas-para-processo-seletivo-2026-142797
+Career:   estagio
+Group:   trt-campinas-sp-estagiario
+Reason:  Processo seletivo para formação de cadastro reserva de estagiários no TRT da 15ª Região (Campinas/SP). Aberto para diversas áreas, incluindo Direito. Candidatos selecionados atuarão 30 horas semanais com bolsa de R$ 1.500/mês. Prova inclui noções de direito do trabalho específico para alunos de Direito. Inscrições via CIEE até 1º de julho. Validade de 12 meses. Oportunidade relevante para bacharelandos em Direito buscarem experiência prática no Poder Judiciário trabalhista.
+
+Title:   Concurso TSE Unificado: portaria autoriza 872 nomeações este ano | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/concurso-tse-unificado-2026-portaria-872-nomeacoes
+Career:   tribunais
+Group:   tse-brasilia-analista-judiciario-e-tecnico-judiciario
+Reason:  Portaria do TSE autoriza 872 nomeações em 2026 para cargos de Técnico e Analista Judiciário na Justiça Eleitoral (TSE e TREs). A publicação é importante para candidatos aprovados no Concurso TSE Unificado 2024, pois confirma a liberação orçamentária para provimentos durante o ano, incluindo 474 nomeações para cargos recém-criados pela Lei 15.374/2026. Detalha quantitativo de vagas por tribunal e estado, permitindo que aprovados acompanhem cronograma de suas convocações.
+
+Title:   Iases abre processo seletivo para temporários com salários de até R$ 8 mil
+URL:     https://www.agazeta.com.br/concursos/iases-abre-processo-seletivo-para-temporarios-com-salarios-de-ate-r-8-mil-0526
+Career:   administrativo
+Group:   iases-es-tecnico-superior-socioeducativo-direito
+Reason:  Processo seletivo simplificado do Instituto de Atendimento Socioeducativo do Espírito Santo (Iases) para contratação temporária de Técnico Superior Socioeducativo na área de Direito. Oferta de 3 vagas para bacharéis em Direito (Grande Vitória, Regional Norte e Regional Sul), com remuneração de R$ 8.151,60 mais R$ 800,00 de auxílio-alimentação. Contrato de 12 meses prorrogável. Inscrições até 28 de maio via www.selecao.es.gov.br. Seleção envolve comprovação de informações, investigação social e sindicância de vida pregressa.
+
+Title:   TSE publica portaria que autoriza o provimento de 872 vagas em todo o país
+URL:     https://contilnetnoticias.com.br/editais-concursos/tse-publica-portaria-que-autoriza-o-provimento-de-872-vagas-em-todo-o-pais/
+Career:   tribunais
+Group:   tse-brasilia-analista-judiciario-e-tecnico-judiciario
+Reason:  Publicação da Portaria nº 229/2026 que autoriza formalmente o provimento de 872 vagas no TSE e TREs em todo o país. O ato representa o desbloqueio normativo para convocação dos aprovados no Concurso TSE Unificado (412 vagas imediatas + cadastro reserva), que oferta cargos de Técnico e Analista Judiciário em diversas especialidades. Inclui 398 vagas em cargos já existentes e 474 em novos cargos criados por lei. Salários de R$ 8.529,65 (Técnico) a R$ 13.994,78 (Analista). Meta institucional é nomeações antes das eleições de 2026, com distribuição concentrada no TRE-SP (59), TRE-MG (50) e TRE-DF (89 apenas na segunda frente).
+
+Title:   Advogado CESAMA 2026: quais são as etapas do concurso com salário de R$ 9 mil?
+URL:     https://cj.estrategia.com/portal/advogado-cesama-2026-quais-sao-as-etapas-do-concurso/
+Career:   administrativo
+Group:   cesama-juiz-de-fora-mg-advogado
+Reason:  Concurso para Advogado em empresa pública de saneamento (CESAMA) em Juiz de Fora/MG, com salário inicial de R$ 9.065,06. Exige diploma em Direito e registro ativo na OAB. Processo seletivo com prova objetiva (40 questões: português, informática e direito) e prova discursiva (2 questões de conhecimentos jurídicos específicos). Regime celetista com benefícios (vale-transporte, alimentação, saúde, odontológico e seguro de vida). Carga horária de 40h semanais.
+
+Title:   Concurso da Arsal: prorrogado prazo para pedir isenção da taxa de inscrição
+URL:     https://jcconcursos.com.br/noticia/concursos/concurso-da-arsal-prorrogado-prazo-para-pedir-isencao-da-taxa-de-inscricao-142822
+Career:   administrativo
+Group:   arsal-maceio-al-analista-regulacao
+Reason:  Concurso da Arsal para analista de regulação de nível superior com 32 vagas (16 imediatas + 16 cadastro reserva) em Alagoas. Salário inicial de R$ 5.767,15 para 40h semanais. Prova objetiva com 120 itens (50 básicos + 70 específicos) e prova discursiva. Notícia sobre prorrogação do prazo de isenção de taxa (até 24 de maio) e inclusão de isenção para pessoas com TEA. Inscrições até 15 de junho de 2026, provas em 9 de agosto de 2026. Cargo em agência reguladora estadual típico para bacharéis em Direito.
+
+Title:   Justiça Federal abre processo seletivo para estágio na área de Direito, em Umuarama
+URL:     https://umuarama.portaldacidade.com/noticias/cidade/justica-federal-abre-processo-seletivo-para-estagio-na-area-de-direito-em-umuarama-2646
+Career:   estagio
+Group:   jf-umuarama-pr-estagio-direito
+Reason:  Processo seletivo para estágio na Justiça Federal do Paraná, especificamente na Subseção Judiciária de Umuarama. Destinado a estudantes de Direito entre 3º e 8º período. Inscrições até 1º de junho de 2026, prova em 3 de junho com questões objetivas e dissertativa sobre disciplinas jurídicas fundamentais. Oferece bolsa-auxílio de R$ 1.547,15 mais auxílio-transporte, com carga de 20 horas semanais. Oportunidade de experiência prática em Justiça Federal durante formação acadêmica.
+
+Title:   Prefeitura anuncia concurso e PSS com 57 vagas e salário de R$ 16,3 mil
+URL:     https://gmconline.com.br/noticias/parana/prefeitura-anuncia-concurso-e-pss-com-57-vagas-e-salario-de-r-163-mil/
+Career:   administrativo
+Group:   prefeitura-apucarana-pr-procurador-juridico
+Reason:  Prefeitura de Apucarana (PR) abre concurso público com 9 vagas e PSS com 48 vagas. Entre as oportunidades jurídicas, destaca-se cargo de Procurador Jurídico (1 vaga) no concurso efetivo, com salários entre R$ 4 mil e R$ 16,3 mil. O edital ainda não foi publicado, mas as bancas organizadoras (Fundação Unicentro para concurso e Unioeste para PSS) já foram contratadas. Também há vagas para Administrador e Economista, com criação de novos cargos motivada por reforma tributária futura.
+
+Title:   Alece publica edital com 200 vagas para concurso público - iBand CE
+URL:     https://ibandce.com.br/alece-concurso-200-vagas/
+Career:   administrativo
+Group:   alece-ceara-analista-legislativo-direito
+Reason:  Concurso público da Assembleia Legislativa do Ceará com 200 vagas imediatas distribuídas entre Analista Legislativo (170) e Técnico Legislativo (30), além de 400 vagas de cadastro de reserva. O cargo de Analista Legislativo exige formação superior e envolve atividades típicas de assessoramento jurídico legislativo, incluindo prova discursiva. Inscrições até 22 de junho, provas em 16 de agosto. Oferece 29 especialidades diferentes, sendo oportunidade relevante para juristas buscarem carreira no setor legislativo estadual.
+
+Title:   Câmara Municipal de Guarulhos abrirá concurso para 40 vagas - GuarulhosWeb
+URL:     https://guarulhosweb.com.br/camara-municipal-de-guarulhos-abrira-concurso-para-40-vagas/
+Career:   administrativo
+Group:   camara-guarulhos-sp-consultor-legislativo
+Reason:  Concurso para Câmara Municipal de Guarulhos com 40 vagas iniciais em diversos cargos. Destaca-se a vaga de Consultor Legislativo IV (Políticas Públicas) com 2 oportunidades que exigem Direito como requisito de formação superior. Também há 6 vagas para Analista de Controle Interno VI que aceitam Direito entre as formações permitidas. Cargos com regime estatutário, estabilidade funcional e salários a serem divulgados. Banca organizadora será escolhida em pregão de 22 de julho, com certame previsto para segundo semestre. Provas objetivas (60 questões) e discursivas, com avaliação curricular posterior para candidatos habilitados.
+
+Title:   Concurso Câmara de Igarapé-Miri (PA) abre edital com 28 vagas e paga até R$ 5 mil
+URL:     https://concursosnobrasil.com/concursos/pa/2026/05/21/concurso-prefeitura-de-igarape-miri-pa-abre-edital-com-29-vagas-e-paga-ate-r-5-mil/
 Career:   procuradorias
 Group:   camara-igarape-miri-pa-procurador-juridico
-Reason:  Concurso para Câmara Municipal de Igarapé-Miri (PA) com vaga específica de Procurador Jurídico (cargo de nível superior), remuneração de R$ 5 mil mensais, jornada de 20 horas semanais, regime estatutário. Além da prova objetiva, inclui prova discursiva e avaliação de títulos. Inscrições até 28 de junho de 2026, prova em 26 de julho de 2026. Oportunidade em câmara municipal com características menos competitivas que certames estaduais e federais.
+Reason:  Concurso para Procurador Jurídico da Câmara de Igarapé-Miri (PA) com 1 vaga de nível superior. O cargo envolve assessoria jurídica legislativa municipal, com seleção por prova objetiva (40 questões), prova discursiva em estudo de caso e prova de títulos. Remuneração de R$ 5 mil mensais. Inscrições de 27 de maio a 28 de junho de 2026, com prova marcada para 26 de julho. Edital organizado pelo Instituto Vicente Nelson.
 
-Title:   Com 200 vagas e iniciais de até R$ 6 mil, Assembleia do Ceará publica novo edital para servidores
-URL:     https://ceisc.com.br/blog/post/com-200-vagas-e-iniciais-de-ate-r-6-mil-assembleia-do-ceara-publica-novo-edital-para-servidores
-Career:   administrativo
-Group:   alece-ceara-analista-legislativo
-Reason:  Concurso para Assembleia Legislativa do Ceará com 200 vagas imediatas e 400 em cadastro reserva para cargos de Analista e Técnico Legislativo. Salários iniciais de R$ 3.059,47 a R$ 6.126,48. Inscrições abertas até 22 de junho, provas em 16 de agosto. Primeiro edital desde 2021. Banca Idecan. Cargos requerem formação em nível médio e superior, com avaliação em prova objetiva, discursiva e títulos (para analistas).
-
-Title:   BA: FESF-SUS anuncia abertura de novo seletivo com salários de até R$ 8 mil
-URL:     https://concursosnobrasil.com/concursos/ba/2026/05/21/ba-fesf-sus-anuncia-abertura-de-novo-seletivo-com-salarios-de-ate-r-8-mil/
-Career:   administrativo
-Group:   fesf-sus-ba-analista-saude
-Reason:  Processo seletivo da FESF-SUS (Fundação Estadual de Saúde da Família) na Bahia com uma vaga específica para Bacharel em Direito de nível superior. Contratação temporária com salário de até R$ 8.159,26 mensais e jornada de 40 horas semanais. Seleção por análise documental considerando experiência profissional, cursos de capacitação e especialização. Inscrições abertas até 26/27 de maio de 2026 sem taxa. Válido por 6 meses prorrogável por mais um ano.
-
-Title:   Inscrições para estágio na Petrobras começam nesta quinta-feira (21/05) com 150 vagas
-URL:     https://agencia.petrobras.com.br/w/institucional/05-com-150-vagas
+Title:   Secretaria da Cultura SP prorroga inscrições para processo seletivo 2026
+URL:     https://jcconcursos.com.br/noticia/empregos/secretaria-da-cultura-sp-prorroga-inscricoes-para-processo-seletivo-2026-142800
 Career:   estagio
-Group:   petrobras-multiplos-estados-estagio-advocacia
-Reason:  Programa de estágio na Petrobras com 150 vagas para estudantes de nível superior, incluindo a carreira de Advocacia. Oferece bolsa-auxílio de R$ 1.825, vale transporte e seguro, com regime de 20 horas semanais. Inscrições abertas de 21/05 a 03/06 por meio de prova objetiva online. Inclui ações afirmativas: 30% das vagas reservadas para mulheres, 10% para pessoas com deficiência e 30% para pessoas pretas, pardas, indígenas e quilombolas. Oportunidades distribuídas em 12 estados brasileiros.
+Group:   secretaria-cultura-sao-paulo-sp-estagiario
+Reason:  Processo seletivo para estágio na Secretaria da Cultura de São Paulo com 57 vagas. Inclui oportunidades específicas para bacharéis em Direito matriculados em cursos de nível superior. Bolsa-auxílio de R$ 937,59 mensais com jornada de 30 horas semanais, além de auxílio-transporte (R$ 242) e auxílio-alimentação (R$ 880). Prova online com questões de português e conhecimentos gerais. Inscrições prorrogadas até 25 de maio através do CIEE. Relevante para estudantes de Direito buscando oportunidades de experiência prática em órgão público estadual.
 
-Title:   Concursos TRF: veja os editais previstos para sair este ano | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concursos-trf
-Career:   tribunais
-Group:   trf-nacional-tecnico-e-analista-judiciario
-Reason:  Artigo panorâmico sobre concursos previstos nos Tribunais Regionais Federais em 2026. Destaca que TRF3 confirmou estudos para novo edital, com possíveis movimentações em TRF2, TRF5 conforme vencimento de validades. Detalha cargos (técnico e analista judiciário), salários (até R$16.040,88), benefícios e cronograma de validades dos concursos vigentes. Relevante para candidatos acompanhando oportunidades no Judiciário Federal.
-
-Title:   Concursos Mato Grosso 2026: veja vagas abertas e previstas | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concursos-mato-grosso
-Career:   administrativo
-Group:   mt-concursos-previstos-2026
-Reason:  Matéria sobre concursos previstos em Mato Grosso para 2026 envolvendo múltiplas carreiras jurídicas: TRT MT (técnicos e analistas judiciários), AL MT (analistas e técnicos legislativos), PC MT (delegados de polícia) e Sema MT (analistas de meio ambiente com nível superior). Destaca avanços administrativos como formação de comissões organizadoras e contratação de bancas, informações relevantes para acompanhamento de certames em estágios iniciais de planejamento.
-
-Title:   Folha do Estado | Suspensão de concurso gera suspeitas de possível benefício a servidor do TJ de MT
-URL:     https://www.folhadoestado.com.br/judiciario/suspensao-de-concurso-gera-suspeitas-de-possivel-beneficio-a-servidor-do-tj-de-mt/638137
-Career:   mp
-Group:   mp-mato-grosso-promotor-de-justica-substituto
-Reason:  Concurso para Promotor de Justiça Substituto do MP-MT com 8 vagas e salário inicial de R$ 37,7 mil foi suspenso por mandado de segurança que questionou pontos do edital, especificamente a realização da prova objetiva em São Paulo. A suspensão gerou denúncia anônima sobre possível favorecimento a servidor do TJ ligado ao processo. Certame permanece suspenso aguardando nova deliberação judicial, sendo essencial que candidatos acompanhem o desfecho para decidir sobre participação.
-
-Title:   Concurso Câmara Municipal de Igarapé-Miri PA: 28 vagas abertas | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-camara-municipal-de-igarape-miri-pa-28-vagas-abertas
+Title:   Concurso PGE AC Procurador: participe da revisão de véspera!
+URL:     https://blog.grancursosonline.com.br/concurso-pge-ac-procurador-revisao-de-vespera-2026/amp
 Career:   procuradorias
-Group:   camara-igarape-miri-pa-procurador-juridico
-Reason:  Concurso para a Câmara Municipal de Igarapé-Miri PA com 1 vaga de procurador jurídico (nível superior) exigindo graduação em Direito e registro na OAB. Cargo com salário de R$5.000, jornada de 20 horas, regime estatutário. Atribuições incluem emissão de pareceres, elaboração de projetos de lei e representação judicial/administrativa da câmara. Provas em julho de 2026, com etapas objetiva, discursiva e prova de títulos. Conteúdo aborda Direito Administrativo, Constitucional, Civil, Penal e legislação de advocacia pública municipal.
+Group:   pge-acre-procurador
+Reason:  Concurso para Procurador da Procuradoria-Geral do Estado do Acre com 10 vagas imediatas, prova objetiva marcada para 24 de maio de 2026. A notícia divulga uma revisão de véspera gratuita no dia anterior, abrangendo as principais disciplinas do certame (Direito Administrativo, Financeiro, Constitucional, Civil, Processual Civil, Tributário, Ambiental, Empresarial, Trabalhista, Previdenciário). Candidatos inscritos enfrentam alta concorrência (1.793 inscritos). Remuneração inicial de R$ 25.996,16. Processo seletivo em múltiplas etapas: prova objetiva, subjetiva, práticas, oral e avaliação de títulos.
 
-Title:   PJM Campo Grande/MS realizará processo seletivo para Residência na área de Direito – MINISTÉRIO PÚBLICO MILITAR
-URL:     https://www.mpm.mp.br/arquivos/72618
-Career:   estagio
-Group:   mpm-campo-grande-ms-residencia-juridica
-Reason:  Processo seletivo para Residência Jurídica no Ministério Público Militar em Campo Grande/MS com inscrições previstas para junho de 2026. Destinado a bacharéis em Direito com graduação concluída há no máximo 5 anos, ou candidatos em pós-graduação (especialização, mestrado, doutorado). A residência é programa de formação profissional que oferece oportunidade de desenvolvimento na carreira jurídica militar, com seleção competitiva e requisitos específicos de titulação.
-
-Title:   Concurso PM PI tem banca contratada e edital pode ser publicado | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-pm-pi-banca-contratada-2026
+Title:   Concurso Câmara dos Deputados PLF: veja resultado da objetiva
+URL:     https://blog.grancursosonline.com.br/concurso-camara-dos-deputados-policial-legislativo-resultado-prova-objetiva-2026/
 Career:   policiais
-Group:   pm-pi-soldado
-Reason:  Concurso para Polícia Militar do Piauí com mais de mil vagas (500 imediatas + 500 cadastro de reserva + 1 capelão). O cargo de oficial capelão exige formação em Teologia, não em Direito. Porém, o cargo de oficial PM exigiu em 2021 graduação em Direito com prova abrangendo Direito Constitucional, Administrativo, Penal, Militar e Processual Penal Militar. Edital previsto para junho de 2026, organizado pela FCC. Remuneração inicial de R$4.237,49 (soldado) e R$8.874,19 (oficial).
-
-Title:   ALECE - Alece publica edital para realização de concurso público com 200 vagas imediatas; inscrições abertas
-URL:     https://www.al.ce.gov.br/noticias/53146-alece-publica-edital-para-realizacao-de-concurso-publico-com-200-vagas-imediatas-inscricoes-abertas
-Career:   administrativo
-Group:   alece-ceara-analista-legislativo
-Reason:  Concurso público da Assembleia Legislativa do Ceará com 200 vagas imediatas para cargos de nível superior e médio. Destaca-se a abertura de 170 vagas para Analista Legislativo (nível superior) distribuídas em 29 especialidades, com remuneração de R$ 6.083,30 e jornada de 30h semanais. Provas objetivas, discursivas e avaliação de títulos marcadas para agosto em 14 cidades-polo do estado. Oferece cotas para PCD (5%), negros, indígenas e quilombolas (20%). Inscrições abertas até 22 de junho.
-
-Title:   Inscrições prorrogadas para estágio e residência jurídica na Defensoria da Bahia - Bahia Na Política
-URL:     https://bahianapolitica.com.br/inscricoes-prorrogadas-para-estagio-e-residencia-juridica-na-defensoria-da-bahia/
-Career:   estagio
-Group:   defensoria-bahia-residencia-juridica
-Reason:  Prorrogação de inscrições para Residência Jurídica na Defensoria Pública da Bahia com 40 vagas para bacharéis em Direito em pós-graduação. Bolsa-auxílio de R$ 1.850 + auxílio transporte, carga horária de 30h semanais. Também oferece 45 vagas de estágio jurídico para estudantes de Direito (5º-9º semestre) com bolsa de R$ 1.082. Inscrições até 02 de junho de 2026, provas em 14 de junho em Salvador.
-
-Title:   Concurso Alece 2026 publica edital com 200 vagas
-URL:     https://noticias.focusconcursos.com.br/noticias/concurso-alece-2026-publica-edital-com-200-vagas-cadastro-de-reserva-e-salarios-de-ate-r-6-mil
-Career:   administrativo
-Group:   alece-ceara-analista-legislativo
-Reason:  Concurso para Assembleia Legislativa do Ceará com 200 vagas imediatas para Analista Legislativo (170) e Técnico Legislativo (30). Inclui especialidades em Direito (20 vagas), Gestão e Governança (38), Jornalismo, Controle Interno, Ciências Contábeis e outras áreas. Salários até R$ 6.083,30, jornada 30h/semana, inscrições até 22/06, provas 16/08/2026. Banca Idecan, com provas em 14 cidades-polo do Ceará. Há formação de cadastro de reserva (400 vagas) e cotas para pessoas com deficiência, negros, indígenas e quilombolas.
-
-Title:   1ª Promotoria de Justiça abre processo seletivo para estagiários | Marcelo Lopes
-URL:     https://marcelolopes.jor.br/site/2026/05/21/1a-promotoria-de-justica-abre-processo-seletivo-para-estagiarios/
-Career:   estagio
-Group:   mp-cataguases-mg-estagio-pos-graduacao
-Reason:  Processo seletivo para estágio de pós-graduação em Direito no Ministério Público de Minas Gerais (MPMG), especificamente na 1ª Promotoria de Justiça da Comarca de Cataguases. Oferece 1 vaga imediata com formação de cadastro reserva. Inscrições até 27/05, 30h semanais presenciais com bolsa de R$ 1.850 + auxílio-transporte. Seleção em duas etapas: análise curricular (experiência acadêmica/profissional jurídica) e entrevista presencial. Validade de 6 meses prorrogável. Inclui ações afirmativas para PCD e negros.
-
-Title:   Suspensão de concurso do MP provoca suspeita de conflito de interesse no TJMT | Estadão MT
-URL:     https://www.estadaomatogrosso.com.br/judiciario/suspensao-de-concurso-do-mp-provoca-suspeita-de-conflito-de-interesse-no-tjmt/138529
-Career:   mp
-Group:   mp-mato-grosso-promotor-de-justica-substituto
-Reason:  Suspensão de etapa do concurso para Promotor de Justiça Substituto do MP-MT determinada por desembargador, com questionamentos sobre possível conflito de interesse devido à inscrição de assessor do magistrado no certame. A situação afeta diretamente candidatos inscritos, deixando o cronograma indefinido e gerando incerteza sobre prazos e procedimentos. Informação essencial para quem acompanha este processo seletivo específico.
-
-Title:   Concurso Alece: sai edital com 600 vagas e ganhos de até R$6 mil | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-alece-2026-edital
-Career:   administrativo
-Group:   alece-ceara-analista-legislativo
-Reason:  Concurso da Assembleia Legislativa do Ceará com 600 vagas, sendo 20 vagas imediatas + 40 de cadastro de reserva para Analista Legislativo na área de Direito, com salário inicial de R$6.126,48. Inscrições até 22 de junho, prova objetiva em 16 de agosto. Também oferece vagas em outras áreas para níveis médio e superior. Edital já publicado pela banca Idecan.
-
-Title:   Concurso ALECE abre 600 vagas com salários de até R$ 6.126,48
-URL:     https://concursosnobrasil.com/concursos/ce/2026/05/21/concurso-alece-abre-600-vagas-com-salarios-de-ate-r-6-12648/
-Career:   administrativo
-Group:   alece-ceara-analista-legislativo
-Reason:  Concurso da Assembleia Legislativa do Ceará com 200 vagas imediatas (170 Analista Legislativo e 30 Técnico Legislativo) e 400 de cadastro reserva. Analista Legislativo tem 20 vagas específicas para Direito, remuneração de R$ 6.126,48 mensais, jornada de 30h semanais, lotação em Fortaleza. Seleção em três etapas (objetiva, discursiva e títulos). Inscrições de 21/5 a 22/7/2026, provas em 16/8/2026. Cargo de nível superior em órgão legislativo estadual.
-
-Title:   TJ AL aprova cota de 30% para negros, indígenas e quilombolas em concursos
-URL:     https://cj.estrategia.com/portal/tj-al-aprova-cota-para-negros-indigenas-e-quilombolas-em-concursos/
-Career:   tribunais
-Group:   tj-alagoas-al-cotas-afirmativas
-Reason:  O TJ de Alagoas aprovou resolução que altera significativamente as regras de seus próximos concursos públicos. A mudança estabelece cotas de 30% para negros, indígenas e quilombolas em cargos efetivos e magistratura, com divisão específica (25% pretos/pardos, 3% indígenas, 2% quilombolas). Nota de corte reduzida em até 20% para cotistas e obrigatoriedade de bancas de heteroidentificação. Essas alterações impactam diretamente candidatos que planejam se inscrever em futuros editais do tribunal, afetando estratégia de preparação e expectativas de concorrência.
-
-Title:   Câmara de Vereadores abre concurso público com salário de R$ 7 mil
-URL:     https://www.portaltemponovo.com.br/camara-de-vereadores-abre-concurso-publico-com-salario-de-7-mil/
-Career:   procuradorias
-Group:   camara-montanha-es-procurador-legislativo
-Reason:  Concurso para Câmara Municipal de Montanha/ES com vagas para nível superior, incluindo Procurador Legislativo (cargo jurídico com salário de R$ 4.500 + auxílio, jornada de 20h/semana), Analistas Legislativos em diferentes áreas e Controle Interno. Apresenta prova objetiva e discursiva para Procurador Legislativo. Inscrições até 18 de junho de 2026 pelo Instituto Consulplan.
-
-Title:   Concurso PC MA tem 415 vagas anunciadas e banca contratada | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-pc-ma-2026-vagas-e-banca
-Career:   policiais
-Group:   pc-maranhao-delegado
-Reason:  Concurso PC MA com 415 vagas anunciadas e banca (Cebraspe) contratada. Edital previsto para junho. Inclui cargo de Delegado de Polícia exigindo graduação em Direito (salário R$20.474,25), além de Escrivão e Investigador (nível superior). Últimas etapas já regulamentadas (exames médicos, investigação social, TAF). Baseado em concurso anterior de 2017, espera-se provas objetivas e discursivas com conteúdo jurídico extenso para delegados.
-
-Title:   Concurso Câmara de Santiago do Sul (SC) abre vagas na área administrativa
-URL:     https://concursosnobrasil.com/concursos/sc/2026/05/20/concurso-camara-de-santiago-do-sul-sc-abre-vagas-na-area-administrativa/
-Career:   administrativo
-Group:   camara-santiago-do-sul-sc-analista-administrativo
-Reason:  Concurso da Câmara Municipal de Santiago do Sul (SC) com vaga para Analista Administrativo que aceita formação em Direito como qualificação. Cargo de nível superior em órgão legislativo municipal, com remuneração inicial de R$ 2.213,40 + benefícios, jornada de 20 horas semanais. Inscrições abertas de 25/05 a 25/06/2026 pela FAFIPA, taxa R$ 100. Prova objetiva (50 questões) e títulos, com aplicação prevista para 19/07/2026. Edital válido por 2 anos prorrogáveis.
-
-Title:   Concurso ALE RR contabilizou 32.659 inscrições!
-URL:     https://blog.grancursosonline.com.br/concurso-ale-rr-inscritos-2026/
-Career:   administrativo
-Group:   ale-roraima-analista-legislativo
-Reason:  Divulgação da lista preliminar de inscritos (32.659 candidatos) do concurso ALE RR com 226 vagas para cargos de nível superior nas carreiras de Consultor Legislativo, Analista Legislativo e Técnico Legislativo Especializado. Cronograma atualizado: publicação de vagas reservadas em 26/05/2026, convocação para provas em 03/06/2026 e aplicação das provas objetivas e discursivas em 28/06/2026. Remunerações de R$ 5.815,15 a R$ 39.589,56. Organização pela Fundação Carlos Chagas.
-
-Title:   ALECE - Programa de estágio da Alece fortalece formação profissional e cria oportunidades de carreira
-URL:     https://www.al.ce.gov.br/noticias/53125-programa-de-estagio-da-alece-fortalece-formacao-profissional-e-cria-oportunidades-de-carreira
-Career:   estagio
-Group:   alece-ceara-estagiario
-Reason:  Programa de estágio na Assembleia Legislativa do Ceará com inscrições abertas até 24/05/2026. Oferece vagas específicas para cursos de Direito nas áreas de direitos humanos e assessoria jurídica popular, além de outras graduações e pós-graduação. Bolsa de R$ 2.021,74 (graduação) ou R$ 2.144,27 (pós-graduação), auxílio-transporte e jornada de 20h semanais. Seleção realizada pela UPA com prova objetiva online em 31/05 e divulgação de resultados em 05/06. O programa oferece oportunidade de efetivação após o período de estágio, conforme exemplos mencionados de ex-estagiários que hoje ocupam funções permanentes na instituição.
+Group:   camara-dos-deputados-df-policial-legislativo-federal
+Reason:  Divulgação de resultado final da prova objetiva e resultado provisório de análise documental para o concurso de Policial Legislativo Federal da Câmara dos Deputados. O certame oferece 40 vagas imediatas e 40 para cadastro de reserva, com remuneração de R$ 23.112,50. Exige nível superior em qualquer área e CNH categoria B. A notícia informa sobre os gabaritos definitivos, prazos para recursos da análise documental (23 a 26 de maio) e próximos procedimentos, com previsão de convocações para 2 de junho de 2026.
 
