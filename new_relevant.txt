@@ -1,383 +1,257 @@
-Verificação: 2026-05-28T08:03:03.906770+00:00
-Links analisados: 171
-Links relevantes: 63
+Verificação: 2026-05-29T08:00:20.202361+00:00
+Links analisados: 162
+Links relevantes: 42
 ============================================================
 
-Title:   Saquarema RJ prepara concurso com 1.794 vagas; IBAM será a banca
-URL:     https://www.pciconcursos.com.br/previstos/saquarema-rj-prepara-concurso-com-1794-vagas-ibam-sera-a-banca
+Title:   Prefeitura de Lupércio - SP abre concurso e processo seletivo para diversos cargos
+URL:     https://www.pciconcursos.com.br/noticias/prefeitura-de-lupercio-sp-abre-concurso-e-processo-seletivo-para-diversos-cargos
 Career:   administrativo
-Group:   prefeitura-saquarema-rj-varios
-Reason:  Concurso da Prefeitura de Saquarema com 1.794 vagas distribuídas em três editais (Educação, Segurança e Saúde), incluindo cargos como professor, agente comunitário de saúde e guarda municipal. Também menciona concurso da Câmara Municipal com 28 vagas, incluindo procurador legislativo, auditor e contador. Banca: IBAM. Edital em breve. Estimativa de 59 mil inscritos.
+Group:   prefeitura-lupercio-sp
+Reason:  Concurso público para a Prefeitura de Lupércio-SP com vaga para Controlador Interno (cargo jurídico/administrativo de nível superior). Edital publicado em maio de 2026 com inscrições abertas de 13 de abril a 11 de maio de 2026, prova objetiva em 31 de maio. Vencimento de R$ 2.571,50 a R$ 5.250,00 conforme cargo, mais vale-alimentação de R$ 1.000,00. Validade de 2 anos com possibilidade de prorrogação. Oportunidade relevante para bacharel em Direito interessado em carreira administrativa municipal.
 
-Title:   Sefaz DF publica contrato com banca e sinaliza edital próximo com 256 vagas para auditor
-URL:     https://www.pciconcursos.com.br/previstos/sefaz-df-publica-contrato-com-banca-e-sinaliza-edital-proximo-com-256-vagas-para-auditor
-Career:   administrativo
-Group:   sefaz-df-auditor-fiscal
-Reason:  Sinalização de edital iminente para Auditor-Fiscal da SEFAZ-DF com 256 vagas. Cargo de nível superior com remuneração inicial de R$ 19.085,56, evoluindo até R$ 26.886,65. Prova objetiva com 150 itens (sistema certo/errado com anulação) e discursiva em duas partes (duas questões + dissertação de Conhecimentos Específicos). Último concurso (2019) cobrou Direito Administrativo, Constitucional, Civil, Tributário, Financeiro, Contabilidade Pública, Economia e Finanças Públicas, além de disciplinas técnicas. Taxa de inscrição R$ 175. Publicação do contrato com a banca (Cebraspe) confirma proximidade do edital.
-
-Title:   BH instala comissão para novo concurso do ISS com vagas para analista fazendário
-URL:     https://www.pciconcursos.com.br/previstos/bh-instala-comissao-para-novo-concurso-do-iss-com-vagas-para-analista-fazendario
-Career:   administrativo
-Group:   iss-belo-horizonte-mg-analista-fazendario
-Reason:  Prefeitura de Belo Horizonte instala comissão para organizar novo concurso do ISS-BH para analista fazendário. A comissão foi oficializada via portaria no Diário Oficial do Município, marcando o início dos preparativos. O próximo passo é definir o número de vagas e elaborar o projeto básico. Após conclusão do projeto básico, será escolhida a banca organizadora e o edital será divulgado. Último concurso (2012) exigiu nível superior em áreas como Contábeis, Análise de Sistemas, Ciência da Computação e Informática, com remuneração aproximada de R$ 6,3 mil à época. As provas avaliaram Língua Portuguesa, Matemática, Noções de Direito Administrativo e Constitucional, e Conhecimentos Específicos.
-
-Title:   Polícia Penal - RS publica edital retificado de concurso com vagas para nível médio e superior
-URL:     https://www.pciconcursos.com.br/noticias/policia-penal-rs-publica-edital-retificado-de-concurso-com-vagas-para-nivel-medio-e-superior
-Career:   policiais
-Group:   policia-penal-rs-analista-direito
-Reason:  Concurso para Polícia Penal do RS com 25 vagas específicas para Analista da Polícia Penal - Direito, além de outras vagas em nível superior e médio. Publicação de edital retificado com ajustes em requisitos e cronograma. Inscrições de 12 de maio a 12 de junho de 2026, com provas objetivas e discursivas agendadas para 9 de agosto de 2026. Remuneração de R$ 5.159,25 a R$ 9.745,26 conforme cargo. Seleção inclui prova teórico-objetiva, prova discursiva para analistas, avaliação psicológica e sindicância.
-
-Title:   Prefeitura de Platina - SP retifica concurso com salários de até R$ 12.226,49
-URL:     https://www.pciconcursos.com.br/noticias/prefeitura-de-platina-sp-retifica-concurso-com-salarios-de-ate-12226
+Title:   Concurso da Câmara de Salesópolis-SP é aberto para 5 cargos
+URL:     https://www.acheconcursos.com.br/concursos-sao-paulo/concurso-camara-salesopolis-sp-aberto-5-cargos-90486
 Career:   procuradorias
-Group:   prefeitura-platina-sp-procurador-juridico
-Reason:  Concurso da Prefeitura de Platina-SP com vaga para Procurador Jurídico Municipal (cargo de nível superior com remuneração de até R$ 12.226,49). A notícia é uma retificação que altera denominação de cargo (Agente de Desenvolvimento Infantil para Agente de Apoio Escolar) por decisão judicial e adequação normativa. Inscrições em dezembro de 2025, prova em janeiro de 2026. Certame inclui também vagas em áreas administrativas de interesse jurídico (Auditor Fiscal de Tributos, Controlador Interno).
+Group:   camara-salesopolis-sp-procurador-juridico
+Reason:  Concurso público para a Câmara Municipal de Salesópolis-SP com vagas para Procurador Jurídico Legislativo, cargo que exige formação superior em Direito e registro no Conselho de Classe. A vaga oferece salário de R$ 6.528,88 e inclui avaliação através de prova objetiva, redação, prova discursiva (peça processual/parecer jurídico) e avaliação de títulos. Inscrições até 29 de junho de 2026, com prova objetiva em 26 de julho de 2026.
 
-Title:   Prefeitura de Nova Candelária - RS abre concurso público com salários de até R$ 7.420,03
-URL:     https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-candelaria-rs-abre-concurso-publico-com-salarios-de-ate-7420
+Title:   Câmara de Iporã-PR abre concurso público com duas vagas
+URL:     https://www.acheconcursos.com.br/concursos-parana/concurso-publico-camara-ipora-pr-abre-duas-vagas-90470
+Career:   procuradorias
+Group:   camara-ipora-pr-procurador-juridico
+Reason:  Concurso público da Câmara de Iporã-PR com vaga para Procurador Jurídico (cargo de nível superior, remuneração R$ 9.938,26). Exige formação superior em Direito e inscrição na OAB. O certame incluirá prova objetiva, prova prática e prova de títulos. Inscrições de 28 de maio a 18 de junho de 2026, com provas marcadas para 19 de julho de 2026. Taxa de inscrição R$ 120,00 com possibilidade de isenção. Validade de 2 anos com possibilidade de prorrogação.
+
+Title:   Prefeitura de Nova Candelária-RS anuncia concurso público; vagas de R$ 7.420
+URL:     https://www.acheconcursos.com.br/concursos-rio-grande-do-sul/concurso-prefeitura-nova-candelaria-rs-2026-edital-inscricao-90467
 Career:   administrativo
-Group:   prefeitura-nova-candelaria-rs-auditor-tributario
-Reason:  Concurso público da Prefeitura de Nova Candelária-RS com cargo de Auditor Tributário (1 vaga + CR) em nível superior, remuneração até R$ 7.420,03, inscrições de 27/05 a 18/06/2026 e prova em 12/07/2026. Embora o edital contenha majoritariamente cargos de outras áreas, o cargo de Auditor Tributário apresenta interesse para profissionais com formação em Direito que buscam carreiras em administração pública municipal.
+Group:   prefeitura-nova-candelaria-rs
+Reason:  Concurso municipal com vagas para cargos jurídicos de nível superior, incluindo Auditor Tributário (exige formação em Ciências Jurídicas e Sociais) com salário de R$ 6.256,72. Também oferece vagas em carreiras administrativas e técnicas. Inscrições de 27/05 a 18/06/2026, provas em 12/07/2026, com taxa de R$ 89,10 a R$ 171,45. Oportunidade relevante para bacharéis que buscam inserção no serviço público municipal, especialmente na carreira fiscal/tributária.
 
-Title:   Prefeitura de Triunfo - PB publica retificação em edital de concurso público
-URL:     https://www.pciconcursos.com.br/noticias/prefeitura-de-triunfo-pb-publica-retificacao-em-edital-de-concurso-publico
-Career:   administrativo
-Group:   prefeitura-triunfo-pb-auditor
-Reason:  Retificação do edital nº 01/2026 da Prefeitura de Triunfo-PB que altera requisitos para o cargo de Auditor, agora exigindo bacharelado em Ciências Contábeis OU em Direito (anteriormente exigia apenas Contábeis). A mudança é significativa pois abre a carreira para bacharéis em Direito. Há também 1 vaga para Auditor com remuneração de até R$ 7.000,00, prova objetiva em 30/08/2026, inscrições até 30/06/2026 via www.educapb.com.br com taxa de R$ 110,00.
-
-Title:   Edital CREF-MA 2026 sai e abre vagas de nível médio e superior
-URL:     https://www.acheconcursos.com.br/concursos-maranhao/edital-cref-ma-2026-sai-e-abre-vagas-de-nivel-medio-e-superior-90430
-Career:   administrativo
-Group:   cref-maranhao-advogado
-Reason:  Concurso do CREF-MA com abertura de vaga para Advogado de nível superior, além de outros cargos administrativos. A oportunidade envolve regime CLT com salários entre R$ 3.184,76 e R$ 5.573,33, benefícios (vale alimentação, transporte e auxílio saúde) e plano de carreira. Para o cargo de Advogado há prova discursiva além da objetiva. Inscrições até 06/07/2026, provas em 16/08/2026 em Imperatriz e São Luís.
-
-Title:   Concurso TJ-PE 2026: Sai edital com vagas de R$ 35.877
-URL:     https://www.acheconcursos.com.br/concursos-pernambuco/concurso-tj-pe-2026-sai-edital-com-vagas-de-r-35-877-90429
+Title:   Cebraspe fará concurso TCE-MA 2026
+URL:     https://www.acheconcursos.com.br/noticias/cebraspe-fara-concurso-tce-ma-2026-90485
 Career:   tribunais
-Group:   tj-pernambuco-juiz-substituto
-Reason:  Edital publicado para concurso de Juiz Substituto no TJ-PE 2026, com 30 vagas imediatas e cadastro reserva, validade de 2 anos prorrogável. Inscrições abertas de 01/06 a 10/07/2026, taxa R$ 358,77. Exige bacharelado em Direito e 3 anos de atividade jurídica. Prova objetiva em 27/09/2026 (100 questões sobre Direito Civil, Penal, Constitucional, Administrativo e outras disciplinas). Múltiplas etapas eliminatórias incluindo prova escrita, oral, exames psicotécnico e sindicância. Subsídio inicial R$ 35.877,28. Distribuição de vagas por cotas (ampla concorrência, deficiência, negros, indígenas e quilombolas).
+Group:   tce-ma
+Reason:  Concurso para o Tribunal de Contas do Estado do Maranhão com 118 vagas distribuídas entre Auditor Estadual de Controle Externo (62 vagas), Técnico Estadual de Controle Externo (55 vagas), Procurador do Ministério Público de Contas (1 vaga) e Analista Estadual de Apoio ao Controle Externo. Será organizado pela Cebraspe. É o primeiro concurso em 20 anos para o órgão. Salários iniciais: Auditor R$ 18.952,18, Analista R$ 12.950,00, Técnico R$ 10.423,70. Edital ainda não publicado.
 
-Title:   Sefaz SP oficializa comissão do concurso para analista; edital em preparação
-URL:     https://www.pciconcursos.com.br/previstos/sefaz-sp-oficializa-comissao-do-concurso-para-analista-edital-em-preparacao
+Title:   Prefeitura de Água Comprida - MG abre concurso com salários de até R$ 10.788,38
+URL:     https://www.pciconcursos.com.br/noticias/prefeitura-de-agua-comprida-mg-abre-concurso-com-salarios-de-ate-10788
 Career:   administrativo
-Group:   sefaz-sp-analista-planejamento-orcamento-financas-publicas
-Reason:  Oficialização da comissão organizadora do concurso Sefaz SP para Analista em Planejamento, Orçamento e Finanças Públicas, com edital em preparação. Cargo de nível superior com remuneração inicial de R$ 6.002,61. Concurso anterior (2013) exigiu conhecimentos em Direito Constitucional, Administrativo e Financeiro/Tributário. Expectativa de publicação do edital no segundo semestre de 2026, com nomeações previstas para 2027. Primeira atualização significativa sobre andamento do processo desde a autorização inicial.
+Group:   prefeitura-agua-comprida-mg
+Reason:  Concurso da Prefeitura de Água Comprida (MG) com 1 vaga para Advogado, cargo de nível superior com remuneração inicial de R$ 10.788,38. Embora o edital contemple múltiplas carreiras e profissões, a oportunidade específica para bacharel em Direito é relevante, com inscrições abertas até 27 de agosto de 2026, prova objetiva marcada para 27 de setembro de 2026 e contratação sob regime CLT.
 
-Title:   Câmara de Santa Isabel - SP retifica e reabre inscrições para concurso público
-URL:     https://www.pciconcursos.com.br/noticias/camara-de-santa-isabel-sp-retifica-e-reabre-inscricoes-para-concurso-publico
-Career:   administrativo
-Group:   camara-santa-isabel-sp-controlador-interno
-Reason:  Retificação de concurso público da Câmara Municipal de Santa Isabel-SP com reabertura de inscrições e alterações significativas. Destaque para o cargo de Controlador Interno (nível superior), que exige formação específica e envolve funções de controle interno com prova dissertativa e de títulos. Alterações nos salários, requisitos, datas de prova e conteúdo programático justificam acompanhamento por candidatos já inscritos ou interessados. Inscrições reabrem de 27/05 a 15/06/2026, com provas em 05/07/2026.
-
-Title:   IPE Prev - RS retifica concurso público com salários de até R$ 10 mil
-URL:     https://www.pciconcursos.com.br/noticias/ipe-prev-rs-retifica-concurso-publico-com-salarios-de-ate-10-mil
-Career:   administrativo
-Group:   ipe-prev-rs-analista-em-previdencia-direito
-Reason:  Concurso para o Instituto de Previdência do Estado do Rio Grande do Sul com retificação de edital. Destaque para 26 vagas de Analista em Previdência - Direito (uma das maiores quantidades de vagas), além de vagas para Especialista em Previdência e Assistente em Previdência. Mudanças relevantes incluem alteração na pontuação mínima de redação e conteúdo programático. Salários entre R$ 4.200 a R$ 10 mil. Inscrições de 13 de maio a 11 de junho de 2026, provas em julho/agosto. Regime estatutário. A retificação é informação crucial para candidatos já acompanhando o certame.
-
-Title:   PGM de Canoas - RS abre concurso para Procurador Municipal
-URL:     https://www.pciconcursos.com.br/noticias/pgm-de-canoas-rs-abre-concurso-para-procurador-municipal
+Title:   Câmara de Salesópolis - SP abre concurso público com salários de até R$ 7.847,87
+URL:     https://www.pciconcursos.com.br/noticias/camara-de-salesopolis-sp-abre-concurso-publico-com-salarios-de-ate-7847
 Career:   procuradorias
-Group:   pgm-canoas-rs-procurador-municipal
-Reason:  Concurso para Procurador Municipal em Canoas-RS, formando cadastro de reserva. Cargo de nível superior com jornada de 40h em dedicação exclusiva, remuneração inicial de R$ 18.458,52 chegando a R$ 31.503,47. Inscrições de 29/05 a 23/06/2026 via site Objetivas (taxa R$ 231,15, com isenção para doadores de sangue e CadÚnico). Seleção em 3 etapas: prova objetiva (12/07), prova escrita (23/08) e prova de títulos. Regime estatutário com estágio probatório de 3 anos. Validade de 2 anos prorrogável por igual período.
+Group:   camara-salesopolis-sp-procurador-juridico
+Reason:  Concurso da Câmara Municipal de Salesópolis com vaga para Procurador Jurídico Legislativo (CR) e Contador Legislativo (1 vaga + CR), ambos cargos de nível superior exigindo formação jurídica ou contábil. Salários de até R$ 7.847,87, regime CLT com benefícios, inscrições de 28/05 a 29/06/2026, prova objetiva em 26/07/2026. Destaque para a posição de Procurador Jurídico Legislativo, típica carreira para bacharéis em Direito em órgãos legislativos municipais.
 
-Title:   Câmara de Iporã - PR abre concurso público para Auxiliar Legislativo e Procurador Jurídico
-URL:     https://www.pciconcursos.com.br/noticias/camara-de-ipora-pr-abre-concurso-publico-para-auxiliar-legislativo-e-procurador-juridico
-Career:   procuradorias
-Group:   camara-municipal-ipora-pr-procurador-juridico
-Reason:  Concurso para Procurador Jurídico em Câmara Municipal com formação exigida em Direito. Cargo de nível superior com remuneração de R$ 9.938,26 (20h/semana), seleção por prova objetiva, prova prática e avaliação de títulos. Inscrições de 28/05 a 18/06/2026, prova em 19/07/2026. Regime estatutário com RPPS, validade de 2 anos.
-
-Title:   Concurso Prefeitura de Canoas-RS 2026: Novo edital para Procurador
-URL:     https://www.acheconcursos.com.br/concursos-rio-grande-do-sul/concurso-prefeitura-canoas-rs-2026-edital-procurador-90437
-Career:   procuradorias
-Group:   pgm-canoas-rs-procurador-municipal
-Reason:  Concurso para Procurador Municipal em Canoas-RS com salário de R$ 18.458,52 mensal (40h/semana). Edital divulgado com inscrições de 29/05 a 23/06/2026 pela banca Objetivas, taxa R$ 231,15. Processo seletivo com prova objetiva (12/07/2026), prova de produção escrita e prova de títulos. Conteúdo abrange 10 disciplinas jurídicas (Direito Administrativo, Constitucional, Processual Civil, Tributário, Ambiental, Civil, Trabalho, Previdenciário, Legislação Profissional e Português). Validade de 2 anos prorrogáveis. Possibilidade de isenção de taxa para inscritos no CadÚnico, doadores de sangue e baixa renda.
-
-Title:   Concurso Câmara de Governador Valadares-MG: Sai edital com 10 vagas de até R$ 5,1 mil
-URL:     https://www.acheconcursos.com.br/concursos-minas-gerais/concurso-camara-governador-valadares-mg-2026-10-vagas-5-1-mil-90436
+Title:   Prefeitura de Carolina - MA abre concurso público com salários de até R$ 14.040,00
+URL:     https://www.pciconcursos.com.br/noticias/prefeitura-de-carolina-ma-abre-concurso-publico-com-salarios-de-ate-14040
 Career:   administrativo
-Group:   camara-governador-valadares-mg-consultor-legislativo
-Reason:  Concurso para Câmara Municipal de Governador Valadares com 2 vagas de Consultor Legislativo exigindo diploma em Direito e registro na OAB, salário de R$ 5.135,87. O cargo envolve assessoria legislativa em áreas como Orçamento e Finanças Públicas, Direitos Humanos, Administração Pública e Processo Legislativo. Primeira seleção em 22 anos, edital publicado pela FGV, inscrições de 27 de julho a 31 de agosto de 2026, prova em 15 de novembro.
+Group:   prefeitura-carolina-ma
+Reason:  Concurso da Prefeitura de Carolina - MA com vaga para Assessor Jurídico (cadastro de reserva) e Procurador (cadastro de reserva), ambos cargos de nível superior exigindo formação jurídica. Embora as vagas sejam apenas para cadastro de reserva, representam oportunidades potenciais para bacharéis em Direito. O concurso também oferece múltiplas outras vagas em níveis fundamental, médio e superior, com salários de até R$ 14.040,00 e processo seletivo com provas objetivas marcadas para setembro de 2026.
 
-Title:   Concurso TJ-AM para servidores é anunciado em live e pode ter 400 vagas
-URL:     https://www.acheconcursos.com.br/noticias/concurso-tj-am-para-servidores-e-anunciado-em-live-e-pode-ter-400-vagas-90462
+Title:   Prefeitura de Serrania - MG abre processo seletivo com salários de até R$ 6.256,00
+URL:     https://www.pciconcursos.com.br/noticias/prefeitura-de-serrania-mg-abre-processo-seletivo-com-salarios-de-ate-6256
+Career:   administrativo
+Group:   prefeitura-serrania-mg
+Reason:  Processo seletivo simplificado da Prefeitura de Serrania (MG) com vaga para Advogado I. Trata-se de cargo jurídico em órgão público municipal, com salário de R$ 6.256,00. Seleção por prova objetiva marcada para 14 de junho de 2026. Inscrições presenciais até 9 de junho de 2026, sem taxa. Validade de 1 ano prorrogável.
+
+Title:   Concurso TRE MG: veja quantas vagas poderão ser preenchidas | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/concurso-tre-mg-2026-vagas
 Career:   tribunais
-Group:   tj-amazonas-am-cargos-variados
-Reason:  Anúncio oficial de concurso público para o TJ-AM com previsão de aproximadamente 400 vagas em cargos de níveis médio e superior. O tribunal tem 218 vagas ociosas, sendo 105 em Assistente Judiciário (nível médio, R$ 8.773,57) e 113 em Analista Judiciário (nível superior, R$ 17.088,92). O certame está em fase inicial de organização com previsão orçamentária para 2027. Último concurso ocorreu em 2019 com banca Cebraspe e 68.750 inscrições. Informações úteis para acompanhamento: formação da comissão, escolha da banca e publicação do edital são próximos passos.
+Group:   tre-mg
+Reason:  Notícia sobre autorização de 66 provimentos no TRE MG (50 já autorizados desde fevereiro, mais 16 em maio) para preenchimento de vagas de técnico e analista judiciário originários do concurso TSE Unificado 2024. O tribunal pode agora iniciar trâmites de convocação e nomeação dos aprovados. Informação relevante para candidatos aprovados acompanharem cronograma de chamadas e para candidatos do cadastro de reserva estimarem perspectivas.
 
-Title:   Governo divulga gabarito preliminar do concurso para Procurador do Estado
-URL:     https://agencia.ac.gov.br/governo-divulga-gabarito-preliminar-do-concurso-para-procurador-do-estado/
+Title:   Concurso AL MT: presidente confirma nova seleção para 100 vagas
+URL:     https://jcconcursos.com.br/noticia/concursos/concurso-al-mt-presidente-confirma-nova-selecao-para-100-vagas-142961
+Career:   administrativo
+Group:   al-mt
+Reason:  Confirmação oficial de novo concurso para a Assembleia Legislativa de Mato Grosso com 100 vagas para cargos técnicos e analistas de nível médio e superior. Edital previsto para 2027, mas com recursos já garantidos em orçamento. Última seleção ocorreu em 2013. Remunerações iniciais: R$ 4.329,49 (técnicos) e R$ 8.529,58 (analistas). Relevant como oportunidade emergente para candidatos interessados em carreiras administrativas legislativas estaduais.
+
+Title:   Concurso ISS BH: salários, vagas e etapas
+URL:     https://magistrarcursos.com.br/blog/concurso-iss-bh/
+Career:   administrativo
+Group:   prefeitura-belo-horizonte-mg
+Reason:  Concurso para Analista Fazendário da Prefeitura de Belo Horizonte, cargo que integra carreira dos Servidores da Área de Atividades da Tributação. Portaria conjunta já instituiu comissão organizadora (2026), definindo cronograma futuro. Cargo exige formação superior específica (potencialmente Direito, Contabilidade ou áreas afins) e atua em fiscalização tributária, lançamento de tributos municipais (ISS, IPTU, ITBI), auditoria fiscal e constituição de crédito tributário. Remuneração inicial entre R$ 8.866,80 (30h) e R$ 11.259,42 (40h), chegando a R$ 23.407,53 no final da carreira. Último concurso foi em 2012, indicando déficit acumulado e expectativa de múltiplas vagas. Etapas como definição de vagas, banca organizadora e publicação do edital ainda pendentes.
+
+Title:   Concurso DPE RJ tem banca contratada e novo edital iminente | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/concurso-dpe-rj-2026-banca-contratada
+Career:   defensoria
+Group:   dpe-rio-de-janeiro-rj
+Reason:  Concurso para Defensor Público da DPE RJ com 35 vagas previstas. Banca FGV contratada oficialmente (contrato publicado em 28/05), edital iminente. Cargo exige bacharelado em Direito + 3 anos de atividade jurídica. Regulamento já divulgado com estrutura clara: prova objetiva (90 questões), dissertativas, orais e títulos. Remuneração inicial R$10.986,95 + representação (até R$34.279,28). Benefícios incluem auxílio-alimentação, saúde e livro. Segue resoluções do CNJ com 30% vagas para negros/indígenas, 5% PcD, 10% hipossuficientes. Último concurso foi em 2023 com mesma banca. Informação estratégica para candidatos acompanhando DPE RJ.
+
+Title:   Prefeitura de Carolina MA abre concurso com 175 vagas e salários de até R$14.040 | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/prefeitura-de-carolina-ma-abre-concurso-com-175-vagas-e-salarios-de-ate-r-14-040
 Career:   procuradorias
-Group:   pge-acre-procurador-do-estado
-Reason:  Divulgação do gabarito preliminar do 8º Concurso Público para Procurador do Estado do Acre. O certame oferece 10 vagas imediatas além de cadastro de reserva, com 1.269 candidatos presentes na prova objetiva realizada pela FGV. Trata-se de marco importante após quase 10 anos sem concurso, visando recompor a carreira de advogados públicos responsáveis pela orientação jurídica da administração estadual. A divulgação do gabarito é etapa crítica do processo seletivo.
+Group:   prefeitura-carolina-ma
+Reason:  Concurso com 175 vagas na Prefeitura de Carolina-MA, incluindo cargo de procurador (nível superior, R$14.040) e assessor jurídico (2 vagas em cadastro de reserva, R$2.700). Embora a maioria das vagas seja para áreas não-jurídicas (professores, saúde, serviços gerais), as posições jurídicas representam oportunidades específicas para bacharéis em Direito em município do interior maranhense. Inscrições de 29 de maio a 6 de julho de 2026, provas em setembro de 2026, organizado pela banca ICAP.
 
-Title:   Judiciário do RN abre seleção unificada para estágio com vagas em todas as regiões do estado - Tribuna do Norte
-URL:     https://tribunadonorte.com.br/rio-grande-do-norte/judiciario-do-rn-abre-selecao-unificada-para-estagio-com-vagas-em-todas-as-regioes-do-estado/
+Title:   Concurso Cartórios BA: resultado do sorteio de serventias reservadas para cotas divulgado - Blog Magistrar Educacional
+URL:     https://magistrarcursos.com.br/blog/concurso-cartorios-ba-resultado-do-sorteio-de-serventias-reservadas-para-cotas-divulgado/
+Career:   cartorios
+Group:   tj-ba-cartorio
+Reason:  Publicação do resultado do sorteio de serventias reservadas para cotas (PcD, negros, indígenas e quilombolas) no concurso de Cartórios da Bahia. Momento relevante do certame que permite aos candidatos já inscritos conhecerem quais serventias estão disponíveis para seu grupo e planejar estratégia de escolha. Próxima etapa é a prova escrita e prática em 21/06/2026. O concurso segue a Resolução CNJ nº 657/2025 sobre cotas. Etapas posteriores incluem comprovação de requisitos, exame psicotécnico, prova oral e avaliação de títulos.
+
+Title:   Concurso Câmara dos Deputados: Hugo Motta confirma  novo edital nos próximos dias
+URL:     https://jcconcursos.com.br/amp/noticia/concursos/concurso-camara-dos-deputados-hugo-motta-confirma-que-novo-edital-sai-nos-proximos-dias-142969
+Career:   administrativo
+Group:   camara-dos-deputados-brasilia-df
+Reason:  Novo edital confirmado para a Câmara dos Deputados com vagas para Analista Legislativo em áreas diversas (comunicação social, engenharia, medicina, documentação e informação legislativa, museologia, registro e redação). Cargo de nível superior com remuneração inicial de R$ 30.853,99 e jornada de 40 horas semanais. Edital deve ser publicado nos próximos dias conforme confirmação do presidente Hugo Motta em 28/05/2026. Expectativa de que o Cebraspe seja a banca organizadora, mesma responsável pelos concursos anteriores da casa.
+
+Title:   TJMG abre estágio em Divinópolis com bolsas de até R$ 3,3 mil
+URL:     https://portalgerais.com/tjmg-abre-vagas-de-estagio-em-divinopolis-com-bolsas-de-ate-r-33-mil/
 Career:   estagio
-Group:   tj-rio-grande-do-norte-residencia-juridica
-Reason:  Seleção unificada do Tribunal de Justiça do RN para formação de cadastro de reserva de estagiários em 322 vagas de referência, com possibilidade de até 3.220 cadastrados. Abrange estudantes de Direito e outras áreas, com atuação em gabinetes judiciais, secretarias do 1º grau e unidades administrativas do TJRN nas 53 comarcas do estado. Jornada de 20h semanais, bolsa de R$ 1.315,00 + auxílio-transporte de R$ 170,00. Seleção por desempenho acadêmico (CRG, CPC, IGC). Inscrições gratuitas de 21/05 a 03/06/2026. Resultado final em 19/08/2026. Inclui reserva de 30% para pessoas negras, pretas e pardas e 10% para PCD.
+Group:   tjmg-divinopolis-mg
+Reason:  Estágio no TJMG em Divinópolis com 15 vagas imediatas para graduação em Direito, além de cadastro de reserva para pós-graduação. Bolsa de R$ 2.674,32 (graduação) ou R$ 3.392,40 (pós-graduação) para jornada de 6 horas diárias, mais auxílio-transporte. Seleção por prova objetiva (20 questões de Português + 30 de Conhecimentos Específicos) em 28 de junho. Inscrições gratuitas de 27 de maio a 10 de junho. Vagas reservadas: 5 para negros e 2 para pessoas com deficiência.
 
-Title:   Saiu edital da Funai com 267 vagas para níveis médio, técnico e superior
-URL:     https://jcconcursos.com.br/noticia/empregos/saiu-edital-da-funai-com-267-vagas-para-niveis-medio-tecnico-e-superior-142941
-Career:   estagio
-Group:   funai-brasil-estagiario
-Reason:  Processo seletivo de estágio da Funai com 267 vagas em diversas regiões do Brasil. Oferece oportunidades para nível superior em várias áreas, incluindo Direito. As vagas estão distribuídas em 19 estados e Distrito Federal, com remuneração de R$ 651,31 a R$ 1.508,42 conforme nível de escolaridade e carga horária (20 ou 30 horas semanais), mais auxílio-transporte. Inscrições abertas até 15 de junho sem taxa. Seleção inclui prova on-line com conteúdos específicos por nível de formação.
-
-Title:   TRT-RS abre processo seletivo para estágio em Direito com vagas em Capão da Canoa, Osório, Torres e Tramandaí
-URL:     https://litoralnarede.com.br/trt-rs-abre-processo-seletivo-para-estagio-em-direito-com-vagas-em-capao-da-canoa-osorio-torres-e-tramandai/
-Career:   estagio
-Group:   trt-rs-litoral-norte-rs-estagio-direito
-Reason:  Processo seletivo do TRT-RS para estágio remunerado em Direito com vagas em quatro municípios do Litoral Norte gaúcho (Capão da Canoa, Osório, Torres e Tramandaí). Oferece bolsas de R$ 1.317,60 (20h/semana) ou R$ 1.976,40 (30h/semana), plus auxílio-transporte. Requisito: ter concluído no mínimo 20% dos créditos do curso. Seleção por prova objetiva online (30 questões: 20 Português, 10 Informática) entre 26-30 de junho. Inscrições até 10 de junho via Super Estágios. Edital inclui políticas de cotas (25% pretos/pardos, 10% PcD, 3% indígenas, 2% quilombolas, 2% trans) e paridade de gênero. Oportunidade com benefícios e flexibilidade de horário para estudantes de Direito.
-
-Title:   AGU deve abrir concurso com 170 vagas para carreiras jurídicas este ano
-URL:     https://www.otempo.com.br/content/gruposada/sempreeditora/otempo/editorias/emprego-e-concursos/2026/5/27/agu-deve-abrir-concurso-com-170-vagas-para-carreiras-juridicas-este-ano.html
+Title:   PGE do Pará abre PSS com vagas para trabalho público em Belém; inscrições começam nesta quinta (28)
+URL:     https://parawebnews.com/pge-do-para-abre-pss-com-vagas-para-trabalho-publico-em-belem-inscricoes-comecam-nesta-quinta-28/
 Career:   procuradorias
-Group:   agu-federal-procurador-e-advogado
-Reason:  Anúncio de concurso público da AGU com 170 vagas para carreiras jurídicas de alto nível: 50 vagas para Advogado da União, 50 para Procurador da Fazenda Nacional, 50 para Procurador Federal e 20 para Procurador do Banco Central. O diferencial é o modelo unificado com inscrição vinculada à carreira escolhida e provas específicas por área, visando reduzir migração entre órgãos. Edital previsto para 2026. Informação crucial para planejamento de estudos e preparação de candidatos.
+Group:   pge-para
+Reason:  PSS da Procuradoria-Geral do Estado do Pará com 15 vagas para Analista de Procuradoria, sendo 5 destinadas exclusivamente a candidatos PPIQ e 10 para ampla concorrência/PCD. Contratação temporária em Belém com vencimento-base de R$ 2.318,08. Seleção por análise documental, avaliação curricular e critérios de classificação. Inscrições via plataforma Sipros entre 28 e 29 de maio. Aceita candidatos com formação em Direito, Administração, Ciências Contábeis ou Tecnologia da Informação.
 
-Title:   Concurso TCE SC: gabaritos preliminares divulgados; recursos até 28 de maio - Blog Magistrar Educacional
-URL:     https://magistrarcursos.com.br/blog/concurso-tce-sc-gabaritos-preliminares-divulgados-recursos-ate-28-de-maio/
+Title:   Tribunal de Justiça lança edital para contratação de estagiários com bolsa de até R$ 1,1 mil • Olhar Direto
+URL:     https://www.olhardireto.com.br/juridico/noticias/tribunal-de-justica-lanca-edital-para-contratacao-de-estagiarios-com-bolsa-de-ate-r-1-1-mil
+Career:   estagio
+Group:   tj-mato-grosso
+Reason:  Edital do Tribunal de Justiça de Mato Grosso para contratação de estagiários remunerados. Oferece vagas para estudantes de Direito (a partir do 3º semestre) e outros cursos de nível superior, com bolsa-auxílio de até R$ 920,84 mensais para nível superior, além de auxílio-transporte e seguro de acidentes. O processo seletivo é por prova objetiva única, com inscrições abertas a partir de 20/05/2019. Importante notar que candidatos de Direito devem estar a no mínimo 1 ano da conclusão do curso.
+
+Title:   Concurso Procurador SETEC Campinas SP: banca em definição! Edital no final de 2026?
+URL:     https://cj.estrategia.com/portal/concurso-procurador-setec-campinas-sp/
+Career:   procuradorias
+Group:   setec-campinas-sp
+Reason:  Concurso para Procurador na SETEC Campinas (autarquia federal de educação profissional), com 1 vaga prevista. Certame em estágio inicial de organização: portaria da comissão organizadora publicada em maio de 2026, banca ainda em definição, edital esperado para final de 2026. Informação exclusiva sobre confirmação interna da carreira de Procurador justificada por necessidade de reposição de pessoal. Salário e demais detalhes ainda não definidos. Relevante para acompanhamento prospectivo de candidatos interessados em carreira de Procurador em autarquias federais.
+
+Title:   Concurso Unificado RN: provas serão aplicadas domingo, 31 | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/concurso-unificado-rn-orientacoes-provas-2026
+Career:   administrativo
+Group:   detran-rn
+Reason:  Concurso unificado do Rio Grande do Norte com 175 vagas para níveis médio e superior em órgãos estaduais (Detran RN, Ceasa RN e Ipern). Para nível superior, inclui cargos como Analista de Trânsito e Assistente Técnico Previdenciário, com provas contendo disciplinas jurídicas relevantes (Direito Constitucional, Direito Administrativo e Direito Previdenciário). As provas estão marcadas para 31 de maio, com orientações práticas sobre horários, locais e documentação necessária. Informação útil para candidatos em fase de preparação ou confirmação de participação.
+
+Title:   Concurso TCE MA: assinado contrato com banca para 118 vagas de níveis médio e superior
+URL:     https://jcconcursos.com.br/noticia/concursos/concurso-tce-ma-assinado-contrato-com-banca-para-118-vagas-142949
 Career:   tribunais
-Group:   tce-santa-catarina-sc-auditor-fiscal-controle-externo
-Reason:  Divulgação dos gabaritos preliminares do concurso TCE SC para Auditor Fiscal de Controle Externo, com 20 vagas e forte participação de bacharéis em Direito (5 vagas na especialidade, 413,4 candidatos por oportunidade, 220 convocados para prova discursiva). Notícia operacional importante: prazo para recursos até 28/05/2026, próxima etapa discursiva em 09/08/2026. Cargo com remuneração de R$ 21.793,10, jornada 40h, sede em Florianópolis, com progressão por mérito e estabilidade após estágio probatório.
+Group:   tce-ma
+Reason:  Concurso com 118 vagas para o TCE MA (Tribunal de Contas do Estado do Maranhão), abrangendo técnico de nível médio (55 vagas, R$ 11.061,72) e cargos de nível superior como Analista de Controle Externo, Auditor (R$ 20.112,20) e Procurador (R$ 31.334,16). Contrato com banca Cebraspe já assinado, edital regulamentado desde maio. Último concurso ocorreu em 2005, representando grande oportunidade após 19 anos. Provas objetivas e dissertativas com conteúdo jurídico e administrativo.
 
-Title:   Concurso TC DF: banca organizadora é confirmada para analista | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-tc-df-2026-banca-confirmada-analista
-Career:   administrativo
-Group:   tc-distrito-federal-analista-administrativo
-Reason:  Confirmação da banca organizadora (Cebraspe) para o concurso TC DF 2026, etapa crucial que indica proximidade da publicação do edital. O certame oferecerá 10 vagas para analista administrativo de controle externo, exigindo nível superior em qualquer área, com salário inicial de R$14.207,61. A notícia traz informações sobre estrutura de prova baseada no último concurso (2023), ajudando candidatos a se preparar. Representa progresso significativo no calendário do certame.
-
-Title:   Concurso ISS BH tem comissão formada para analista fazendário | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-iss-bh-2026-comissao-formada
-Career:   administrativo
-Group:   iss-belo-horizonte-mg-analista-fazendario
-Reason:  Formação de comissão organizadora para concurso ISS BH de analista fazendário marca avanço em processo seletivo aguardado. Cargo de nível superior em órgão fazendário municipal, com avaliação em direito administrativo, constitucional e tributário. Último concurso foi em 2012, indicando demanda reprimida. Próximas etapas incluem definição de vagas, elaboração de projeto básico e escolha de banca, com edital esperado após contratação organizadora.
-
-Title:   Gabarito do concurso da PGE-AC é divulgado nesta quarta; certame oferece 10 vagas para procurador
-URL:     https://ac24horas.com/2026/05/27/gabarito-do-concurso-da-pge-ac-e-divulgado-nesta-quarta-certame-oferece-10-vagas-para-procurador/
+Title:   Publicados editais do concurso da Prefeitura de Araguaína com mais 1,5 mil vagas — Prefeitura de Araguaína
+URL:     https://araguaina.to.gov.br/noticias/2026/publicados-editais-do-concurso-da-prefeitura-de-araguaina-com-mais-1-5-mil-vagas
 Career:   procuradorias
-Group:   pge-acre-procurador-do-estado
-Reason:  Divulgação do gabarito do concurso para Procurador do Estado do Acre (PGE-AC) com 10 vagas imediatas e cadastro de reserva. Certame organizado pela FGV com múltiplas etapas (prova objetiva, escrita, práticas, oral e avaliação de títulos). Exige bacharelado em Direito e inscrição na OAB. Remuneração inicial de R$ 25.996,16. Validade de dois anos prorrogáveis. Reserva de 10% para PcD e 10% para candidatos negros.
+Group:   prefeitura-araguaina-to
+Reason:  Concurso público municipal de Araguaína (TO) com mais de 1,5 mil vagas imediatas. Inclui oportunidade específica para procurador municipal (1 vaga) com salário de R$ 16.458,70, além de diversas posições em áreas jurídicas relacionadas (assistência social, fiscalização ambiental). Abrange também cargos técnicos e administrativos em múltiplos níveis. Provas previstas para agosto de 2026, com inscrições aberta no site da banca (IDIB). Portal de notícias de concursos deve alertar candidatos sobre esta oportunidade municipal de grande porte.
 
-Title:   Marau está entre as cidades com vagas em processo seletivo de estágio do TRT-RS - Tua Rádio Alvorada
-URL:     https://www.tuaradio.com.br/Tua-Radio-Alvorada/noticias/geral/27-05-2026/marau-esta-entre-as-cidades-com-vagas-em-processo-seletivo-de-estagio-do-trt-rs
+Title:   Concurso Câmara de Salesópolis (SP) oferta iniciais de até R$ 7,8 mil
+URL:     https://concursosnobrasil.com/concursos/sp/2026/05/28/concurso-camara-de-salesopolis-sp-oferta-iniciais-de-ate-r-78-mil/
+Career:   administrativo
+Group:   camara-salesopolis-sp-procurador-juridico
+Reason:  Concurso para Procurador Jurídico Legislativo na Câmara Municipal de Salesópolis (SP), exigindo curso superior em Direito e registro no conselho de classe. Cargo de nível superior com vencimento de até R$ 7.847,87. Seleção inclui prova objetiva eliminatória, prova discursiva específica (peça processual/parecer jurídico) e prova de títulos. Inscrições abertas até 29 de junho de 2026, com provas marcadas para 26 de julho. Embora seja cargo em esfera municipal, representa oportunidade para profissionais de Direito em carreira jurídica administrativa.
+
+Title:   Câmara Municipal de Salesópolis SP abre concurso com vagas imediatas | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/camara-municipal-de-salesopolis-sp-abre-concurso-com-vagas-imediatas
+Career:   administrativo
+Group:   camara-salesopolis-sp-procurador-juridico
+Reason:  Concurso público com vaga para Procurador Jurídico Legislativo (cargo de nível superior em Direito com OAB), remuneração de R$ 6.528,88 por 20h semanais. Também oferece cargo de Contador Legislativo (Superior em Contabilidade) e Assistente Legislativo (Médio). A prova para procurador inclui discursiva com elaboração de parecer jurídico e avaliação de títulos acadêmicos. Inscrições abrem 28 de maio de 2026, prova em 26 de julho. Banca: IGECs.
+
+Title:   Concurso Câmara dos Deputados: veja o que falta para o 3º edital | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/concurso-camara-dos-deputados-2026-o-que-falta-3-edital
+Career:   procuradorias
+Group:   camara-dos-deputados-brasilia-df
+Reason:  Terceiro edital em elaboração para Analista Legislativo em áreas específicas (Registro e Redação, Comunicação Social, Documentação e Informação Legislativa, Museólogo, Engenheiro, Médico) na Câmara dos Deputados. Artigo detalha as etapas pendentes para publicação: finalização da reorganização administrativa, escolha da banca (Cebraspe cotado), e elaboração do cronograma. Salário inicial de R$30.853,99 com benefícios. Importante para candidatos acompanhando este certame específico, pois esclarece timeline e procedimentos ainda necessários antes do edital oficial.
+
+Title:   Concurso Procurador MPC MA: Cebraspe é definido como banca organizadora
+URL:     https://magistrarcursos.com.br/blog/concurso-procurador-mpc-ma-cebraspe-e-definido-como-banca-organizadora/
+Career:   procuradorias
+Group:   mpc-maranhao
+Reason:  Concurso para Procurador de Contas do Estado do Maranhão com 1 vaga. Cargo de carreira jurídica que exige bacharelado em Direito e 3 anos de atividade jurídica. Remuneração inicial de R$ 41.845,48. Banca Cebraspe definida, com publicação do edital esperada em breve. Seleção envolve prova objetiva, discursiva, oral e análise de títulos.
+
+Title:   Concurso TCE MA tem banca definida para edital com 118 vagas | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/concurso-tce-ma-banca-definida-2026
+Career:   administrativo
+Group:   tce-ma
+Reason:  Concurso do Tribunal de Contas do Estado do Maranhão com 118 vagas distribuídas entre auditor estadual de controle externo (62), técnico estadual de controle externo (55), procurador do MP de Contas (1) e analista estadual de apoio ao controle externo. Banca Cebraspe definida. Salários: técnico R$10.423,70, auditor R$18.952,18, analista R$12.950. Exigências: auditor e analista nível superior, técnico nível médio. Primeiro concurso em 20 anos, oferecendo oportunidade significativa para profissionais da área jurídica.
+
+Title:   Concurso MPC MA Procurador: Cebraspe é definido como banca organizadora
+URL:     https://magistrarcursos.com.br/blog/concurso-mpc-ma-procurador/
+Career:   procuradorias
+Group:   mpc-maranhao
+Reason:  Concurso para Procurador de Contas do Maranhão com 1 vaga, banca Cebraspe confirmada. Cargo exige bacharelado em Direito e 3 anos de atividade jurídica. Salário inicial de R$ 41.845,48 com benefícios (auxílio-alimentação, auxílio-saúde, adicional por tempo de serviço até 35%, 13º salário). Certame inclui provas objetiva, discursiva, oral e títulos. Representa oportunidade relevante para bacharéis em Direito interessados em carreira de procurador de contas, especialmente considerando a escassez de concursos nessa instituição no Maranhão.
+
+Title:   Concurso Alece: como estudar e entender a banca Idecan
+URL:     https://noticias.focusconcursos.com.br/noticias/concurso-alece-2026-como-a-banca-idecan-costuma-cobrar-e-o-que-estudar-para-conquistar-uma-vaga
+Career:   administrativo
+Group:   al-ceara
+Reason:  Artigo sobre concurso público aberto da Assembleia Legislativa do Ceará (Alece) com edital oficialmente publicado. Apresenta análise do perfil da banca Idecan, estrutura das provas (objetivas e discursivas), cargos disponíveis (Técnico Legislativo e Analista Legislativo), disciplinas estratégicas por área (Constitucional, Administrativo, Legislativa, Orçamentária) e dicas de preparação. Informação oportuna para bacharéis em Direito interessados em carreira no Poder Legislativo estadual.
+
+Title:   Concurso TCE MA: banca definida! 118 vagas. Saiba mais
+URL:     https://blog.grancursosonline.com.br/concurso-tce-ma-banca-definida-2026/
+Career:   administrativo
+Group:   tce-ma
+Reason:  Concurso para Tribunal de Contas do Estado do Maranhão com 118 vagas em aberto. Notícia traz informação relevante sobre definição da banca Cebraspe, que é um marco importante para candidatos que acompanham o certame. O concurso oferece três cargos: Auditor Estadual de Controle Externo, Técnico Estadual de Controle Externo e Procurador de Contas, com remuneração entre R$ 10.423,70 e R$ 39.293,32. A definição da banca permite que candidatos ajustem suas estratégias de estudo conforme o estilo específico do Cebraspe, conhecido por questões no formato certo/errado, penalização por chute, enunciados longos e complexos e alta dificuldade.
+
+Title:   Câmara de Princesa Isabel - PB divulga concurso público para cargos de nível fundamental e superior. - Concursos RN
+URL:     https://concursosrn.com.br/camara-de-princesa-isabel-pb-divulga-concurso-publico-para-cargos-de-nivel-fundamental-e-superior/
+Career:   administrativo
+Group:   camara-princesa-isabel-pb
+Reason:  Concurso público da Câmara Municipal de Princesa Isabel (PB) com vagas para cargos de nível superior, incluindo Analista Legislativo, Técnico Legislativo e Controlador Interno. Estes são cargos administrativos em órgão público legislativo que podem interessar a bacharéis em Direito. Inscrições de 27 de maio a 29 de junho de 2026, prova objetiva em 12 de julho de 2026. Salários variam de R$ 1.621,00 a R$ 3.000,00 conforme cargo e jornada de 30 a 40 horas semanais.
+
+Title:   Prefeitura de MT tem seletivo com salário de R$ 20 mil | Gazeta Digital
+URL:     https://www.gazetadigital.com.br/editorias/economia/central-de-emprego/prefeitura-de-mt-tem-seletivo-com-salario-de-r-20-mil/848149
+Career:   cartorios
+Group:   tj-mt-cartorio
+Reason:  Destaca-se o concurso TJ-MT 2026 para Cartórios com 116 vagas para Delegações de Notas e Registros, oportunidade específica para bacharéis em Direito. Também inclui seletivos municipais em Mato Grosso com cargos de Assistente Social, Psicólogo e Auditor Fiscal que podem interessar. O texto menciona salários competitivos (até R$ 28 mil em alguns casos) e prazos de inscrição variados entre maio e junho de 2026.
+
+Title:   Prefeitura de Serrania MG abre processo seletivo com 7 vagas | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/prefeitura-de-serrania-mg-abre-processo-seletivo-com-7-vagas
+Career:   administrativo
+Group:   prefeitura-serrania-mg
+Reason:  Processo seletivo simplificado da Prefeitura de Serrania MG com vaga de Advogado I (1 vaga, 20h semanais, R$6.256). Exige bacharelado em Direito e OAB ativa. Conteúdo de prova abrange áreas tradicionais (Direito Administrativo, Tributário, Civil, Previdenciário, Penal, Trabalho) além de Português e Matemática. Inscrição presencial gratuita até 9 de junho de 2026, prova em 14 de junho. Contratação temporária com validade de 1 ano prorrogável. Oportunidade de ingresso rápido em órgão público municipal.
+
+Title:   Concurso Câmara dos Deputados: edital em breve, reforça presidente
+URL:     https://blog.grancursosonline.com.br/concurso-camara-dos-deputados-3-edital-em-breve-2026/
+Career:   administrativo
+Group:   camara-dos-deputados-brasilia-df
+Reason:  A Câmara dos Deputados confirmou a publicação iminente de novos editais para Analista Legislativo em especialidades ainda não lançadas (Registro e Redação, Comunicação Social, Documentação e Informação Legislativa, Museologia, Engenharia e Medicina), além de convocações para aprovados em certames já realizados (Técnico Legislativo e Policial Legislativo Federal). O texto detalha cargos em andamento com remuneração de R$ 21 mil a R$ 30 mil, jornada de 40h semanais em Brasília, com organização pela Cebraspe.
+
+Title:   Concurso da Câmara de Salesópolis-SP é aberto para 5 cargos
+URL:     https://www.acheconcursos.com.br/concursos-sao-paulo/concurso-camara-salesopolis-sp-aberto-5-cargos-90486.amp
+Career:   administrativo
+Group:   camara-salesopolis-sp-procurador-juridico
+Reason:  Concurso para Câmara Municipal com cargo de Procurador Jurídico Legislativo (exigindo diploma em Direito e registro na OAB) com salário de R$ 6.528,88. Embora o certame também ofereça outras posições administrativas, a oportunidade jurídica é relevante. O edital está aberto desde maio de 2026, com inscrições até junho de 2026 e prova objetiva marcada para julho de 2026. A seleção inclui prova discursiva específica (peça processual/parecer jurídico) e avaliação de títulos para a posição jurídica.
+
+Title:   Ministério Público recomendou suspensão do concurso público da Câmara de Correntina
+URL:     https://agenciasertao.com/2026/05/28/ministerio-publico-recomendou-suspensao-do-concurso-publico-da-camara-de-correntina/
+Career:   administrativo
+Group:   camara-correntina-ba
+Reason:  Concurso público da Câmara Municipal de Correntina-BA com vagas para nível superior, incluindo cargos jurídicos (Procurador, Analista Jurídico e Analista Jurídico Parlamentar) teve recomendação de suspensão do Ministério Público devido a irregularidades na contratação da banca organizadora, falhas no cronograma e possível favorecimento. As inscrições foram encerradas em 25/5/2026 e provas estavam marcadas para 5/7/2026. Situação em andamento com potencial impacto para candidatos já inscritos.
+
+Title:   Presidente do TCE-MA contrata Cebraspe para concurso
+URL:     https://imirante.com/noticias/sao-luis/amp/2026/05/28/ipolitica-presidente-do-tce-ma-autoriza-contratacao-do-cebraspe-para-novo-concurso-publico
+Career:   administrativo
+Group:   tce-ma
+Reason:  O TCE-MA autoriza contratação da banca Cebraspe para concurso público com previsão de mais de 100 vagas: 62 para Auditor Estadual de Controle Externo, 55 para Técnico Estadual de Controle Externo e 1 para Procurador do Ministério Público de Contas. Trata-se do primeiro concurso da instituição desde 2005. Os próximos passos incluem formalização do contrato e publicação do edital. A notícia representa um avanço concreto para candidatos interessados nessas posições, informando sobre a escolha da banca e próximos procedimentos.
+
+Title:   Justiça Federal de Bom Jesus da Lapa abre seleção de estágio para estudantes de Direito, Administração e Ciências Contábeis - Notícias da Lapa
+URL:     https://www.bomjesusdalapanoticias.com.br/bom-jesus-da-lapa/justica-federal-de-bom-jesus-da-lapa-abre-selecao-de-estagio-para-estudantes-de-direito-administracao-e-ciencias-contabeis/
 Career:   estagio
-Group:   trt-rs-estagio
-Reason:  Processo seletivo de estágio aberto pelo Tribunal Regional do Trabalho da 4ª Região (TRT-RS) voltado especificamente para estudantes de Direito ou Ciências Jurídicas e Sociais. Oferece bolsas entre R$ 1,3 mil e R$ 1,9 mil, além de auxílio-transporte. Inscrições abertas até 10 de junho de 2026, com seleção por prova objetiva online em junho. Vagas disponíveis em múltiplos municípios do Rio Grande do Sul, incluindo Marau e diversos outros centros. Requisito mínimo: 20% da carga horária do curso concluída.
+Group:   tjf-bom-jesus-da-lapa-ba
+Reason:  Seleção de estágio na Justiça Federal (Subseção Judiciária de Bom Jesus da Lapa) para estudantes de Direito, com inscrições abertas até 7 de junho de 2026. Os aprovados comporão cadastro reserva para futuras convocações, oferecendo experiência prática no ambiente da Justiça Federal. Processo seletivo simplificado com inscrições pelo sistema oficial do TRF1.
 
-Title:   PGE divulga gabarito preliminar de concurso para procurador; veja
-URL:     https://contilnetnoticias.com.br/editais-concursos/pge-divulga-gabarito-preliminar-de-concurso-para-procurador-veja/
+Title:   EXCLUSIVO! Procurador MPC MA: edital previsto para junho!
+URL:     https://cj.estrategia.com/portal/tce-ma-edital-previsto-para-junho-cebraspe/
 Career:   procuradorias
-Group:   pge-acre-procurador-do-estado
-Reason:  Divulgação do gabarito preliminar do 8º Concurso Público para Procurador do Estado do Acre. O certame oferece 10 vagas imediatas e formação de cadastro de reserva para a carreira de procurador estadual. Prova objetiva aplicada em 24 de março com 1.269 candidatos presentes e 1.793 inscritos. Concurso organizado pela Fundação Getulio Vargas, primeiro certame em quase uma década para recomposição do quadro após aposentadorias e desligamentos.
+Group:   tce-ma
+Reason:  Concurso para Procurador de Contas do TCE-MA com edital previsto para junho. Cargo de nível jurídico com remuneração inicial de R$ 35.462,28. Banca organizadora (Cebraspe) já definida e contrato assinado, indicando proximidade do lançamento oficial. Informação exclusiva sobre cronograma interno do órgão.
 
-Title:   Concursos públicos com salários de até R$ 4 mil encerram inscrições nesta quinta-feira (28) - Notícias Concursos
-URL:     https://noticiasconcursos.com.br/concursos-publicos-com-salarios-de-ate-r-4-mil-encerram-inscricoes-nesta-quinta-feira-28/
-Career:   administrativo
-Group:   prefeitura-colonia-leopoldina-al-assessor-juridico
-Reason:  Concurso da Prefeitura Municipal de Colônia Leopoldina, AL, com 228 vagas abertas, incluindo duas oportunidades específicas para bacharéis em Direito: Assessor Jurídico (1 vaga, R$ 2.500) e Assistente Jurídico (1 vaga, R$ 2.300). Inscrições encerram em 28 de maio de 2026 pelo Instituto IACP. Processo seletivo por prova objetiva. Taxa de inscrição entre R$ 74 e R$ 100.
-
-Title:   Prefeitura de Triunfo PB retifica concurso com 102 vagas e salários de até R$ 7.000 | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/prefeitura-de-triunfo-pb-retifica-concurso-com-102-vagas-e-salarios-de-ate-r-7-000
-Career:   administrativo
-Group:   prefeitura-triunfo-pb-auditor
-Reason:  Concurso da Prefeitura de Triunfo PB com 102 vagas em diversos níveis. Destaque para o cargo de Auditor (nível superior, 1 vaga), que teve retificação exigindo bacharelado em Ciências Contábeis ou Direito. O cargo atua na fiscalização de receitas e despesas, execução orçamentária, conformidade de processos administrativos e contratos, avaliação de controles internos e assessoria em governança municipal. Inscrições de 27/05 a 30/06/2026, prova em 30/08/2026. Salário até R$ 7.000.
-
-Title:   Ciscopar abre concurso público com mais de 15 vagas; veja edital
-URL:     https://massa.com.br/concursos-abertos-publicos-pss/concurso-ciscopar-2026/
-Career:   administrativo
-Group:   ciscopar-toledo-pr-assessor-juridico
-Reason:  Concurso público do CISCOPAR (Consórcio Intermunicipal de Saúde Costa Oeste do Paraná) com vaga específica de Assessor Jurídico em regime CLT, salário R$ 4.620,91, exigindo Ensino Superior Completo em Direito com registro ativo na OAB. Processo seletivo com inscrições até 15 de junho, taxa de R$ 100 para nível superior. Candidatos aprovados trabalharão na sede da instituição em Toledo/PR. Concurso com validade de dois anos.
-
-Title:   Concurso TJ PE tem edital publicado com 30 vagas para juiz | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-tribunal-de-justica-de-pernambuco-30-vagas-juiz-substituto
-Career:   tribunais
-Group:   tj-pernambuco-juiz-substituto
-Reason:  Publicação do edital do concurso TJ PE para 30 vagas de juiz substituto com remuneração inicial de R$35.877,28. Inscrições abertas de 1º de junho a 10 de julho pela FGV. Exige diploma em Direito, prática jurídica mínima de 3 anos e aprovação no Exame Nacional da Magistratura. Processo seletivo inclui prova objetiva (27 de setembro), provas escritas (dezembro), sindicância, exames físico e psicotécnico, prova oral e avaliação de títulos. Oferece cotas para deficientes, negros, indígenas e quilombolas, com isenção de taxa para várias categorias.
-
-Title:   Concurso SEFAZ RN: resultado final divulgado; candidatos aprovados aguardam convocação - Blog Magistrar Educacional
-URL:     https://magistrarcursos.com.br/blog/concurso-sefaz-rn-resultado-final-divulgado-candidatos-aprovados-aguardam-convocacao/
-Career:   administrativo
-Group:   sefaz-rn-auditor-fiscal
-Reason:  Divulgação do resultado final do concurso SEFAZ RN para Auditor Fiscal de Receitas Estaduais, cargo de grande relevância na carreira tributária estadual. Concurso historicamente importante para RN (primeiro em 17 anos), com 50 vagas imediatas, altíssima concorrência (280:1), remuneração inicial de R$ 13.283,64 com possibilidade de ultrapassar R$ 32 mil com gratificações. Resultado final encerra fase de provas, com candidatos aprovados aguardando convocação para próximas etapas (homologação, apresentação de documentos e nomeação). Informação crítica para quem acompanha o certame e necessita tomar decisões sobre participação em futuras convocações ou planejamento de carreira.
-
-Title:   Câmara Municipal de Palhoça SC retifica concurso com 9 vagas e novos salários | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/camara-municipal-de-palhoca-sc-retifica-concurso-com-9-vagas-e-novos-salarios
-Career:   administrativo
-Group:   camara-municipal-palhoca-sc-controlador-interno
-Reason:  Retificação de concurso da Câmara Municipal de Palhoça (SC) com reajuste salarial e benefícios para 9 vagas imediatas. Destaque para o cargo de Controlador Interno (nível superior em Direito), que exige formação jurídica e envolve fiscalização de atos administrativos e financeiros, auditorias e acompanhamento de licitações. Também oferece vagas para Técnico Legislativo (nível médio). Regime estatutário com estabilidade, jornada de 30 horas semanais, auxílio-alimentação de R$2.294,75 e auxílio-saúde de R$1.328,04. Inscrições até 5 de junho de 2026, provas em 12 de julho de 2026.
-
-Title:   ALECE - Alece assegura carga horária de 30 horas semanais em novo concurso
-URL:     https://www.al.ce.gov.br/noticias/53200-alece-assegura-carga-horaria-de-30-horas-semanais-em-novo-concurso
-Career:   administrativo
-Group:   al-ce-analista-legislativo
-Reason:  Concurso público da Assembleia Legislativa do Ceará com 200 vagas (170 para analista legislativo de nível superior e 30 para técnico legislativo de nível médio). Inscrições abertas até 22 de junho, provas em 16 de agosto. Cargos legislativos com possibilidade de ampliação de jornada de 30 para 40 horas semanais. Maior certame do Poder Legislativo cearense, com formação de cadastro de reserva (400 posições no total).
-
-Title:   Concurso Sefaz DF: processo movimenta e edital fica mais próximo | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-sefaz-df-edital-2026-movimentacao
-Career:   administrativo
-Group:   sefaz-df-auditor-fiscal
-Reason:  Concurso Sefaz DF para Auditor-Fiscal com 256 vagas em 2026. Cargo de nível superior com salário inicial de R$19.085,56 e final de R$26.886,65. Notícia relata movimentação processual (publicação de contrato com banca organizadora), indicando que edital está próximo. Detalha formato de provas: objetiva com 150 itens (certo/errado), discursiva com duas questões de conhecimento específico (20 linhas cada) e uma dissertativa (60 linhas). Inclui sindicância de vida pregressa e taxa de inscrição de R$175. Informação útil para candidatos que acompanham o certame e planejam inscrição.
-
-Title:   HomologaÃ§Ã£o do concurso da PGE/TO marca avanÃ§o para o fortalecimento institucional – PORTAL LJ
-URL:     https://lealjunior.com.br/homologacao-do-concurso-da-pge-to-marca-avanco-para-o-fortalecimento-institucional/
+Title:   Concurso Casimiro de Abreu RJ: banca cria página para edital | Folha Dirigida
+URL:     https://folha.qconcursos.com/n/concurso-casimiro-de-abreu-rj-ibam-edital-2026
 Career:   procuradorias
-Group:   pge-tocantins-procurador-do-estado
-Reason:  Homologação do 4º concurso público da Procuradoria-Geral do Estado do Tocantins para o cargo de Procurador do Estado - Nível I. A notícia marca a conclusão do processo seletivo e oficializa as vagas e formação de cadastro reserva, representando oportunidade concreta para candidatos aprovados na carreira de procurador estadual.
+Group:   prefeitura-casimiro-de-abreu-rj
+Reason:  Concurso da Prefeitura de Casimiro de Abreu com banca IBAM que historicamente oferece vagas para Procurador Municipal (cargo jurídico) e posições administrativas. Em 2025, houve edital para 5 vagas de Procurador com salário inicial de R$4.875, avaliação por provas objetiva e discursiva cobrindo Direito Constitucional, Administrativo, Tributário, Processual Civil, Trabalho, Ambiental e Urbanístico. Novo edital está próximo com página oficial já criada pela banca, sem detalhes confirmados dos cargos mas com potencial para vagas jurídicas considerando histórico.
 
-Title:   PR-MA convoca candidata aprovada no processo seletivo de estágio em Direito (Graduação) — Ministério Público Federal
-URL:     https://www.mpf.mp.br/o-mpf/unidades/pr-ma/noticias/pr-ma-convoca-candidata-aprovada-no-processo-seletivo-de-estagio-em-direito-graduacao-7
-Career:   estagio
-Group:   mpf-maranhao-estagio-direito
-Reason:  Convocação de candidata aprovada em processo seletivo de estágio em Direito no Ministério Público Federal. Trata-se de comunicado oficial para cumprimento de obrigações documentais no período de 28 de maio a 03 de junho de 2026, com carga horária de 4 horas diárias. A notícia é direcionada especificamente para a candidata aprovada e detalha a documentação necessária para formalização do vínculo de estágio.
-
-Title:   Concurso Procuradoria-Geral Canoas RS: cadastro reserva procurador municipal | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-procuradoria-geral-canoas-rs-cadastro-reserva-procurador-municipal
-Career:   procuradorias
-Group:   pgm-canoas-rs-procurador-municipal
-Reason:  Concurso para procurador municipal em Canoas (RS), cargo de carreira jurídica com remuneração inicial de R$ 18.458,52 e teto de R$ 31.503,47. Exige bacharelado em Direito e inscrição na OAB. Regime estatutário com estabilidade após 3 anos. Seleção organizada pelo Instituto Objetiva com três etapas: prova objetiva (100 questões em 12 de julho), prova de produção escrita com peça processual e questões discursivas (23 de agosto), e prova de títulos (classificatória). Inscrições de 29 de maio a 23 de junho de 2026, taxa de R$ 231,15 com isenções previstas. Edital nº 125/2026. Formação de cadastro de reserva para futuras convocações.
-
-Title:   Concurso CREF MA publica edital para diferentes áreas de atuação
-URL:     https://concursosnobrasil.com/concursos/ma/2026/05/27/concurso-cref-ma-publica-edital-para-diferentes-areas-de-atuacao/
-Career:   administrativo
-Group:   cref-maranhao-advogado
-Reason:  Concurso do CREF-MA (Conselho Regional de Educação Física) com vaga específica para Advogado. O cargo exige nível superior, realiza prova objetiva eliminatória e prova discursiva. Contratação via CLT com validade de cadastro reserva. Inscrições até 6 de julho de 2026, provas em 16 de agosto em São Luís e Imperatriz. Taxa de R$ 63,00. Banca: Instituto Quadrix.
-
-Title:   Câmara Municipal de Governador Valadares MG abre concurso com 10 vagas | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/camara-municipal-de-governador-valadares-mg-abre-concurso-com-10-vagas
-Career:   administrativo
-Group:   camara-governador-valadares-mg-consultor-legislativo
-Reason:  Concurso para Câmara Municipal com vaga específica de Consultor Legislativo (2 vagas + CR) exigindo formação em Direito e inscrição na OAB, remuneração de R$ 5.135,87 com jornada reduzida de 30h semanais. Também abrange cargos complementares em administração, contabilidade e comunicação. Organizado pela FGV com cronograma definido: inscrições de julho a agosto de 2026, prova objetiva em novembro de 2026 e resultado previsto para março de 2027. Contempla cotas para pessoas com deficiência e candidatos negros.
-
-Title:   Edital do TRT da 3ª Região traz vagas para níveis técnico e superior
-URL:     https://jcconcursos.com.br/amp/noticia/empregos/edital-do-trt-da-3-regiao-traz-vagas-para-niveis-tecnico-e-superior-142939
-Career:   estagio
-Group:   trt-belo-horizonte-mg-estagiario-direito
-Reason:  Processo seletivo para formação de cadastro de reserva no TRT da 3ª Região (Belo Horizonte-MG) com vagas para estagiários de graduação, incluindo estudantes de Direito. O edital especifica disciplina de 'conhecimentos específicos' para candidatos de Direito, com bolsa-auxílio de R$ 1.647, auxílio-transporte e jornada de 25 horas semanais. Inscrições encerradas em 29/05/2026 via CIEE. Relevante para estudantes de Direito buscando experiência prática em órgãos judiciários.
-
-Title:   Concurso Prefeitura de Cândido Godói RS abre 35 vagas imediatas | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-prefeitura-de-candido-godoi-rs-abre-35-vagas-imediatas
-Career:   administrativo
-Group:   prefeitura-candido-godoi-rs-agente-de-controle-interno
-Reason:  Concurso com vagas para bacharéis em Direito em nível superior. Destaca-se a vaga de Agente de Controle Interno (1 vaga + CR) e Fiscal Lotador e Tributário (1 vaga + CR), ambas exigindo formação em Direito, com remuneração de R$4.963,93. Inscrições de 27/05 a 26/06/2026, prova objetiva em 15/08/2026. Município de pequeno porte no RS com regime estatutário e validade de 2 anos.
-
-Title:   Concurso Sefaz SP: comissÃ£o formada para 60 vagas de APO
-URL:     https://www.direcaoconcursos.com.br/noticias/concurso-sefaz-sp-comissao-formada-60-vagas-apo
-Career:   administrativo
-Group:   sefaz-sp-analista-planejamento-orcamento-financas-publicas
-Reason:  Notícia sobre a formação da comissão especial para conduzir o concurso Sefaz SP destinado ao cargo de Analista em Planejamento, Orçamento e Finanças Públicas (APOFP), com 60 vagas autorizadas. Este é um marco importante no processo de abertura do certame, indicando que o concurso está avançando nas etapas preparatórias. Além disso, a matéria inclui informações sobre outros concursos em São Paulo de interesse para bacharéis em Direito, como o TCE SP (50 vagas para Auditor, sendo 10 para formados em Direito) e a Fundação Florestal SP (6 vagas para Advogado).
-
-Title:   Concurso AL MT: novo edital com 100 vagas é previsto para 2027 - Uni10
-URL:     https://uniten.com.br/concurso-al-mt-100-vagas-2027/
-Career:   administrativo
-Group:   almt-mato-grosso-analista-legislativo
-Reason:  Assembleia Legislativa de Mato Grosso confirmou planejamento de concurso público para 2027 com 100 vagas: 50 para Técnico Legislativo (nível médio) e 50 para Analista Legislativo (nível superior). Remuneração inicial de R$ 4.329,49 a R$ 8.529,58. Último concurso foi em 2013. Edital será publicado em 2027 devido ao calendário eleitoral. Banca examinadora ainda será definida, com possibilidade de provas de Cebraspe, FGV ou Fundação Carlos Chagas. Processo Legislativo, Língua Portuguesa, Informática e Administração Pública entre os conteúdos prováveis.
-
-Title:   Comissão instalada põe concurso ISS BH para Analista Fazendário na rota de 2026 - Uni10
-URL:     https://uniten.com.br/concurso-iss-bh-analista-fazendario-comissao-instalada/
-Career:   administrativo
-Group:   prefeitura-belo-horizonte-mg-analista-fazendario
-Reason:  Concurso para Analista Fazendário da Prefeitura de Belo Horizonte com comissão já instalada e edital previsto para 2026. O cargo exige diploma de nível superior (qualquer área), sem experiência prévia obrigatória. As atribuições incluem elaboração de relatórios técnicos, análise de processos, atendimento a contribuintes e operação de sistemas tributários. Remuneração inicial atraente com teto acima de R$ 31 mil mensais. Histórico de agilidade: concurso anterior (Agente Fazendário) foi realizado em menos de um ano. Disciplinas esperadas: Direito Tributário, Contabilidade Geral, Administração Pública e Legislação Municipal.
-
-Title:   AGU prepara novo concurso unificado com 170 vagas para carreiras jurídicas | CNN Brasil
-URL:     https://www.cnnbrasil.com.br/educacao/agu-prepara-novo-concurso-unificado-com-170-vagas-para-carreiras-juridicas/
-Career:   procuradorias
-Group:   agu-federal-procurador-e-advogado
-Reason:  Concurso unificado da AGU com 170 vagas distribuídas entre Advogado da União (50), Procurador da Fazenda Nacional (50), Procurador Federal (50) e Procurador do Banco Central (20). Está em fase final de negociação entre AGU e MGI, com previsão de aplicação de provas em datas diferentes para cada carreira. Representa oportunidade significativa para profissionais dessas carreiras jurídicas da administração pública federal.
-
-Title:   TJ de Pernambuco abre concurso com 30 vagas para juiz e salário de R$ 35,8 mil | Rádio Itatiaia
-URL:     https://www.itatiaia.com.br/emprego-e-concursos/tj-de-pernambuco-abre-concurso-com-30-vagas-para-juiz-com-salario-de-r-358-mil/
-Career:   tribunais
-Group:   tj-pernambuco-juiz-substituto
-Reason:  Concurso para Juiz Substituto no TJ-PE com 30 vagas imediatas e formação de cadastro de reserva. Salário inicial de R$ 35.877,28. Exige diploma de bacharel em Direito, 3 anos de atividade jurídica pós-graduação e aprovação no ENAM. Inscrições de 1º de junho a 10 de julho de 2026 pela FGV. Processo seletivo com prova objetiva (27/09/2026), provas escritas discursivas (6-7/12/2026), investigação social, exames de saúde, avaliação psicológica, prova oral e avaliação de títulos. Validade de dois anos com prorrogação possível. Reserva de vagas para pessoas com deficiência e candidatos negros.
-
-Title:   “Após 12 anos sem seleção de grande porte, Max Russi anuncia concurso com 100 vagas e salários que podem ultrapassar R$ 23 mil”  na ALMT
-URL:     https://jbnews.com.br/apos-12-anos-sem-selecao-de-grande-porte-max-russi-anuncia-concurso-com-100-vagas-e-salarios-que-podem-ultrapassar-r-23-mil-na-almt/
-Career:   administrativo
-Group:   almt-mato-grosso-analista-legislativo
-Reason:  Anúncio de futuro concurso da Assembleia Legislativa de Mato Grosso com aproximadamente 100 vagas para cargos de técnico legislativo e analista legislativo, previsto para 2027. Oferecerá vagas em diversas especialidades (administrativas, tecnologia, controle interno, apoio legislativo). Salários iniciais entre R$ 4,3 mil e R$ 8,5 mil, com possibilidade de ultrapassar R$ 23 mil com progressão funcional. Primeiro grande certame da ALMT em 12 anos, sendo historicamente considerado um dos mais concorridos e prestigiados do funcionalismo público mato-grossense.
-
-Title:   Coordenadoria de prevenção e mediação de conflitos abre seleção para vaga de bolsista – Universidade Federal de Minas Gerais
-URL:     https://www.ufmg.br/comunicacao/noticias/ensino/coordenadoria-de-prevencao-e-mediacao-de-conflitos-abre-selecao-para-vaga-de-bolsista/
-Career:   estagio
-Group:   ufmg-belo-horizonte-mg-bolsista-doutorado-direito
-Reason:  Seleção para bolsa de estágio em nível de doutorado na Coordenadoria de Prevenção, Mediação de Conflitos e Correição da UFMG. A vaga oferece bolsa mensal de R$ 2.231,39 e envolve atividades práticas em gestão de processos administrativos, pesquisa jurisprudencial e direito administrativo, especificamente em Processo Administrativo Disciplinar (PAD). A seleção inclui prova discursiva com questões sobre PAD e entrevista. Inscrições até 3 de junho de 2026.
-
-Title:   Concurso TJ AM: presidente anuncia nova seleção para 400 vagas de servidores
-URL:     https://jcconcursos.com.br/noticia/concursos/concurso-tj-am-presidente-anuncia-nova-selecao-para-400-vagas-142928
-Career:   administrativo
-Group:   tj-amazonas-am-cargos-variados
-Reason:  Anúncio oficial do presidente do TJ-AM sobre novo concurso com 400 vagas para servidores, previsto para 2027. Embora os cargos específicos ainda não tenham sido definidos, a informação é relevante pois confirma a realização do certame e permite que candidatos acompanhem desenvolvimentos. O último concurso ofereceu vagas para Analista e Assistente Judiciário, sugerindo padrão similar. Recomenda-se acompanhar anúncios da comissão organizadora e publicação do edital nos próximos meses.
-
-Title:   PGE do Acre divulga gabarito de concurso para procurador do Estado
-URL:     https://contilnetnoticias.com.br/cotidiano/pge-acre-fgv-divulgam/
-Career:   procuradorias
-Group:   pge-acre-procurador-do-estado
-Reason:  Divulgação do gabarito preliminar do concurso para Procurador do Estado do Acre (PGE-AC), que oferece 10 vagas imediatas e cadastro de reserva. O certame inclui múltiplas etapas (prova objetiva, subjetiva, prova prática de redação, prova oral e avaliação de títulos). Exige bacharelado em Direito e inscrição ativa na OAB. Remuneração inicial de R$ 25.996,16. Inclui cotas de 10% para PcD e 10% para candidatos negros. Cronograma prossegue com análise de recursos do gabarito antes das próximas etapas classificatórias e eliminatórias.
-
-Title:   Prefeitura de Pirangi (SP) abre processo seletivo para estagiários
-URL:     https://concursosnobrasil.com/concursos/sp/2026/05/27/prefeitura-de-pirangi-sp-abre-processo-seletivo-para-estagiarios/
-Career:   estagio
-Group:   prefeitura-pirangi-sp-estagiario-direito
-Reason:  Processo seletivo para estagiários na Prefeitura de Pirangi (SP) com vagas específicas para estudantes de Direito. Oferece 14 vagas imediatas mais cadastro de reserva, com bolsa de meio salário mínimo e jornada de 6 horas diárias. Exige estar cursando entre o 3º e último período do curso. Seleção por prova objetiva (português, matemática e conhecimentos específicos) com duração de 2 horas, marcada para 28 de junho de 2026. Inscrições abertas de 2 a 8 de junho via site da CONSCAM, taxa de R$ 16,21. Validade de 1 ano para chamadas.
-
-Title:   Concurso TJ AM: presidente anuncia novo edital com 400 vagas | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-tj-am-2026-anunciado
-Career:   tribunais
-Group:   tj-amazonas-am-cargos-variados
-Reason:  Anúncio oficial de novo concurso para o Tribunal de Justiça do Amazonas com previsão de 400 vagas para servidores. Atualmente há 218 cargos vagos: 105 para assistente judiciário (nível médio, R$8.773,57) e 113 para analista judiciário (nível superior, R$17.088,92). O edital ainda não foi publicado, mas a abertura foi incluída na estimativa financeira de 2027, com ingresso dos novos servidores previsto para o próximo ano. Detalhes sobre cargos específicos e especialidades ainda serão divulgados após contratação da banca organizadora.
-
-Title:   Concurso PC MG para delegado é homologado e já pode nomear | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-pc-mg-delegado-2026-homologado
-Career:   policiais
-Group:   pc-minas-gerais-delegado
-Reason:  Homologação do concurso PC MG para Delegado de Polícia, com 54 vagas e resultado final publicado. A carreira exige bacharelado em Direito e 3 anos de atividade jurídica ou policial. Nomeações já podem ocorrer, iniciando formação nas próximas semanas. Concurso válido até 2028 com possibilidade de prorrogação. Remuneração inicial de R$14.931,31.
-
-Title:   PGE abre vagas em Belém com salários de R$ 2,3 mil; inscrições iniciam nesta quinta (28) • DOL
-URL:     https://dol.com.br/concursos/estaduais/942942/pge-abre-vagas-em-belem-com-salarios-de-r-23-mil-inscricoes-iniciam-nesta-quinta-28
-Career:   procuradorias
-Group:   pge-belem-pa-analista-de-procuradoria
-Reason:  Processo seletivo simplificado da Procuradoria-Geral do Estado do Pará para 15 vagas de Analista de Procuradoria em Belém, com inscrições abertas entre 28 e 29 de maio. Seleção rápida para contratação temporária com vencimento-base de R$ 2.318,08. Admite candidatos com formação em Direito, além de outras áreas. Oferece 5 vagas para candidatos PPIQ e 10 para ampla concorrência/PCD.
-
-Title:   TJMG abre inscrições para estágio em Direito, Psicologia e Serviço Social; há vagas para Varginha  - Varginha Online
-URL:     https://www.varginhaonline.com.br/vagas-de-emprego/tjmg-abre-inscricoes-para-vagas-de-estagio/
-Career:   estagio
-Group:   tjmg-varginha-mg-estagio-direito
-Reason:  Seleção pública do TJMG para estágio em Direito voltada a estudantes de graduação e pós-graduação, com vagas em diversas comarcas de Minas Gerais incluindo Varginha. Oferece bolsa mensal de R$ 2.674,32 (graduação) ou R$ 3.392,40 (pós-graduação) com auxílio-transporte. Seleção por prova objetiva online em 28/06, com inscrições até 10/06 via Consulplan. Vagas também em outras áreas (Psicologia e Serviço Social) mas a de Direito é o foco principal para o público-alvo do portal.
-
-Title:   TJAC convoca estagiários de graduação e pós-graduação em Rio Branco
-URL:     https://yaconews.com/2026/05/tjac-convoca-estagiarios-graduacao-pos-graduacao-rio-branco/
-Career:   estagio
-Group:   tjac-rio-branco-ac-estagiario-pos-graduacao-direito
-Reason:  Convocação de aprovados em processos seletivos simplificados de estágio de graduação e pós-graduação no TJAC. O edital nº 18/2026 específico para estágio de pós-graduação em Direito em Rio Branco convoca 9 candidatos (225º a 234º lugar, com cotas raciais). Candidatos aprovados têm 5 dias úteis para encaminhar documentação. Esta é uma oportunidade de consolidação de vaga para quem já foi aprovado em seletivo anterior.
-
-Title:   Concurso Sefaz SP: comissão é formada para edital de analista | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-sefaz-sp-2026-comissao-formada-analista
-Career:   administrativo
-Group:   sefaz-sp-analista-planejamento-orcamento-financas-publicas
-Reason:  Notícia sobre formação de comissão para novo concurso Sefaz SP de Analista em Planejamento, Orçamento e Finanças Públicas (APOFP). Cargo de nível superior com remuneração inicial de R$6.002,61, podendo ultrapassar R$10 mil com progressões. Comissão responsável por estudos iniciais, levantamento de vagas, elaboração de cronograma e acompanhamento das etapas. Expectativa de publicação do edital no segundo semestre de 2026, com nomeações previstas para 2027. Último concurso ocorreu em 2013 com 257 vagas e abrangeu disciplinas como Direito Constitucional, Administrativo e Financeiro.
-
-Title:   Concurso da Câmara de Rio das Ostras RJ: inscrição entra na reta final
-URL:     https://jcconcursos.com.br/noticia/concursos/concurso-da-camara-de-rio-das-ostras-rj-inscricao-142942
-Career:   procuradorias
-Group:   camara-rio-das-ostras-rj-procurador-legislativo
-Reason:  Concurso para Câmara Municipal de Rio das Ostras com 38 vagas em diversos níveis. Destaque para cargos jurídicos: Procurador Legislativo (salário R$ 5.713), Consultor Legislativo (R$ 2.800) e Contador Legislativo (R$ 5.713), todos exigindo ensino superior. Também há vagas para Assistente Legislativo e Técnico em Informática. Inscrições encerram em 1º de junho, prova objetiva em 2 de agosto de 2026. Segunda fase (prova de títulos) apenas para cargos de nível superior.
-
-Title:   PGE divulga resultado final de processo seletivo para estágio em MS
-URL:     https://primeirapagina.com.br/emprego-e-concursos/pge-divulga-resultado-final-de-processo-seletivo-para-estagio-em-ms/
-Career:   estagio
-Group:   pge-campo-grande-ms-estagio
-Reason:  Divulgação do resultado final do processo seletivo simplificado para estágio remunerado na Procuradoria Geral do Estado de Mato Grosso do Sul. O programa inclui vagas específicas para acadêmicos de Direito em Campo Grande e Coxim, com jornada de 20 horas semanais, remuneração de um salário-mínimo mais auxílio-transporte e validade de 12 meses prorrogáveis. Lista com aprovados para cadastro reserva e cotas (negros, indígenas, pessoas com deficiência) já foi publicada.
-
-Title:   Concurso Câmara Municipal de Iporã PR: 2 vagas abertas em 2026 | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-camara-municipal-de-ipora-pr-2-vagas-abertas-em-2026
-Career:   procuradorias
-Group:   camara-municipal-ipora-pr-procurador-juridico
-Reason:  Concurso para Procurador Jurídico em câmara municipal com exigência de bacharel em Direito com OAB. Cargo de nível superior com remuneração de R$ 9.938,26, regime estatutário vinculado a RPPS municipal, jornada de 20h semanais. Processo seletivo estruturado em três etapas: prova objetiva com 30 questões (20 de conhecimentos específicos em Direito Administrativo, Constitucional, Civil, Penal, Tributário, Financeiro e Trabalho), prova prática com elaboração de peça processual manuscrita para os 10 melhores classificados, e prova de títulos com pontuação para pós-graduação. Inscrições de 28 de maio a 18 de junho de 2026, prova objetiva em 19 de julho. Validade de 2 anos prorrogáveis.
-
-Title:   Concurso Câmara Municipal Capão do Leão RS: cadastro de reserva aberto | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/concurso-camara-municipal-capao-do-leao-rs-cadastro-de-reserva-aberto
-Career:   administrativo
-Group:   camara-capao-do-leao-rs-contador
-Reason:  Concurso público para Câmara Municipal de Capão do Leão RS com dois cargos: Assistente Legislativo (nível médio) e Contador (nível superior). O cargo de Contador é específico para bacharéis em Ciências Contábeis com registro profissional, envolvendo assessoramento contábil, financeiro e orçamentário, balancetes, folha de pagamento e conformidade com legislação. Oferece regime estatutário com estabilidade após estágio probatório, jornada de 30 horas semanais e salário inicial de R$ 5.814,17. Inscrições de 1º a 30 de junho de 2026, prova em 27 de setembro de 2026. Banca: Legalle Concursos.
+Title:   Com concorrência de 300 por 1, mais de 2 mil candidatos disputam vagas no MPMT
+URL:     https://primeirapagina.com.br/emprego-e-concursos/com-concorrencia-de-300-por-1-mais-de-2-mil-candidatos-disputam-vagas-no-mpmt/
+Career:   mp
+Group:   mpmt
+Reason:  Concurso para Promotor de Justiça Substituto do MPMT com 8 vagas imediatas e alta concorrência (305 candidatos por vaga). Notícia relevante por trazer atualização sobre a continuidade do certame após decisão do STJ que derrubou suspensão imposta pelo TJMT, confirmando cronograma com provas objetiva (14 de junho de 2026) e discursiva (16-17 de agosto). Salário inicial de R$ 37.765,55. Processo seletivo organizado pela FGV com cinco fases sucessivas. Cabe destaque à decisão judicial recente que garante prosseguimento do concurso conforme edital original.
 
