@@ -1,107 +1,125 @@
-Verificação: 2026-05-31T07:47:39.741312+00:00
-Links analisados: 72
-Links relevantes: 17
+Verificação: 2026-06-01T09:28:31.194376+00:00
+Links analisados: 79
+Links relevantes: 20
 ============================================================
 
-Title:   Concurso da Câmara de Senador Canedo-GO 2026 é suspenso
-URL:     https://www.acheconcursos.com.br/concursos-goias/concurso-camara-senador-canedo-go-2026-edital-25-vagas-87129
-Career:   administrativo
-Group:   camara-senador-canedo-go
-Reason:  Concurso da Câmara Municipal de Senador Canedo-GO com 25 vagas, incluindo dois cargos jurídicos: Procurador Jurídico (R$ 11.903,79) e Analista Legislativo - Técnico Jurídico (R$ 10.874,58), ambos exigindo formação em Direito e inscrição na OAB. O certame foi suspenso por decisão judicial relacionada à isenção de taxa para candidatos hipossuficientes. Informação relevante para candidatos acompanhando este específico concurso municipal, com impacto direto nas datas de prova e prazos de inscrição.
-
-Title:   TJES abre estágio com bolsa de R$ 1,3 mil em Vitória e Vila Velha
-URL:     https://www.folhavitoria.com.br/trabalho/tjes-abre-vagas-de-estagio-com-bolsa-de-r-13-mil-em-vitoria-e-vila-velha/
+Title:   Estágio TJMG Divinópolis: Processo seletivo tem bolsas de R$ 3,3 mil | G1
+URL:     https://g1.globo.com/mg/centro-oeste/noticia/2026/05/31/com-bolsas-de-r-33-mil-tjmg-abre-processo-seletivo-para-estagiarios-em-divinopolis.ghtml
 Career:   estagio
-Group:   tj-es-estagio-direito
-Reason:  Oportunidades de estágio em duas varas do Tribunal de Justiça do Espírito Santo: 2ª Vara da Infância e Juventude em Vila Velha (a partir do 5º período) e 5ª Vara da Fazenda Pública Estadual em Vitória (a partir do 4º período). Bolsa de R$ 1,3 mil, auxílio-transporte e 20 horas semanais. Atividades incluem elaboração de minutas, acompanhamento processual e rotinas administrativas. Inscrição até 5 de junho via currículo enviado aos e-mails indicados.
+Group:   tjmg-divinopolis-mg-estagiario-direito
+Reason:  Processo seletivo para estágio no TJMG com 15 vagas imediatas para graduandos em Direito na comarca de Divinópolis. Oferece bolsa de R$ 2.674,32 mensais com jornada de 6 horas diárias, auxílio-transporte e cotas de 20% para PcD e 30% para negros. Seleção por prova objetiva com 50 questões (20 de Português, 30 de Conhecimentos Específicos) marcada para 28 de junho de 2026. Inscrições gratuitas até 10 de junho via internet.
 
-Title:   Concurso TJPE: inscrições para edital com 30 vagas serão abertas na segunda-feira (1º) - Portal de Prefeitura
-URL:     https://portaldeprefeitura.com.br/oportunidades/concurso-tjpe-inscricoes-edital-abertas-segunda/623002/
-Career:   tribunais
-Group:   tj-pernambuco-juiz-substituto
-Reason:  Concurso do Tribunal de Justiça de Pernambuco para 30 vagas de Juiz Substituto com inscrições abertas em junho de 2026. Oferece remuneração inicial de R$ 35.877,28. Processo seletivo com cinco fases: prova objetiva (27 de setembro), provas escritas (6 e 7 de dezembro), inscrição definitiva com análise documental e sindicância, prova oral e avaliação de títulos. Realizado pela FGV, com taxa de R$ 358,77 e possibilidade de isenção. Edital válido por dois anos com prorrogação possível.
-
-Title:   Processo seletivo da Prefeitura de Igaratá SP está com inscrições abertas
-URL:     https://jcconcursos.com.br/noticia/empregos/processo-seletivo-da-prefeitura-de-igarata-sp-esta-com-inscricoes-abertas-143012
-Career:   estagio
-Group:   prefeitura-igarata-sp-estagiario
-Reason:  Processo seletivo de estágio na Prefeitura de Igaratá com vagas específicas para estudantes de Direito (nível superior). O edital permite inscrição de universitários cursando Direito, com remuneração de R$ 842/mês por 30 horas semanais. Seleção em duas fases: análise curricular e entrevista. Inscrições pelo CIEE entre 1º e 20 de junho.
-
-Title:   Araguaína lança editais para concurso público com salários de até 16,4 mil | Daqui
-URL:     https://daqui.opopular.com.br/geral/araguaina-lanca-editais-para-concurso-publico-com-salarios-de-ate-16-4-mil-1.3416429
-Career:   procuradorias
-Group:   prefeitura-araguaina-to-procurador
-Reason:  Concurso público da Prefeitura de Araguaína com vagas na área jurídica, incluindo oportunidades na Procuradoria Geral do Município. O edital oferece mais de 1,5 mil vagas em diversas áreas com salários até R$ 16,4 mil. Inscrições até 6 de julho de 2024 pelo IDIB. Abrange níveis médio e superior, com possibilidades para profissionais de Direito em órgãos municipais.
-
-Title:   Ministério Público de Goiás cancela fase de concurso para promotor - via @podergoias
-URL:     https://www.podergoias.com.br/materia/26321/ministerio-publico-de-goias-cancela-fase-de-concurso-para-promotor
-Career:   mp
-Group:   mp-goias-promotor-de-justica
-Reason:  Concurso para Promotor de Justiça do MP-GO com 37 vagas e salário inicial de R$ 34 mil teve sua segunda fase (etapa subjetiva) anulada devido a irregularidade no armazenamento de prova. A reaplicação está marcada para 21, 22 e 23 de agosto de 2026. A decisão afeta diretamente candidatos já habilitados que precisarão refazer as provas discursivas, sendo informação crítica para quem acompanha ou planeja participar do certame.
-
-Title:   Concurso Câmara Senador Canedo 2024: Seleção suspensa por decisão judicial
-URL:     https://imprensa24h.com.br/concurso-camara-senador-canedo-2024-selecao-suspensa-por-decisao-judicial/
+Title:   Confira as vagas abertas em concursos públicos e seleções no Ceará | G1
+URL:     https://g1.globo.com/ce/ceara/suachance/noticia/2026/06/01/concursos-com-salarios-de-ate-r-16-mil-e-oportunidades-para-quem-nao-tem-experiencia-confira-as-vagas-disponiveis-no-ceara.ghtml
 Career:   administrativo
-Group:   camara-senador-canedo-go
-Reason:  Notícia sobre suspensão judicial de concurso público da Câmara Municipal de Senador Canedo (GO) por irregularidades em edital e contratação de banca. A decisão afeta candidatos inscritos e altera cronograma de provas. Relevante para acompanhar mudanças significativas em certame que pode oferecer cargos jurídicos ou administrativos na esfera municipal, impactando planejamento de estudo e inscrição.
+Group:   alece-fortaleza-ce-analista-legislativo
+Reason:  O texto apresenta múltiplos concursos públicos no Ceará relevantes para bacharéis em Direito. Destacam-se: (1) Assembleia Legislativa do Ceará com 170 vagas de Analista Legislativo (nível superior) a R$ 6.126,48; (2) Tribunal de Justiça do Ceará com 12 vagas de Analista Judiciário a R$ 8.829,24; (3) Sefaz-CE com 100 vagas de Auditor-Fiscal a R$ 16.136,64 (inscrições fechando em 1º de junho); (4) Ipece com 9 vagas imediatas de nível superior a R$ 5.428,69; (5) câmaras municipais e prefeituras com vagas para assessor técnico e cargos administrativos. Além disso, há programa de estágio na Prefeitura de Fortaleza. O conteúdo é especialmente relevante por consolidar múltiplas oportunidades com datas de inscrição próximas e salários variados.
 
-Title:   Concursos previstos no Tocantins somam mais de 5,8 mil vagas; veja andamento - Gazeta do Cerrado
-URL:     https://gazetadocerrado.com.br/oportunidades/concursos-previstos-no-tocantins-somam-mais-de-58-mil-vagas-veja-andamento/
-Career:   policiais
-Group:   policia-civil-tocantins-delegado
-Reason:  Artigo sobre concursos previstos no Tocantins com múltiplas oportunidades jurídicas: Polícia Civil (delegado, perito, investigador) com até R$ 21,9 mil; auditor fiscal da Fazenda (200 vagas); analista de controle interno da CGE (40 vagas). Embora os editais ainda não estejam publicados, o texto fornece informação sobre autorização, estrutura de vagas e cronograma esperado para segundo semestre de 2026, permitindo que candidatos acompanhem o andamento e se preparem. Inclui detalhes de remuneração e etapas processuais.
+Title:   Petrobras abre processo seletivo inédito com vagas em todo o Brasil
+URL:     https://www.portaltemponovo.com.br/petrobras-abre-processo-seletivo-inedito-com-vagas-em-todo-o-brasil/
+Career:   estagio
+Group:   petrobras-brasil-estagio-direito
+Reason:  Programa de estágio na Petrobras com vagas para graduandos em Direito distribuídas em múltiplas estados (RJ, SP, BA, PE, entre outros). Oferece bolsa de R$ 1.825/mês, vale-transporte, seguro, recesso remunerado e treinamentos pela Universidade Petrobras. Jornada de 20h semanais com possibilidade de formato híbrido. Seleção por prova objetiva online com 60 questões abordando Língua Portuguesa, Matemática, Raciocínio Lógico, Conhecimentos Gerais, Tecnologia, IA e temas Petrobras. Inscrições até 3 de junho de 2026. Reserva de 30% das vagas para mulheres. Programa com caráter educacional sem vínculo empregatício.
 
-Title:   Seletivo da Funai: confira as localidades com 267 vagas
-URL:     https://jcconcursos.com.br/noticia/empregos/seletivo-da-funai-confira-as-localidades-com-267-vagas-142998
+Title:   Funai abre seleção com 267 vagas; há oportunidades no Pará • DOL
+URL:     https://dol.com.br/noticias/cursos--empregos/943301/funai-abre-selecao-com-267-vagas-ha-oportunidades-no-para
 Career:   estagio
 Group:   funai-brasil-estagiario
-Reason:  Seletivo de estágio na Funai com 267 vagas distribuídas nacionalmente, incluindo oportunidades para bacharéis em Direito no nível superior. O edital especifica áreas de atuação judiciária/jurídica, com remuneração de R$ 651,31 a R$ 1.508,42 conforme jornada (20 ou 30h semanais) mais auxílio-transporte. Prova inclui língua portuguesa, matemática, sociologia, geografia, informática, conhecimentos gerais e específicos, além de redação. Inscrições até 15 de junho sem taxa.
+Reason:  Seleção de estágio na Funai com 267 vagas para graduandos em Direito e outras áreas. Oferece bolsa de até R$ 1.508,42 (30h/semana) + auxílio-transporte. Inscrições abertas até 15 de junho na plataforma Super Estágios. Prova online com conteúdos de Português, Matemática, Sociologia, Informática, Geografia, conhecimentos gerais e específicos da área, além de redação. Oportunidades em diversos estados, incluindo Pará. Requisitos: mínimo 16 anos, matrícula ativa em instituição de ensino, regularidade eleitoral e militar (maiores de idade).
 
-Title:   Uncisal divulga edital com 600 vagas para cursos de especialização na modalidade a distância - Sertão na Hora
-URL:     https://sertaonahora.com.br/uncisal-divulga-edital-com-600-vagas-para-cursos-de-especializacao-na-modalidade-a-distancia/amp/
-Career:   administrativo
-Group:   uncisal-alagoas-especializacao-legalidade-acoes-administrativas
-Reason:  Especialização em Legalidade das Ações Técnico-Administrativas no Serviço Público com 150 vagas oferecidas pela Uncisal em formato EaD. Curso com 450 horas focado em Direito Administrativo, gestão pública, controle e integridade institucional. Direcionado a servidores públicos, gestores e técnicos administrativos. Inscrições abertas de 1º a 30 de junho de 2026, com aulas síncronas obrigatórias aos sábados. Formação gratuita em nível de pós-graduação lato sensu alinhada às demandas da administração pública.
+Title:   Concursos no Brasil: confira agenda com mais de três mil vagas, e salários de até 35 mil reais - Concursos e Empregos - Folha PE
+URL:     https://www.folhape.com.br/colunistas/blogdosconcursos/concursos-no-brasil-confira-agenda-com-mais-de-tres-mil-vagas-e-salarios-de-ate-35-mil-reais/53383/
+Career:   tribunais
+Group:   tj-pernambuco-juiz-substituto
+Reason:  Matéria agregadora listando múltiplos concursos em aberto nas regiões Nordeste, Sudeste e Sul, com destaque para oportunidades específicas na carreira jurídica: Concurso para Juiz Substituto do TJ-PE (30 vagas, R$ 35.877,28), posições em Tribunal de Justiça do Ceará (técnico judiciário, analista judiciário, oficial de justiça), além de vagas para analista legislativo na AL-CE e assessor jurídico em consórcio de saúde. Inclui prazos de inscrição próximos (junho-julho) e informações sobre futuros certames de grandes órgãos federais (INSS, Receita Federal, Polícia Federal). Relevante para monitoramento de oportunidades em fase de inscrição.
 
-Title:   Falha no armazenamento de provas provoca cancelamento do concurso para promotor de Justiça | CBN-GO
-URL:     https://cbngoiania.com.br/tarde-cbn/falha-no-armazenamento-de-provas-provoca-cancelamento-do-concurso-para-promotor-de-justica-1.3416485
-Career:   mp
-Group:   mp-goias-promotor-de-justica
-Reason:  Cancelamento da segunda fase do concurso para Promotor de Justiça do MPGO após falha no armazenamento de provas. Uma prova de candidato foi acondicionada em envelope incorreto durante a aplicação de 26 de abril, descoberto em 25 de maio. A decisão impacta diretamente candidatos aprovados na primeira fase que aguardavam a continuação do certame, afetando o cronograma e a segurança processual do concurso.
-
-Title:   Câmara dos Deputados deve divulgar novo concurso nos próximos dias, confirma Hugo Motta - Portal de Prefeitura
-URL:     https://portaldeprefeitura.com.br/oportunidades/camara-dos-deputados-deve-divulgar-novo-concurso-nos-proximos-dias/623000/
-Career:   procuradorias
-Group:   camara-dos-deputados-df-analista-legislativo
-Reason:  Câmara dos Deputados confirmou que divulgará nos próximos dias edital para concurso de Analista Legislativo em áreas não cobertas por editais anteriores. Cargo de nível superior com remuneração inicial de R$ 30.853,99 e jornada de 40 horas semanais. Expectativa de que Cebraspe seja a banca organizadora. Representa oportunidade de carreira jurídica em instituição federal legislativa, com possibilidade de múltiplas especialidades.
-
-Title:   Estágio Prefeitura SJC junho 2026 abre vagas. Confira os detalhes | Vale 360 News
-URL:     https://www.vale360news.com.br/estagio-prefeitura-sjc-junho-2026-abre-vagas-confira-os-detalhes/
+Title:   Inscrições para seletivo da CDHU de São Paulo vão até terça (2)
+URL:     https://jcconcursos.com.br/noticia/empregos/inscricoes-para-seletivo-da-cdhu-de-sao-paulo-vao-ate-terca-2-143002
 Career:   estagio
-Group:   prefeitura-sao-jose-dos-campos-sp-estagio-direito
-Reason:  Oportunidade de estágio na Prefeitura de São José dos Campos com 2 vagas específicas para estudantes de Direito (1º ao 3º ano e 4º-5º ano), com jornada de 4 a 6 horas diárias. Seleção em parceria com CIEE. Permite aos estudantes de Direito ganhar experiência prática em órgão público municipal antes da formação profissional final.
+Group:   cdhu-sao-paulo-sp-estagiario
+Reason:  Processo seletivo da CDHU SP com 43 vagas de estágio para nível superior, incluindo vagas destinadas a estudantes de Direito. Oferece bolsa-auxílio de R$ 2.000/mês, auxílio-transporte e vale-refeição para jornada de 30 horas semanais. Prazo de inscrição até 2 de junho. Prova com 20 questões objetivas sobre português e conhecimentos gerais. Inscrições via CIEE. Importante para bacharéis em Direito em busca de experiência profissional e renda durante a formação.
 
-Title:   Concursos RJ: 12 editais abertos inscrevem em Junho
-URL:     https://www.acheconcursos.com.br/noticias/concursos-rj-12-editais-abertos-inscrevem-em-junho-90494
+Title:   Câmara Rio das Ostras abre concurso público vagas e salários
+URL:     https://www.souenfermagem.com.br/noticias/camara-rio-das-ostras-abre-concurso-publico-vagas-e-salarios/
 Career:   procuradorias
-Group:   pge-rj-procurador-do-estado
-Reason:  Matéria agregadora listando 12 editais abertos em junho/2026 no Rio de Janeiro. Destaque para PGE-RJ com 5 vagas de Procurador do Estado (salário até R$ 30 mil), processo seletivo da SEEDUC-RJ com 1.750 vagas de Professor, Câmara de Rio das Ostras com 38 vagas em diversos níveis, e Prefeitura de Volta Redonda com 61 vagas de Professor. Inclui também seleções de menor relevância jurídica. Útil para acompanhamento de oportunidades em procuradorias estaduais e cargos públicos na região.
+Group:   camara-rio-das-ostras-rj-procurador-legislativo
+Reason:  Concurso da Câmara Municipal de Rio das Ostras com cargo de Procurador Legislativo (1 vaga), posição que demanda formação jurídica. Também oferece Consultor Legislativo (3 vagas) e Assistente Legislativo (8 vagas), que podem atrair bacharéis em Direito. Salários entre R$ 2.180 e R$ 5.713. Inscrições encerradas em 11/06/2026, prova objetiva agendada para 02/08/2026. Edital recentemente retificado com alterações em vagas PcD e prazos estendidos, informação relevante para acompanhamento de certame em andamento.
 
-Title:   Concurso para promotor em Goiás é cancelado após prova ser encontrada fora de envelope lacrado | Mais Goiás
-URL:     https://www.maisgoias.com.br/cidades/concurso-para-promotor-em-goias-e-cancelado-apos-prova-ser-encontrada-fora-de-envelope-lacrado/
-Career:   mp
-Group:   mp-goias-promotor-de-justica
-Reason:  Cancelamento da segunda fase (prova discursiva) do concurso para Promotor de Justiça Substituto do MP-GO com 37 vagas e salário inicial de R$ 34 mil. A prova será reaplicada nos dias 21, 22 e 23 de agosto devido à descoberta de irregularidade no armazenamento de um dos cadernos de respostas fora do envelope lacrado. Informação crítica para candidatos já inscritos ou em preparação, pois impacta diretamente o cronograma e demanda refazimento de três dias de avaliações em áreas variadas do Direito.
-
-Title:   Processo seletivo Prefeitura de Salgado Filho PR abre vagas e cadastro reserva | Folha Dirigida
-URL:     https://folha.qconcursos.com/n/processo-seletivo-prefeitura-de-salgado-filho-pr-abre-vagas-e-cadastro-reserva
+Title:   Governo autoriza concurso para analista de controle interno com 30 vagas no Tocantins | Tocantins
+URL:     https://www.jornaldotocantins.com.br/economia/concurso-e-empregos/governo-autoriza-concurso-para-analista-de-controle-interno-com-30-vagas-no-tocantins-1.3416697
 Career:   administrativo
-Group:   prefeitura-salgado-filho-pr-multiplos-cargos
-Reason:  Processo seletivo simplificado da Prefeitura de Salgado Filho PR com vagas para cargos de nível superior, incluindo posições jurídicas como Assistente Social (CR), Psicóloga (1+CR) e outras áreas da administração pública municipal. Inscrições de 8 de junho a 7 de julho de 2026, provas em 26 de julho. Salários de R$ 1.418,26 a R$ 12.115,68 em regime estatutário. Banca FAU Concursos. Abrange múltiplos níveis de escolaridade com cotas de 5% para PcD e 10% para afrodescendentes. Validade de 1 ano prorrogável.
+Group:   cge-tocantins-analista-controle-interno
+Reason:  Concurso para Analista de Controle Interno no Tocantins com 30 vagas imediatas e 10 de cadastro reserva. O cargo integra a Controladoria-Geral do Estado, órgão responsável por atividades de controle interno, auditoria e acompanhamento da gestão pública estadual. Embora o edital ainda não tenha sido publicado, a autorização pelo governador marca o início efetivo dos preparativos. Cargo que exige formação jurídica ou contábil para análise de conformidade legal e controle de despesas públicas.
 
-Title:   Prefeitura de Guarapuava abre inscrições para Processo Seletivo de estagiários - Cultura News
-URL:     https://culturanews.net/guarapuava/prefeitura-de-guarapuava-abre-inscricoes-para-processo-seletivo-de-estagiarios/
+Title:   Estágio TJMG Divinópolis: Processo seletivo tem bolsas de R$ 3,3 mil | G1
+URL:     https://g1.globo.com/google/amp/mg/centro-oeste/noticia/2026/05/31/com-bolsas-de-r-33-mil-tjmg-abre-processo-seletivo-para-estagiarios-em-divinopolis.ghtml
 Career:   estagio
-Group:   prefeitura-guarapuava-pr-estagiario-direito
-Reason:  Processo seletivo simplificado para estagiários de pós-graduação em Direito pela Prefeitura de Guarapuava. Contempla estudantes de pós-graduação em Direito com bolsa auxílio de R$ 1.800,00, carga horária de 20-30 horas semanais, auxílio-transporte e seleção via prova objetiva on-line em 05/07. Inscrições até 26/06 sem taxa. Oportunidade para bacharéis em Direito que cursam pós-graduação.
+Group:   tjmg-divinopolis-mg-estaguiario-direito
+Reason:  Processo seletivo do TJMG para estágio em Divinópolis com 15 vagas imediatas para graduandos em Direito e formação de cadastro de reserva para pós-graduados. Bolsa de R$ 2.674,32 (graduação) ou R$ 3.392,40 (pós-graduação) mais auxílio-transporte. Jornada de 6 horas diárias. Seleção por prova objetiva com 50 questões (20 Português, 30 Conhecimentos Específicos) em 4h10min. Inscrições até 10 de junho, prova em 28 de junho de 2026. Reserva de 20% para PcD e 30% para negros. Oportunidade de experiência prática em tribunal com remuneração.
+
+Title:   MPES, Polícia Militar e Exército: 2,4 mil vagas em concursos no ES
+URL:     https://www.folhavitoria.com.br/trabalho/concursos/mpes-pm-e-exercito-veja-12-concursos-com-inscricoes-abertas-e-24-mil-vagas/
+Career:   mp
+Group:   mpes-espirito-santo-agente-administrativo
+Reason:  Matéria agregadora sobre múltiplos concursos no ES, destacando oportunidades no MPES (60 vagas para cargos administrativos em níveis médio e superior, com salários até R$ 10.453,81), Polícia Militar (1.008 vagas para Soldado), EsPCEx (440 vagas para curso de formação de oficiais) e outros concursos. Fornece detalhes práticos: prazos de inscrição, datas de provas, taxas, requisitos e salários. Relevante para acompanhamento de oportunidades em diferentes carreiras jurídicas e afins.
+
+Title:   TRT 15 abre seleção com bolsa de R$ 1,5 mil
+URL:     https://jcconcursos.com.br/noticia/empregos/trt-15-abre-selecao-com-bolsa-de-r-15-mil-143021
+Career:   estagio
+Group:   trt-15-campinas-sp-estagiario
+Reason:  Seleção de estágio no TRT 15 (Campinas, SP) com bolsa de R$ 1.500/mês e auxílio-transporte. Aberta para estudantes de Direito entre outros cursos, com atuação em jornada de 30h semanais nas áreas administrativa, operacional e judiciária/jurídica. Prova inclui noções de direito do trabalho para candidatos de Direito. Válida por 12 meses com possibilidade de prorrogação, formando cadastro reserva para futuras convocações. Inscrições até 1º de julho via CIEE.
+
+Title:   Concurso CGU 2026 confirma 60 vagas para Auditor e salário de R$ 20 mil - Uni10
+URL:     https://uniten.com.br/concurso-cgu-2026-60-vagas-auditor-salario-20-mil/
+Career:   administrativo
+Group:   cgu-brasilia-df-auditor-federal-financas-controle
+Reason:  Concurso para Auditor Federal de Finanças e Controle na CGU com 60 vagas imediatas e possibilidade de mais 60. Salário inicial de R$ 20 mil, jornada de 40h semanais, lotação em Brasília ou unidades regionais. Processo seletivo tradicional: prova objetiva, discursiva, avaliação de títulos e curso de formação. Último concurso expira em junho de 2026, com previsão de edital e provas até primeiro semestre de 2027. Carreira com estabilidade, progressão funcional acelerada e benefícios (gratificação de desempenho, auxílios alimentação e saúde).
+
+Title:   SEAD/RN divulga Gabarito de concurso; veja resultado das provas aplicadas pelo Instituto Avalia
+URL:     https://fiibrasil.com/concurso/sead-rn-rn-gabarito-concurso-01-2026/
+Career:   administrativo
+Group:   sead-rn-analista-transito-direito
+Reason:  Divulgação de gabarito e cronograma de resultados do concurso SEAD/RN com 175 vagas. Destaque para 8 vagas de Analista de Trânsito na área de Direito, além de outras oportunidades em cargos administrativos e técnicos. Provas aplicadas em 31 de maio, resultado preliminar em 24 de junho e resultado final em 7 de agosto. Salários entre R$ 1.927,43 e R$ 4.614,55. Informação relevante para candidatos que se inscreveram e aguardam resultados.
+
+Title:   CRMV-SC divulga Gabarito de concurso; veja resultado das provas aplicadas pelo IESES
+URL:     https://fiibrasil.com/concurso/crmv-sc-sc-gabarito-concurso-01-2026/
+Career:   administrativo
+Group:   crmv-sc-sc-advogado
+Reason:  Divulgação de gabarito e cronograma de resultados do concurso CRMV-SC (Edital 01-2026). O certame oferece vaga para ADVOGADO em órgão regulador profissional, além de outros cargos administrativos e técnicos. Resultado preliminar previsto para 24 de junho. Relevante para candidatos inscritos acompanharem recursos e resultados das provas realizadas em 31 de maio.
+
+Title:   Câmara de Vereadores abre novo concurso público com salário de R$ 7 mil
+URL:     https://www.portaltemponovo.com.br/camara-de-vereadores-abre-novo-concurso-publico-com-salario-de-7-mil/
+Career:   procuradorias
+Group:   camara-montanha-es-procurador-legislativo
+Reason:  Concurso da Câmara Municipal de Montanha-ES com vagas para cargos jurídicos de nível superior, incluindo Procurador Legislativo (salário de R$ 4.500 + benefícios, com jornada de 20h/semana) e Analistas Legislativos nas áreas de Secretaria Legislativa/Administrativa, Financeiro e Contabilidade. O edital também contempla vaga de Controle Interno (R$ 6.500). Inscrições até 18 de junho de 2026 via Instituto Consulplan. Provas objetiva e discursiva para Procurador Legislativo.
+
+Title:   Funai abre seleção com 267 vagas; há oportunidades no Pará • DOL
+URL:     https://amp.dol.com.br/noticias/cursos--empregos/943301/funai-abre-selecao-com-267-vagas-ha-oportunidades-no-para
+Career:   estagio
+Group:   funai-brasil-estagio-graduacao-direito
+Reason:  Seleção de estágio na Funai com 267 vagas destinadas a estudantes de graduação, incluindo vagas específicas para bacharéis em Direito. O processo é on-line com provas de conhecimentos gerais e específicos da área. Oferece bolsa de até R$ 1.508,42 mensais (até 30h/semana) mais auxílio-transporte. Inscrições gratuitas até 15 de junho pela plataforma Super Estágios. Oportunidade de experiência profissional em órgão federal responsável por direitos de povos indígenas, com vagas também no Pará.
+
+Title:   Concurso TJ-BA 2026: confira gabarito extraoficial e análise da prova para Juiz Leigo - Uni10
+URL:     https://uniten.com.br/concurso-tj-ba-2026-gabarito-juiz-leigo/
+Career:   tribunais
+Group:   tj-ba-juiz-leigo
+Reason:  Concurso do TJ-BA para Juiz Leigo com prova objetiva realizada. O cargo é voltado aos Juizados Especiais da Bahia e atrai advogados em busca de experiência prática na magistratura. O texto fornece análise sobre gabarito extraoficial, temas cobrados (Direito Constitucional, Civil, Processual, Consumidor, Juizados Especiais), nível de dificuldade e cronograma dos próximos passos (gabarito oficial, recursos, resultado). Menciona requisitos como comprovação de dois anos de experiência jurídica e inscrição na OAB. Útil para candidatos acompanharem o certame e planejarem recursos.
+
+Title:   MPRJ divulga Gabarito de concurso; veja resultado das provas aplicadas pela FGV
+URL:     https://fiibrasil.com/concurso/mprj-rj-gabarito-concurso-xxxix-2026/
+Career:   mp
+Group:   mprj-rio-de-janeiro-rj-promotor-de-justica-substituto
+Reason:  Divulgação de gabarito e cronograma de resultados do concurso MPRJ Edital XXXIX-2026 para Promotor de Justiça Substituto. Oferece 57 vagas com salário inicial de R$ 37.765,53. Resultado preliminar previsto para 23 de junho. Informação crítica para candidatos que realizaram as provas no dia 31 de maio, permitindo conferência de desempenho e planejamento de recursos.
+
+Title:   Concurso Câmara de Salesópolis oferece salários de até R$ 7,8 mil e inscrições até 29/6 - Uni10
+URL:     https://uniten.com.br/concurso-camara-salesopolis-inscricoes-2026/
+Career:   administrativo
+Group:   camara-salesopolis-sp-procurador-juridico-legislativo
+Reason:  Concurso para Câmara Municipal de Salesópolis (SP) com cargo específico de interesse para bacharéis em Direito: Procurador Jurídico Legislativo, remuneração de R$ 7.847,87, com prova objetiva (10 questões de Português + 30 de Conhecimentos Específicos) e elaboração de peça processual ou parecer jurídico. Prova prevista para 26/7/2026, inscrições até 29/6/2026. Também oferece Contador Legislativo (R$ 6.925,03) e Diretor Administrativo (R$ 5.830,59) para nível superior. Cadastro reserva até 2028. Benefícios incluem auxílio-alimentação, vale-transporte, revisão geral anual e progressão funcional.
+
+Title:   Concurso Defensoria Pública 2026 promete salários de até R$ 30 mil e editais em sete órgãos - Uni10
+URL:     https://uniten.com.br/concurso-defensoria-publica-2026-salarios-vagas/
+Career:   defensoria
+Group:   defensoria-nacional-defensor-publico
+Reason:  Artigo sobre perspectivas de editais para Defensoria Pública em 2026, abrangendo DPU e seis estados (SP, RJ, MG, BA, DF, PE). Detalha salários iniciais de R$ 26 mil a R$ 30,4 mil para Defensor, requisitos (OAB + 3 anos de prática), estrutura de provas (objetiva, dissertativa, oral, títulos) e disciplinas cobradas (Direito Constitucional, Civil, Processual, Penal, Direitos Humanos, ECA, CDC). Menciona também vagas em carreiras técnicas e administrativas com salários menores. Fornece informações sobre bancas organizadoras em discussão (Cebraspe, FGV, FCC) e cronograma estimado. Conteúdo útil para quem acompanha oportunidades na defensoria, ainda que editais não estejam publicados.
 
